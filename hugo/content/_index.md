@@ -8,69 +8,64 @@ description: Git-backed headless CMS to easily edit all markdown based static si
 authors: []
 blocks:
 hero:
-  headline: A static CMS that **commits**
-  textline: "Give your editors the power of Git.  \nCreate and edit Markdown-based
-    content with ease. "
+  headline: "All your Sales content  \n **in one place**."
+  textline: "No more insane drive folders. \n Search, find, share, and track content everywhere you're working right now."
   ctas:
-  - permalink: https://app.forestry.io/signup
-    textline: Import Your Site Now
-    primary: true
-    button: false
-  - permalink: "/starters/"
-    textline: Select a Starter Template
+  - permalink: "/tour/"
+    textline: Take the Tour
     primary: false
+    button: false
+  - permalink: https://app.contentcamel.io/signup
+    textline: Try for Free
+    primary: true
     button: false
   video:
     fallbackVisual: "/video/fmt-cms-comparison-generic-1.jpg"
     sources:
-    - permalink: "/video/fmt-cms-comparison-generic-1.webm"
-      type: video/webm
-    - permalink: "/video/fmt-cms-comparison-generic-1.mp4"
+    - permalink: "/video/cc-hero1-sales-enablement-chrome-extension.mp4"
       type: video/mp4
-    mobile:
-    - permalink: "/video/fmt-cms-comparison-generic-1-sm.webm"
+    - permalink: "/video/cc-hero1-sales-enablement-chrome-extension.webm"
       type: video/webm
-    - permalink: "/video/fmt-cms-comparison-generic-1-sm.mp4"
+    mobile:
+    - permalink: "/video/cc-hero1-sales-enablement-chrome-extension.webm"
+      type: video/webm
+    - permalink: "/video/cc-hero1-sales-enablement-chrome-extension.mp4"
       type: video/mp4
 logos:
-  headline: Built for static site generators
+  headline: Built for your current marketing and sales stack
   sources:
-  - permalink: img/ssg-logos/gatsby.svg
-    alt: Gatsby
+  - permalink: img/ssg-logos/salesloft.svg
+    alt: Salesloft
     height: '28'
     offset: '0'
-  - permalink: img/ssg-logos/hugo.svg
-    alt: Hugo
+  - permalink: img/ssg-logos/outreach.svg
+    alt: Outreach
     height: '28'
     offset: '0'
-  - permalink: img/ssg-logos/gridsome.svg
-    alt: Gridsome
-    height: '28'
+  - permalink: img/ssg-logos/pipedrive.svg
+    alt: Pipedrive
+    height: '34'
     offset: '0'
-  - permalink: img/ssg-logos/jekyll.svg
-    alt: Jekyll
+  - permalink: img/ssg-logos/salesforce.svg
+    alt: Salesforce
     height: '34'
     offset: "-4"
-  - permalink: img/ssg-logos/11ty.svg
-    alt: 11ty
+  - permalink: img/ssg-logos/hubspot.svg
+    alt: Hubspot
     height: '28'
     offset: '0'
-  - permalink: img/ssg-logos/vuepress.svg
-    alt: Vue Press
-    height: '34'
+  - permalink: img/ssg-logos/drift.svg
+    alt: Drift
+    height: '20'
     offset: "-2"
-  - permalink: img/ssg-logos/hexo.svg
-    alt: Hexo
-    height: '34'
+  - permalink: img/ssg-logos/gmail.svg
+    alt: Gmail
+    height: '28'
     offset: '0'
-  - permalink: img/ssg-logos/nextjs.svg
-    alt: Next.js
-    height: '38'
+  - permalink: img/ssg-logos/outlook.svg
+    alt: Outlook
+    height: '30'
     offset: "-3"
-  - permalink: img/ssg-logos/nuxtjs.svg
-    alt: Nuxt.js
-    height: '24'
-    offset: '1'
 brand_logos:
   headline: Trusted By
   sources:
@@ -94,14 +89,20 @@ brand_logos:
     - permalink: /showcase
       textline: View Showcase
 features:
-- headline: Your site, your workflow
+- headline: "Marketing empowering Sales at every stage"
   textline: |
-    Write front-end code with Gatsby, Hugo, Jekyll  or Vuepress and push to your Git repo. Forestry will pull in your commits and update the CMS.
-
-    Invite your team to create content in a rich UI. Their updates get committed back without merge conflicts.
+    Sales doesn't just magically receive down-funnel leads after sequenced touchpoints from Marketing.
+    
+    You know that now more than ever **buyers are doing their own evaluation** and are dropping into the sales conversation all across your funnel. 
+    
+    So, **meet your buyer where they are** and **put your great content to work with Content Camel**.
+  ctas:
+    - textline: Learn more
+      RelPermalink: "/tour/"
+      button: false
   visual:
-    permalink: "/img/dev-illustration-02.png"
-    alt: Dev workflow
+    permalink: "/img/marketing-old-way-new-way.png"
+    alt: (Gartner) Marketing the New Way
   direction: ltr
   class: section-roots
 - headline: Empower your editors
@@ -110,8 +111,8 @@ features:
 
     Login from your **yoursite.com/admin**. With Forestry Remote, your site will transcend static.
   visual:
-    permalink: "/img/editor-illustration-02.png"
-    alt: Editor friendly interface
+    permalink: "/img/contentcamel-main-sales-enablement-drive.png"
+    alt: Organize drive for Sales Enablement
   direction: rtl
   class: section-sync
 - headline: Your entire team will be making commits

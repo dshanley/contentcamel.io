@@ -1,4 +1,4 @@
-baseurl = "https://forestry.io"
+baseurl = "https://contentcamel.io"
 copyright = ""
 defaultContentLanguage = "en"
 destination = "../dist/"
@@ -12,7 +12,7 @@ pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "monokai"
 relativeURLs = false
-title = "Forestry.io"
+title = "ContentCamel, Inc."
 [blackfriday]
 angledQuotes = false
 hrefTargetBlank = false
