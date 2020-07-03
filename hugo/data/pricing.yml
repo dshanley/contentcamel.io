@@ -1,81 +1,80 @@
 ---
 plans:
-- title: Personal
-  priceAnnually: "0"
-  priceMonthly: "0"
-  description: Invite up to 3 users per website.
-  planIncludes: Up to 3 sites.
+- title: Individual
+  priceAnnually: "13.50"
+  priceMonthly: "15"
+  description: For small teams and individuals.
+  planIncludes: Up to 10 users.
   buttonText: Get started
-  buttonUrl: https://app.forestry.io/signup
+  buttonUrl: https://app.contentcamel.io/signup
   planItems:
-  - text: Git sync
-  - text: Instant Previews
-    info: Quickly preview changes before publishing
-  - text: Forestry Remote
-    info: Install the Forestry CMS on your site (mysite.com/admin)
-  - text: Jekyll custom plugins support
-  - text: Host anywhere
-    info: Netlify, Zeit, AWS, GitHub, GitLab, Render, Buddy Works, it's up to you.
-  - text: Community support
-    info: No priority support, response time may vary
-- title: Starter
-  priceAnnually: "0"
-  priceMonthly: "29"
-  description: Includes your first 5 users, then $9 per additional user.
-  planIncludes: Everything in Personal plus
+  - text: Content management
+    info: Achieve sales success with the right content and relevant guidance. Organize by funnel stage, content type, tags, and more.
+  - text: Buyer engagement
+    info: Deploy content collections and personalized pages for custom campaigns, partner channels, and buyer-oriented content landing pages.
+  - text: Chrome extension
+    info: Rapidly roll out sales enablement to sellers and marketers with our streamlined extension.
+  - text: Engagement and usage analytics
+    info: Easily understand what content is working and who's sharing across your team. Use data to get more money for great content.
+  - text: Sales-Marketing communication
+    info: Track requests with wishlists and understand new content requests.
+  - text: 1GB storage, 100 assets
+  - text: Standard support
+    info: First class support supported by our entire team.
+- title: Business
+  priceAnnually: "22.50"
+  priceMonthly: "25"
+  description: For larger teams focused on branding and personalization.
+  planIncludes: Everything in Individual plus
   buttonText: Get started
-  buttonUrl: https://app.forestry.io/signup
+  buttonUrl: https://app.contentcamel.io/signup
   planItems:
-  - text: 5 sites ($9 per additional site)
-  - text: Organization account
-    info: Manage one group of users across all of your sites and branches
-  - text: Team access controls
-    info: Assign organization members to teams. These teams can be added to sites
-      with admin, developer, or editor access levels
+  - text: Up to 100 users
+  - text: Weekly digest notifications
+    info: Keep your team up to date with weekly announcement of new content and reminders of the current month's performing content.
+  - text: Content audit export
+    info: Track and reveal what content is aging out and run custom reports.
+  - text: Custom branding on URLs and buyer experiences
+    info: Customize the look and feel of share URLs and branding on buyer experience pages
   - text: Business support
     info: Median first response time under 2 hours
-- title: Pro
-  priceAnnually: "0"
-  priceMonthly: "749"
-  description: Include your first 10 users, then $49 per additional user
-  planIncludes: Everything in Starter plus
-  buttonText: Contact us
-  buttonUrl: https://app.hubspot.com/meetings/dan67/forestry-cms
-  planItems:
-  - text: Unlimited sites
-  - text: Custom subdomain
-    info: Access your cloud instance through yourdomain.forestryio
-  - text: Single Sign-on
-    info: Support for major identity providers (IdP) such as SAML, OpenID Connect,
-      etc.
-  - text: SLA
-  - text: Custom session timeout
-  - text: Password Protected Previews
-    info: Only allowed members will be able to access instant previews
-  - text: Audit logs
-    info: A ledger of the actions performed by users in your organization
-  - text: Priority support
-    info: Median time to close issues under 8 hours
+# - title: Pro
+#   priceAnnually: "0"
+#   priceMonthly: "749"
+#   description: Include your first 10 users, then $49 per additional user
+#   planIncludes: Everything in Starter plus
+#   buttonText: Contact us
+#   buttonUrl: https://app.hubspot.com/meetings/dan67/forestry-cms
+#   planItems:
+#   - text: Unlimited sites
+#   - text: Custom subdomain
+#     info: Access your cloud instance through yourdomain.forestryio
+#   - text: Single Sign-on
+#     info: Support for major identity providers (IdP) such as SAML, OpenID Connect,
+#       etc.
+#   - text: SLA
+#   - text: Custom session timeout
+#   - text: Password Protected Previews
+#     info: Only allowed members will be able to access instant previews
+#   - text: Audit logs
+#     info: A ledger of the actions performed by users in your organization
+#   - text: Priority support
+#     info: Median time to close issues under 8 hours
 - title: Enterprise
   priceAnnually: _
-  priceMonthly: _
-  description: ''
-  planIncludes: Everything in Pro plus
+  priceMonthly: Call
+  description: 'Custom plans to support the largest teams.'
+  planIncludes: Everything in Business plus
   buttonText: Contact us
-  buttonUrl: https://app.hubspot.com/meetings/dan67/forestry-cms
+  buttonUrl: https://cal.mixmax.com/shanley/ccenterprise
   planItems:
-  - text: On-premise available
-    info: Run Forestry behind your firewall (optional)
-  - text: Connect to on-premise Git sources
-    info: Support for GitHub Enterprise, GitLab, and Bitbucket Server
-  - text: Live support
-    info: Dedicated Private Slack channel with our engineering team
-  - text: Enterprise-level SLAs
-  - text: Ongoing training
-    info: Training for your editors to help them achieve their content objectives
+  - text: Plans for more than 100 users
+    info: Deploy and scale Content Camel across your enterprise.
+  - text: Custom storage amounts
+  - text: Single sign-on support
+  - text: Enhanced access control
+  - text: Analytics integrations
+    info: stream analytics into Hubspot, Marketo, Pardot, and Salesforce
+  - text: Enhanced SLA
   - text: Dedicated Customer Success Manager
     info: Your single point of contact to help you and your team
-  - text: Architectural advice
-    info: Leverage our experts for setting up deployment, CI/CD, micro-services, etc.
-  - text: Customizations and integrations
-  - text: Custom Legal terms

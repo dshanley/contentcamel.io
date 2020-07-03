@@ -12,7 +12,7 @@ pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "monokai"
 relativeURLs = false
-title = "ContentCamel, Inc."
+title = "Content Camel, Inc."
 [blackfriday]
 angledQuotes = false
 hrefTargetBlank = false
@@ -69,29 +69,47 @@ url = "https://status.forestry.io"
 weight = 6
 [[menu.footer]]
 name = "Company"
-weight = 2
+weight = 3
 [[menu.footer]]
 name = "Product"
+weight = 2
+[[menu.footer]]
+name = "Sales Enablement"
 weight = 1
+[[menu.footer]]
+name = "Highspot alternative"
+parent = "Sales Enablement"
+url = "https://www.contentcamel.io/highspot-competitors"
+weight = 2
+[[menu.footer]]
+name = "Seismic alternative"
+parent = "Sales Enablement"
+url = "https://www.contentcamel.io/alternatives-seismic-competitors"
+weight = 3
+[[menu.footer]]
+name = "Showpad alternative"
+parent = "Sales Enablement"
+url = "https://www.contentcamel.io/showpad-competitors"
+weight = 4
 [[menu.main]]
 identifier = "useraccount"
 name = "My Account"
-url = "https://app.forestry.io/settings"
+url = "https://app.contentcamel.io/"
 weight = 5
 [[menu.main]]
 identifier = "signup"
 name = "Sign up"
-url = "https://app.forestry.io/signup"
+url = "https://app.contentcamel.io/signup"
 weight = 8
 [[menu.main]]
 identifier = "userdashboard"
 name = "Dashboard"
-url = "https://app.forestry.io/dashboard"
+url = "https://app.contentcamel.io/"
 weight = 7
 [[menu.main]]
 identifier = "login"
 name = "Login"
-url = "https://app.forestry.io/login"
+url = "https://app.contentcamel.io/login"
 weight = 6
 [outputFormats.Algolia]
 baseName = "algolia"
@@ -111,7 +129,7 @@ notAlternative = true
 [outputs]
 home = ["HTML", "RSS", "OpenSearch", "Algolia", "Redirects"]
 [params]
-dateformat = "January 2, 2006"
+dateformat = "June 3, 2020"
 description = "Content management system for sites built with static site generators. Get the speed, security, and reliability of static and the power of a Headless CMS."
 ghrepo = "https://github.com/forestryio/forestry.io"
 ghrepo_edit = "https://github.com/forestryio/forestry.io/edit/master/hugo/content/"
@@ -165,9 +183,9 @@ name = "date"
 pattern = "2006"
 weight = 10
 [social]
-email = "support@forestry.io"
+email = "support@contentcamel.io"
 slack = "https://join.slack.com/t/forestry-community/shared_invite/enQtNDAxMTU5NzcwMzA3LTY1MzM2YTZhN2Q2ZjkyMjk2ZmNhM2Y2ODIwYmU5YWRiNDYwMWRjNzhlOWJiMTg2NDc2ZWNlNjljOTNiNDZiZDk"
-twitter = "forestryio"
+twitter = ""
 [taxonomies]
 author = "authors"
 category = "categories"

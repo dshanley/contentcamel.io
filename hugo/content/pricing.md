@@ -3,36 +3,25 @@ title: Pricing
 aliases:
 - "/plans/"
 type: pricing
-weight: 1
-publishdate: 2017-12-31T04:00:00.000+00:00
+weight: 3
+publishdate: 2019-12-31T04:00:00.000+00:00
 expirydate: 2030-01-01T04:00:00.000+00:00
 date: 2020-03-23
 faqs:
-- headline: Do you support all static site generators?
-  textline: Forestry is able to edit Markdown, JSON, YAML and TOML files, no matter
-    your SSG of choice.
-- headline: Can I use the free plan for commercial use?
-  textline: Yes, we only bill based on number of users contributing to a site, you
-    get 3 collaborators for free.
-- headline: Do you offer non-profit discounts?
-  textline: Our free plan should be enough for small non-profits. If you need more
-    than three collaborators, and you’re part of a 501©(3) non-profit organization,
-    please <a href="mailto:dan@forestry.io">email us</a> your paperwork, and we’ll
-    verify your status before reaching out about any custom plans.
-- headline: Do I need to configure my project?
-  textline: You can use a pre-configured starter or import your repository, point
-    to your content and you'll get a custom CMS. Define your <a href="/docs/settings/content-sections/">custom
-    sections</a> and your <a href="/docs/settings/front-matter-templates/">front matter
-    templates</a> and you're good to go!
-- headline: What is a User?
-  textline: A _User_ refers to people in your Organization who have access to your
-    sites and who are assigned a specific role (only available on paid plans).
-- textline: <a href="/docs/editing/remote-admin/" title="">Forestry Remote</a> allows
-    you to install the Forestry CMS on your site (mysite.com/admin) via a single html
-    file. No updates required
-  headline: What is Forestry Remote?
+- headline: Is there a setup fee?
+  textline: No. Unlike some enterprise competitors, there are no setup fees on any of our plans.
+- headline: Do I need to enter payment details to sign up?
+  textline: Nope. You can sign up and use Content Camel for 14 days without entering your payment details. At the end of your trial, or when you decide to go live with Content Camel, you will need to pick a plan and enter your payment details.
+- headline: Can I cancel my account at any time?
+  textline: Yes. If you ever decide that Content Camel isn’t the best platform for your business, simply cancel your account. We don't lock you into annual or multi-year plans.
+- headline: How long are your contracts?
+  textline: All Content Camel plans are month to month unless you sign up for a discounted annual plan.
+- headline: Do you offer any discounted plans?
+  textline: Yes, we offer a 10% discount on annual plans when they are paid upfront.
+- headline: Can I change my plan later on?
+  textline: Absolutely! You can upgrade or downgrade your plan at any time.
 headline: ''
-description: From free to Enterprise, pick up the plan that fits your needs.
+description: From Individual to Enterprise, pick up the plan that fits your needs.
 textline: ''
 images: []
 authors: []
@@ -48,6 +37,6 @@ menu:
     parent: Product
     weight: 1
   main:
-    weight: 1
+    weight: 3
 
 ---

@@ -1,14 +1,14 @@
 <section class="section section-cta center">
   <div class="container">
-    <h2 class="section--title">{{ .headline | default "Build amazing sites" }}</h2>
-    <p class="section--sub is-center">{{ .textline | default "We have the tools for editors to manage your content." }}</p>
+    <h2 class="section--title">{{ .headline | default "Wrangle your content. Drop the Drive." }}</h2>
+    <p class="section--sub is-center">{{ .textline | default "Bring your content together in one place, enable your sales team to have better conversations with prospects, prove the impact of content marketing and close more deals." }}</p>
     <br><br>
     {{- with .ctas -}}
       {{- range . -}}
       <a href="{{ .RelPermalink }}"{{ if .button }} class="button primary big"{{ end }}>{{ .textline }}</a>
       {{- end -}}
     {{- else -}}
-      <a href="https://forestry.io/starters" class="button primary">Get started for free</a>
+      <a href="https://app.contentcamel.io/signup" class="button primary">Get started for free</a>
       <!-- <a href="/docs/quickstart/tour/">Launch Demo</a> -->
     {{- end -}}
   </div>

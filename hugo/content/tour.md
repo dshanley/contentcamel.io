@@ -1,8 +1,8 @@
 ---
 aliases:
-- "/remote/"
-title: Sales Enablement Software | More Value for $ | Content Camel
-description: Sales content management and sales enablement software. Explore best practices and getting the most from your marketing and sales content.
+- "/features/"
+title: Sales Content Management Software | Content Camel
+description: Content Camel features and sales enablement software tour.
 authors: []
 blocks:
 hero:

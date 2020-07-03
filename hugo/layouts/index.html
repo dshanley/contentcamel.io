@@ -15,8 +15,8 @@
     {{ end */}}
   {{- end -}}
 
-  {{- $tweets := first 2 $.Site.Data.testimonials.tweets -}}
-  {{- partial "components/tweets" (dict "pg" $ "tweets" $tweets) -}}
+  <!-- {{- $tweets := first 2 $.Site.Data.testimonials.tweets -}}
+  {{- partial "components/tweets" (dict "pg" $ "tweets" $tweets) -}} -->
 
   {{- with .Params.cta -}}
     {{- partial "components/cta/basic" . -}}
