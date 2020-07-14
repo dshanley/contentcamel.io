@@ -38,7 +38,7 @@ features:
   textline: |
     |  | Content Camel | Highspot |
     | --- | --- | --- | 
-    | Free trial | **✓** | x | 
+    | [Free trial](https://app.contentcamel.io/signup) | **✓** | x | 
     | Pricing | **$15/user/month<br/> ($162/user/year)** | $600/user/year<br/> (annual only!) |
     | Setup fee | **None** | Yes |
     | [Content Management](/tour#everything-you-need-for-sales-enablement-success) | **✓** | ✓ |

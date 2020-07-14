@@ -38,7 +38,7 @@ features:
   textline: |
     |  | Content Camel | Bigtincan |
     | --- | --- | --- | 
-    | Free trial | **✓** | x | 
+    | [Free trial](https://app.contentcamel.io/signup) | **✓** | x | 
     | Pricing | **$15/user/month<br/> ($162/user/year)** | $360-600/user/year<br/> (annual only!) |
     | [Content Management](/tour#everything-you-need-for-sales-enablement-success) | **✓** | ✓ |
     | [Content Experiences](/tour#unlock-personalized-sales-content) | **✓** | Internal content for training |
