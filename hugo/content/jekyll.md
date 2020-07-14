@@ -7,7 +7,7 @@ authors:
 - forestryio
 blocks: 
 hero:
-  headline: A Jekyll CMS that **commits**
+  headline: A Jekyll11 CMS that **commits**
   textline: Forestry takes Git-powered Content Management to Jekyll Sites. Easily
     update, build and deploy sites in Forestry. [Learn More](#everything-you-need-for-great-content-management)
   ctas:

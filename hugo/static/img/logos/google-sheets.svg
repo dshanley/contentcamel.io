@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="482px" height="610px" viewBox="0 0 482 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>google-sheets</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="google-sheets">
+            <path d="M387.5,563 L62.5,563 C41.7893219,563 25,546.210678 25,525.5 L25,75.5 C25,54.7893219 41.7893219,38 62.5,38 L300,38 L425,163 L425,525.5 C425,546.210678 408.210678,563 387.5,563 Z" id="Path" fill="#43A047" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#C8E6C9" fill-rule="nonzero" points="425 163 300 163 300 38"></polygon>
+            <polygon id="Path" fill="#2E7D32" fill-rule="nonzero" points="300 163 425 288 425 163"></polygon>
+            <path d="M312.5,288 L112.5,288 L112.5,463 L337.5,463 L337.5,288 L312.5,288 Z M137.5,313 L187.5,313 L187.5,338 L137.5,338 L137.5,313 Z M137.5,363 L187.5,363 L187.5,388 L137.5,388 L137.5,363 Z M137.5,413 L187.5,413 L187.5,438 L137.5,438 L137.5,413 Z M312.5,438 L212.5,438 L212.5,413 L312.5,413 L312.5,438 Z M312.5,388 L212.5,388 L212.5,363 L312.5,363 L312.5,388 Z M312.5,338 L212.5,338 L212.5,313 L312.5,313 L312.5,338 Z" id="Shape" fill="#E8F5E9" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#FFFFFF" style="mix-blend-mode: color;" x="0" y="0" width="482" height="610"></rect>
+        </g>
+    </g>
+</svg>

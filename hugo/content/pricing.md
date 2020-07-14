@@ -35,7 +35,7 @@ private: false
 menu:
   footer:
     parent: Product
-    weight: 1
+    weight: 2
   main:
     weight: 3
 

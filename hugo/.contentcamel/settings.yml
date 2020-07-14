@@ -18,11 +18,18 @@ sections:
   match: "**/*"
 - type: directory
   path: hugo/content/showcase
-  label: Showcase2
+  label: Showcase
   create: all
   match: "**/*"
   templates:
   - showcase
+- type: document
+  path: hugo/content/tour
+  label: Tour
+  create: all
+  match: "**/*"
+  templates:
+  - tour
 - type: directory
   path: hugo/content/blog
   label: Blog

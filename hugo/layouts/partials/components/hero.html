@@ -13,9 +13,10 @@
         </div>
       </div>
     </div>
-
     {{- if .visual -}}
-      {{/* TODO: hero visual */}}
+      {{- with .visual -}}
+        <img src="{{ .permalink }}"  />
+      {{- end -}}
     {{- else if .video -}}{{- with .video -}}
     <video playsinline autoplay muted loop poster="{{ .fallbackVisual }}" class="factory-video desktop-only {{ .class }}">
         {{- range .sources -}}

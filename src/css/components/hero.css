@@ -9,6 +9,11 @@
   position: relative;
   z-index: 1;
 
+  ul,
+  li {
+    list-style: disc;
+  }
+
   @media screen and (min-width: 48em) {
     min-height: 100vh;
   }
@@ -20,6 +25,15 @@
     @media screen and (min-width: 1200px) {
       padding: 80px 0 100px;
     }
+  }
+
+  .hero--text-center {
+    padding: 9rem 0 0;
+    text-align: center;
+
+    /* @media screen and (min-width: 1200px) {
+      padding: 80px 0 100px;
+    } */
   }
 
   .hero--title {
@@ -37,6 +51,13 @@
     font-weight: 500;
     margin-top: 2rem;
     max-width: 460px;
+    opacity: 0.8;
+  }
+
+  .hero--sub-center {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-top: 4rem 2rem 0 2rem;
     opacity: 0.8;
   }
 
@@ -62,6 +83,12 @@
 
 .hero--content {
   margin-top: -5rem;
+  position: relative;
+  width: 100%;
+}
+
+.hero--content--extra {
+  margin-top: -2rem;
   position: relative;
   width: 100%;
 }
@@ -112,6 +139,55 @@
 
   @media screen and (min-width: 1400px) {
     width: 60%;
+  }
+}
+
+.factory-image {
+  height: auto;
+  left: 50%;
+  max-width: none;
+  pointer-events: none;
+  position: absolute;
+  right: auto;
+  top: 100%;
+  transform: translate(-50%, 0);
+  width: 110%;
+  z-index: -10;
+
+  @media screen and (min-width: 600px) {
+    left: 50%;
+    top: 95%;
+    width: 80%;
+  }
+
+  @media screen and (min-width: 820px) {
+    left: 50%;
+    top: 95%;
+    width: 60%;
+  }
+
+  @media screen and (min-width: 1000px) {
+    top: 95%;
+  }
+
+  @media screen and (min-width: 1100px) {
+    top: 95%;
+  }
+
+  @media screen and (min-width: 1200px) {
+    left: auto;
+    right: 0;
+    top: 45%;
+    transform: translate(0, -45%);
+    width: 45%;
+  }
+
+  @media screen and (min-width: 1300px) {
+    width: 45%;
+  }
+
+  @media screen and (min-width: 1400px) {
+    width: 50%;
   }
 }
 

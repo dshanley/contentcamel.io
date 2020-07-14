@@ -6,13 +6,25 @@
 {{- define "main" -}}
 <div id="root"></div>
 <div id="modal-root"></div>
-  {{- partial "components/hero" .Params.hero }}
+  {{- partial "components/hero-image" .Params.hero }}
   {{- range .Params.features -}}
     {{- partial "components/feature" (dict "pg" $ "feature" .) -}}
   {{- end -}}
 
-  {{- $tweets := first 2 $.Site.Data.testimonials.tweets -}}
-  {{- partial "components/tweets" (dict "pg" $ "tweets" $tweets) -}}
+  <!-- {{- $tweets := first 2 $.Site.Data.testimonials.tweets -}}
+  {{- partial "components/tweets" (dict "pg" $ "tweets" $tweets) -}} -->
+
+  {{- with .Params.faqs -}}
+  <section class="section faq">
+    <div class="container">
+    {{- range . -}}
+      {{- if and .headline .textline -}}
+        {{- partial "components/faq" (dict "headline" .headline "textline" .textline) -}}
+      {{- end -}}
+    {{- end -}}
+    </div>
+  </section>
+  {{- end -}}
 
   {{- with .Params.cta -}}
     {{- partial "components/cta/quick" . -}}

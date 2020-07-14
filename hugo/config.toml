@@ -129,7 +129,7 @@ notAlternative = true
 [outputs]
 home = ["HTML", "RSS", "OpenSearch", "Algolia", "Redirects"]
 [params]
-dateformat = "June 3, 2020"
+dateformat = "June 3, 2006"
 description = "Content management system for sites built with static site generators. Get the speed, security, and reliability of static and the power of a Headless CMS."
 ghrepo = "https://github.com/forestryio/forestry.io"
 ghrepo_edit = "https://github.com/forestryio/forestry.io/edit/master/hugo/content/"
