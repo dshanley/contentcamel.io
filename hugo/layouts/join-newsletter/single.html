@@ -1,0 +1,23 @@
+{{- define "main" -}}
+  <main class="contact-wrapper">
+    <div class="container">
+      <section class="contact-header">
+        <div class="contact-header--sticky">
+          <h2>Get best practices</h2>
+          <form action="https://formspree.io/xoqkplkr" method="POST" class="form--large form--stacked" data-message="Thanks for joining! We will shoot you the next issue when we publish it.">
+            <input type="email" name="email" placeholder="Email" required>
+            <button type="submit" name="submit" class="button primary">Join</button>
+          </form>
+        </div>
+      </section>
+      <section class="section section-contact md-content">
+        <h1>{{ .Params.headline | default .Title }}</h1>
+          {{- if .Content -}}
+            {{ .Content }}
+          {{- else -}}
+            {{ markdownify .Params.textline }}
+          {{- end -}}
+      </section>
+    </div>
+  </main>
+{{- end -}}

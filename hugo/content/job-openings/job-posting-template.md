@@ -15,7 +15,7 @@ cta:
   headline: ''
   textline: ''
   calls_to_action: []
-private: false
+private: true
 weight: 
 aliases: []
 menu: []

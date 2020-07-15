@@ -8,12 +8,13 @@
       <a href="{{ .RelPermalink }}"{{ if .button }} class="button primary big"{{ end }}>{{ .textline }}</a>
       {{- end -}}
     {{- else -}}
-    <form action="https://www.getrevue.co/profile/forestryio/add_subscriber" method="post" name="revue-form" target="_blank">
+    <form action="https://formspree.io/xoqkplkr" method="POST" class="form--large form--stacked" data-message="Thanks for joining! We will shoot you the next issue when we publish it.">
       <div class="newsletter-signup--field form--joined">
-        <input class="revue-form-field" placeholder="your.name@example.com" type="email" name="member[email]">
-        <button type="submit" value="Subscribe" name="member[subscribe]" class="button primary small">Subscribe</button>
+      <input type="email" name="email" placeholder="Email" required>
+      <button type="submit" name="submit" value="Subscribe" class="button primary small">Subscribe</button>
       </div>
     </form>
+    
     {{- end -}}
 </div>
 

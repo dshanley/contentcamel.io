@@ -18,55 +18,19 @@ angledQuotes = false
 hrefTargetBlank = false
 latexDashes = true
 plainIDAnchors = true
-[[menu.docs]]
-name = "Pro"
-weight = 12
-[[menu.docs]]
-name = "Other"
-weight = 11
-[[menu.docs]]
-name = "Developer Guides"
-weight = 10
-[[menu.docs]]
-name = "Hosting"
-weight = 9
-[[menu.docs]]
-name = "Previews"
-weight = 8
-[[menu.docs]]
-name = "Organizations"
-weight = 7
-[[menu.docs]]
-name = "Settings & Configuration"
-weight = 6
-[[menu.docs]]
-name = "Media"
-weight = 5
-[[menu.docs]]
-name = "Git Sync"
-weight = 3
-[[menu.docs]]
-name = "Editing"
-weight = 4
-[[menu.docs]]
-name = "Quick Start"
-weight = 2
-[[menu.docs]]
-name = "Welcome"
-weight = 1
 [[menu.faqs]]
 name = "Glossary"
 weight = 2
 [[menu.footer]]
-name = "Roadmap"
+name = "Docs"
 parent = "Product"
-url = "https://portal.productboard.com/forestry/"
-weight = 7
-[[menu.footer]]
-name = "Status"
-parent = "Product"
-url = "https://status.forestry.io"
+url = "https://learn.contentcamel.io/"
 weight = 6
+[[menu.footer]]
+name = "Get started"
+parent = "Product"
+url = "https://app.contentcamel.io/signup"
+weight = 7
 [[menu.footer]]
 name = "Company"
 weight = 3
@@ -194,7 +158,7 @@ pattern = "2006"
 weight = 10
 [social]
 email = "support@contentcamel.io"
-slack = "https://join.slack.com/t/forestry-community/shared_invite/enQtNDAxMTU5NzcwMzA3LTY1MzM2YTZhN2Q2ZjkyMjk2ZmNhM2Y2ODIwYmU5YWRiNDYwMWRjNzhlOWJiMTg2NDc2ZWNlNjljOTNiNDZiZDk"
+newsletter = "/join-newsletter"
 twitter = ""
 [taxonomies]
 author = "authors"

@@ -34,9 +34,11 @@
     flex: 0 0 50%;
     height: auto;
     order: 0;
+    background-size: contain;
   }
   @media screen and (min-width: 1200px) {
     flex: 0 0 37.5%;
+    background-size: contain;
   }
 }
 

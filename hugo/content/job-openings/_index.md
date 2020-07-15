@@ -1,20 +1,20 @@
 ---
-headline: Job Openings at Forestry.io
-title: Job Openings at Forestry.io
+headline: Job Openings at Content Camel
+title: Job Openings at Content Camel
 publishdate: 2017-12-31T04:00:00.000+00:00
 expirydate: 2030-01-01T04:00:00.000+00:00
 date: 2017-12-31T04:00:00.000+00:00
-description: Looking for a job with creative freedom, autonomy, challenging work and great peers? Look no further!
+description: Looking for a job with creative freedom, autonomy, challenging work, experienced leadership and helpful peers? Look no further!
 textline: ''
 images: []
 authors: []
 categories: []
 tags: []
 cta:
-  headline: Unfortunately, we don't currently have any job openings.
-  textline: But if you'd still like to express interest in working with us,
+  headline: Don't see an opening that matches your skillset?
+  textline: If you'd still like to express interest in working with us,
   ctas:
-    - RelPermalink: "mailto:careers@forestry.io"
+    - RelPermalink: "mailto:careers@contentcamel.io"
       textline: "Shoot us a note"
       primary: true
       button: true
@@ -23,7 +23,7 @@ weight:
 aliases: []
 photo_credit: ''
 ---
-Read more about [working at Forestry.io](https://forestry.io/careers).
+Read more about [working at Content Camel](https://contentcamel.io/careers).
 
 <br/>
 
@@ -31,14 +31,14 @@ Read more about [working at Forestry.io](https://forestry.io/careers).
 
 <br/>
 
-We invite interested candidates to contact [careers@forestry.io](mailto:careers@forestry.io) and include your:
+We invite you to reach out to us at [careers@contentcamel.io](mailto:careers@contentcamel.io) and include your:
 
 \
 \
 
 * – Resume/CV
-* – Cover Letter
-* – LinkedIn, GitHub or other relevant social accounts that describe your professional experience
+* – Brief cover letter / note
+* – LinkedIn, GitHub accounts that describe your professional experience
 * – Links to your personal website, blog or portfolios, if available and applicable
 
 <!--more-->

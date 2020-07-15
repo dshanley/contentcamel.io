@@ -1,7 +1,7 @@
 ---
 publishDate: 2017-05-17 14:13:32 +0000
 expirydate: 2030-01-01 04:00:00 +0000
-description: Forestry.io is looking for a Maritime-based Growth Marketer to join the
+description: Content Camel is looking for a Growth Marketer to join the
   team.
 title: Growth Marketer
 date: 2017-05-17 11:13:32 -0300
@@ -22,13 +22,13 @@ aliases: []
 draft: true
 
 ---
-### About Forestry.io
+### About Content Camel
 
-Forestry.io is a content management system (CMS) built for the next generation of the web. We're taking a new approach by supporting modern web-development tools like Git, Hugo and Jekyll. Forestry.io is a small team, led by engineers, and based in Charlottetown, Prince Edward Island. We're looking for a Full-stack Developer who wants to build a truly world-class CMS, and we invite interested candidates to find out more about us at [Forestry.io](https://forestry.io).
+Content Camel is a content management system (CMS) built for the next generation of the web. We're taking a new approach by supporting modern web-development tools like Git, Hugo and Jekyll. Content Camel is a small team, led by engineers, and based in Charlottetown, Prince Edward Island. We're looking for a Full-stack Developer who wants to build a truly world-class CMS, and we invite interested candidates to find out more about us at [Content Camel](https://contentcamel.io).
 
 ### Position
 
-Forestry.io is looking for a Growth Marketer to join the team. As a developer-centric product, we're looking for someone who understands developers. The ideal candidate will work with the leadership team to develop and implement a marketing strategy.
+Content Camel is looking for a Growth Marketer to join the team. As a developer-centric product, we're looking for someone who understands developers. The ideal candidate will work with the leadership team to develop and implement a marketing strategy.
 
 ### Work Culture
 
@@ -36,8 +36,8 @@ You are a growth strategist probably known as being a bit geeky: analytical, dat
 
 ### Responsibilities
 
-* Work with leadership, other executive stakeholders, and the Forestry.io team to establish growth strategies to support Forestry.io's revenue goals.
-* Analyze all aspects of Forestry.io's conversion funnel and identify the largest areas for improvement and implement strategies to capitalize on these opportunities.
+* Work with leadership, other executive stakeholders, and the Content Camel team to establish growth strategies to support Content Camel's revenue goals.
+* Analyze all aspects of Content Camel's conversion funnel and identify the largest areas for improvement and implement strategies to capitalize on these opportunities.
 * 
 
 ### Qualifications
@@ -56,7 +56,7 @@ Additionally, a commission-based compensation program based on key metrics (acqu
 
 ### How to apply
 
-Please submit a resumé, cover letter and responses to the questions below as one single PDF to [careers@forestry.io](mailto:careers@forestry.io).
+Please submit a resumé, cover letter and responses to the questions below as one single PDF to [careers@contentcamel.io](mailto:careers@contentcamel.io).
 
 Included in your application's PDF, please answer the following questions in 500 words or less (total):
 
@@ -65,7 +65,7 @@ Included in your application's PDF, please answer the following questions in 500
 
 ### Additional Information
 
-Forestry.io began in early 2016 and since then the team has:
+Content Camel began in early 2016 and since then the team has:
 
 * Built a novel product that went viral on Hacker News and Product Hunt
 * Acquired thousands of users from around the world

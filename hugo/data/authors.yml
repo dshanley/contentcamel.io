@@ -1,111 +1,23 @@
 ---
 map:
-  Content Camel Team: cc-team
+  Content Camel Team: content-camel-team
   Dave Shanley: dave-shanley
 authors:
-- avatar: "/uploads/2018/11/nolan.jpg"
+- avatar: "/uploads/2019/12/headshot-shanley.jpg"
   bio: ''
   firstName: Dave
   fullName: Dave Shanley
-  shortBio: ''
+  shortBio: |
+    CEO and founder of <a href=''https://contentcamel.io'' title=''Content Camel''>Content Camel</a>. Previously, VP PMM Jama Software, CEO/founder Notion Data, CTO/founder CrowdCompass. Go to market team sport enthusiast. Sailor.
   twitter: dshanley
-  title: 'CEO & founder'
-- avatar: "/img/forestry-pos-symbol.svg"
+  title: CEO & Founder
+- avatar: "/img/logo-content-camel-symbol.svg"
   bio: |
-    Forestry.io is a Git-based CMS (content management system) for websites and web products built using static site generators. Forestry bridges the gap between developers and their teams, by making development fun and easy, while providing powerful content management for their teams.
+    Content Camel is a sales enablement and marketing collateral management tool to help teams make the most of their content. Content Camel helps go to market teams use the right content at the right time, accerlate sales cycles, and help in the buyer-drive self-service sales cycle. 
 
-    Forestry powers static sites generated using [Jekyll](https://jekyllrb.org) and [Hugo](https://gohugo.io) and manages them using Git.
-  firstName: Forestry.io
-  fullName: Forestry Team
+    Content Camel is an alternative to heavyweight, expensive sales enablement solutions and is designed to be easy to get started, easy to rollout, and easy to adopt.
+  firstName: Content Camel
+  fullName: Content Camel Team
   shortBio: ''
-  twitter: forestryio
-  title: "Static Site Ethusiasts \U0001F332"
-- avatar: "/uploads/2017/12/Scott_Gallant_square.png"
-  bio: ''
-  firstName: Scott
-  fullName: Scott Gallant
-  lastName: Gallant
-  shortBio: ''
-  twitter: scottgallant
-  title: CEO & co-founder
-- avatar: "/uploads/2018/01/avatar_400x400.jpeg"
-  bio: ''
-  firstName: Jordan
-  lastName: Patterson
-  fullName: Jordan Patterson
-  shortBio: 'CTO and Co-founder of <a href=''https://forestry.io'' title=''Forestry.io
-    CMS''>Forestry.io</a>. Backend developer, systems guy, father, builder of houses
-
-'
-  twitter: jpatterson
-  title: CTO and co-founder
-- avatar: "/uploads/2017/12/AAEAAQAAAAAAAAaSAAAAJGJjNjM0NjAzLTVmZjMtNGNlZC1iZmNhLThhNGZmMWE4ODEwNQ-1-1.jpg"
-  bio: ''
-  firstName: Chris
-  fullName: Chris Macrae
-  lastName: Macrae
-  shortBio: ''
-  twitter: chrisdmacrae
-  title: Community Writer
-- avatar: "/uploads/2018/01/nInv8bTI_400x400.jpg"
-  bio: ''
-  firstName: Michael
-  lastName: Soolee
-  fullName: Michael Soolee
-  shortBio: "Michael is the author of the upcoming book, [Field Guide to Jekyll](https://michaelsoolee.com/jekyll-field-guide/),\na
-    step by step guide to building websites with Jekyll. \nYou can find him on Twitter
-    as [@michaelsoolee](https://twitter.com/michaelsoolee).\n"
-  twitter: michaelsoolee
-  title: Author, Jekyll Developer
-- avatar: "/uploads/2017/12/colin-garvey.jpg"
-  bio: ''
-  firstName: Colin
-  lastName: Garvey
-  fullName: Colin Garvey
-  shortBio: 'Marketer. Media Buyer. Open Source Developer.
-
-'
-  twitter: desiredpersona
-  title: Marketing & Developer
-- avatar: ''
-  firstName: Matt
-  fullName: Matt Duffy
-  twitter: ''
-  title: Developer
-  lastName: Duffy
-  bio: ''
-  shortBio: ''
-- avatar: "/uploads/2018/03/Sebastian.jpg"
-  bio: ''
-  firstName: Sebastian
-  fullName: Sebastian Engels
-  lastName: Engels
-  shortBio: ''
-  twitter: ''
-  title: Head of Marketing & Growth
-- avatar: "/uploads/2018/03/DJ.jpg"
-  bio: ''
-  firstName: DJ
-  fullName: DJ Walker
-  lastName: Walker
-  shortBio: Musician who writes code to avoid disappointing his parents
-  twitter: wordsaboutcode
-  title: Developer Relations
-- avatar: "/uploads/2018/04/regis-philibert.png"
-  firstName: Régis
-  fullName: Régis Philibert
-  shortBio: I code websites from Montréal. Can’t stop talking about Hugo. Try and
-    stop me.
-  twitter: regisphilibert
-  title: Hugo Evangelist
-  lastName: Philibert
-  bio: ''
-- avatar: "/uploads/2018/07/jdzielak.jpg"
-  firstName: Josh
-  lastName: Dzielak
-  fullName: Josh Dzielak
-  shortBio: Developer advocate and indie hacker. Blogs at [dzello.com](https://dzello.com/blog/).
-    Formerly Algolia and Keen IO. American living in Paris.
-  twitter: dzello
-  title: Community Writer
-  bio: ''
+  twitter: 
+  title: "Content Champions"

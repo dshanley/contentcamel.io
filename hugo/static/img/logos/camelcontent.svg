@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="285px" height="54px" viewBox="0 0 285 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(11.000000, 3.000000)" fill="#333E43" fill-rule="nonzero">
+            <g id="email" transform="translate(0.000000, 7.000000)">
+                <path d="M57.9,6.84 L57.9,33.71 C57.9049306,33.7865874 57.9049306,33.8634126 57.9,33.94 L41.45,19.28 L57.9,6.84 Z M19.81,18 L25.39,22.22 C27.5273969,23.8300217 30.4726031,23.8300217 32.61,22.22 L38.19,18 L38.19,18 L57.24,3.6 C56.2166504,1.59716487 54.1591264,0.334856539 51.91,0.33 L6.09,0.33 C3.84087362,0.334856539 1.78334965,1.59716487 0.76,3.6 L19.81,18 Z M0.1,6.84 L0.1,33.71 C0.0950693948,33.7865874 0.0950693948,33.8634126 0.1,33.94 L16.55,19.28 L0.1,6.84 Z M34.42,24.59 C31.2118798,27.010058 26.7881202,27.010058 23.58,24.59 L19,21.12 L1.13,37.05 C2.2515747,38.7093653 4.12716965,39.6996795 6.13,39.6900703 L51.91,39.6900703 C53.9128303,39.6996795 55.7884253,38.7093653 56.91,37.05 L39,21.12 L34.42,24.59 Z" id="Shape"></path>
+            </g>
+            <text id="content" font-family="PTSans-Bold, PT Sans" font-size="36" font-weight="bold" letter-spacing="-1">
+                <tspan x="153" y="37">content</tspan>
+            </text>
+            <text id="camel" font-family="PTSans-Regular, PT Sans" font-size="36" font-weight="normal" letter-spacing="-1">
+                <tspan x="66" y="37">camel</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
