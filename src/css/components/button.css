@@ -59,7 +59,7 @@
     font-size: 11px;
     padding: 0.25rem;
     &.rounded {
-      border-radius: 1rem;
+      border-radius: 0.25rem;
     }
   }
 
@@ -67,14 +67,14 @@
     font-size: 14px;
     padding: 0.5rem 1.25rem;
     &.rounded {
-      border-radius: 1.5rem;
+      border-radius: 0.25rem;
     }
   }
 
   &.big {
     padding: 1.25rem 2rem;
     &.rounded {
-      border-radius: 1.5rem;
+      border-radius: 0.25rem;
     }
   }
 }

@@ -55,7 +55,7 @@
 
     .button {
       border: 1px solid $color-brand;
-      border-radius: 0 1.5em 1.5em 0;
+      border-radius: 0 0.5em 0.5em 0;
     }
   }
 }

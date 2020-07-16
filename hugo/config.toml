@@ -13,6 +13,8 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "monokai"
 relativeURLs = false
 title = "Content Camel, Inc."
+[markup]
+defaultMarkdownHandler = "blackfriday"
 [blackfriday]
 angledQuotes = false
 hrefTargetBlank = false
@@ -103,7 +105,7 @@ notAlternative = true
 [outputs]
 home = ["HTML", "RSS", "OpenSearch", "Algolia", "Redirects"]
 [params]
-dateformat = "June 3, 2006"
+dateformat = "January 2, 2006"
 description = "Content management system for sites built with static site generators. Get the speed, security, and reliability of static and the power of a Headless CMS."
 ghrepo = "https://github.com/forestryio/forestry.io"
 ghrepo_edit = "https://github.com/forestryio/forestry.io/edit/master/hugo/content/"
