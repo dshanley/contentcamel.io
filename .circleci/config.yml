@@ -4,7 +4,7 @@ version: 2
 jobs:
   build:
     docker:
-    - image: forestryio/build-images:forestry-io
+    - image: forestryio/build-images:contentcamel-io
       auth:
         username: $DOCKER_USER
         password: $DOCKER_PASS
