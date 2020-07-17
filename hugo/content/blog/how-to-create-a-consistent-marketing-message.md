@@ -11,20 +11,23 @@ headline: ''
 images:
 - "/uploads/2020/01/hero-marketing-messaging-framework.png"
 categories: []
-tags: []
+tags: ['template']
 cta:
-  headline: ''
-  textline: ''
-  calls_to_action: []
+  headline: 'Get the editable template'
+  textline: 'Discover and improve your messaging with this completely editable template'
+  ctas:
+    - textline: Get template
+      RelPermalink: '/downloads/marketing-messaging-template'
+      button: true
 private: false
 weight: ''
 aliases: []
-draft: true
+draft: false
 
 ---
 # How to Create a Consistent Marketing Message
 
-If you want a consistent and repeatable message across all of your teams and no surprises when you open up that next ebook or sales deck, then you’re going to want to follow the framework here. Yes, there are different types of marketing messages, and just so you know, this isn’t a brand guideline. This is the foundation for your product and marketing messaging that you’ll use on a daily basis -- from short copy on your homepage to creating ads. It starts with a  persona-based approach to build that marketing messaging foundation, and gives you the tools to expand out once that’s in place. 
+If you want a consistent and repeatable message across all of your teams and no surprises when you open up that next ebook or sales deck, then we have the framework for you! Yes, there are different types of marketing messages, and just so you know, this isn’t a brand guideline. This is the foundation for your product and marketing messaging that you’ll use on a daily basis -- from short copy on your homepage to creating ads. It starts with a  persona-based approach to build that marketing messaging foundation, and gives you the tools to expand out once that’s in place. 
 
 ![](/uploads/2020/01/messaging-framework-audience-hierarchy.png)
 
@@ -38,7 +41,7 @@ Build **repeatable messaging** taking those key emotions and that empathy as **g
 
 Messaging is easy, right? No. And Yes. Well, messages and marketing messaging can come naturally to some writers and marketers, but, I’m sure you’ve noticed that it can be really, really hard developing a consistent message -- something that an entire team can ramp up on and use on a daily basis to get their work done. Staying “on message” when it’s just you or one person writing is one thing, but when you start to scale up your teams (are you working with contract writers or agencies?) the wheels can come off the bus really fast. 
 
-Maybe you’ve already experienced this, but here’s what can go wrong if you don’t write down your messaging strategy and enable your teams to build off of that work:
+Maybe you’ve already experienced this, but **here’s what can go wrong** if you don’t write down your messaging strategy and enable your teams to build off of that work:
 
 * **Gatekeeper mode**: Your teams slow down and can’t make decisions, because all the messaging is single threaded through you (or someone).
 
@@ -98,7 +101,7 @@ Start with a brief persona profile to get everyone on the team on the same page.
 
 * Affinity Groups -- Where does this person hang out? Online? Offline? Are there trade associations they’d belong to or other professional groups?
 
-[Grab the PDF Guide and Spreadsheet Template here →](/download-marketing-messaging-template)
+[Grab the PDF Guide and Spreadsheet Template here →](/downloads/marketing-messaging-template)
 
 ## How to craft messaging that converts
 
@@ -198,7 +201,7 @@ Avoiding frustrations, gaining the persona’s wants and logical stats all rolle
 
 **Ready to get started on your own revamp of your messaging?**
 
-[Grab the PDF Guide and Spreadsheet Template here →](/download-marketing-messaging-template)
+[Grab the PDF Guide and Spreadsheet Template here →](/downloads/marketing-messaging-template)
 
 ## Improving your Sales Enablement with Better Messaging
 
@@ -208,6 +211,6 @@ You can also include this information as you hand off assets to Sales. As market
 
 ![](/uploads/2020/01/content-camel-positioning-content-detail.png)
 
-[Grab the PDF Guide and Spreadsheet Template here →](/download-marketing-messaging-template)
+[Grab the PDF Guide and Spreadsheet Template here →](/downloads/marketing-messaging-template)
 
 Go grab the PDF Guide and checkout the included spreadsheet template. Let us know what you think. Did you build some compelling messaging that converts with the template? Let us know!

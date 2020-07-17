@@ -1,8 +1,13 @@
 import Gumshoe from "gumshoejs"
 
-let spy = new Gumshoe(".sidebar .table-of-contents a", {
-  offset: "80px"
-})
+let spy
+try {
+  spy = new Gumshoe(".sidebar .table-of-contents a", {
+    offset: "80px"
+  })
+} catch (error) {
+  console.log(error)
+}
 
 /**
  * Scroll active sidebar item into view

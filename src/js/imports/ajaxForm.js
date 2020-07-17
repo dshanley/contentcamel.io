@@ -36,6 +36,12 @@ export default class AjaxForm {
         // show success state
         this.form.classList.add("form--submit-success")
         this.form.classList.remove("form--submitting")
+        if (this.form.getAttribute("download-url")) {
+          this.form.insertAdjacentHTML(
+            "afterend",
+            `<div>${this.form.getAttribute("download-url")}</div>`
+          )
+        }
         this.submitting = false
       })
       .catch((err) => {

@@ -11,15 +11,18 @@ headline: ''
 images:
 - "/uploads/2020/02/hero-product-messaging-template.gif"
 categories: []
-tags: []
+tags: ['template']
 cta:
-  headline: ''
-  textline: ''
-  calls_to_action: []
+  headline: 'Get the editable template'
+  textline: 'Discover and improve your messaging with this completely editable template'
+  ctas:
+    - textline: Get template
+      RelPermalink: '/downloads/product-messaging-template'
+      button: true
 private: false
 weight: ''
 aliases: []
-draft: true
+draft: false
 
 ---
 ## Improve Your Product Messaging with our Product Messaging Template
@@ -49,7 +52,7 @@ Here’s a breakdown of the sections and how to fill them in. The final template
 6. Product Positioning and Messaging
 
 <br/>
-<div class="hero-cta center"><a href="https://www.contentcamel.io/download-your-product-messaging-template">Access the Product Messaging Template here →</a></div>
+<div class="hero-cta center"><a href="/downloads/product-messaging-template">Access the Product Messaging Template here →</a></div>
 
 ## How to Document the Buyer’s Journey
 
@@ -180,6 +183,6 @@ My favorite part about documenting our product messaging this way is that it bui
 
 As you share it out to enable your team, make sure it’s accessible somewhere in your Google Drive, Dropbox, or better yet, [Content Camel](https://app.contentcamel.io/signup) - marked internal-only and sitting right next to your sales decks, one-pagers, and winning blog post links. 
 
-[Get the Product Messaging Spreadsheet Template here →](/download-your-product-messaging-template)
+[Get the Product Messaging Spreadsheet Template here →](/downloads/product-messaging-template)
 
 ![](/uploads/2020/02/person-success-templates.png)

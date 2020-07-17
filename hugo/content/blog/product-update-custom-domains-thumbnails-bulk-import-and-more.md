@@ -19,7 +19,7 @@ cta:
 private: false
 weight: ''
 aliases: []
-draft: true
+draft: false
 
 ---
 ## Our biggest update yet
