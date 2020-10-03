@@ -27,7 +27,7 @@ draft: false
 ---
 ## Perform a Sales Content Audit to Streamline Your Sales Process
 
-Did you know that the average B2B buyer consumes **over 10 pieces of content** before making a decision? So, finding the right piece of content may be standing between your sales team and a new customer. And **if your marketing collateral is a jumbled mess across many folders** (like I usually see), your sales team is probably missing the content they need to convert a warm lead to a paying customer. Maybe you've even experienced that as the buyer. Really frustrating to get incorrect assets!
+Did you know that the average B2B buyer consumes **over 10 pieces of content** before making a decision? So, I bet finding the right piece of content is standing between your sales team and new customers right now. And **if your marketing collateral is a jumbled mess across many folders** (like I usually see), your sales team is probably missing the content they need to convert a warm lead to a paying customer. Maybe you've even experienced that as the buyer. Really frustrating to get incorrect assets!
 
 While you may think your sales team has everything they need to succeed, they might be busy spending time searching for assets your team spent hours (or days) making. Yikes. Plus, the content they do find may have outdated information that confuses customers and loses sales. **A sales content audit can give you a clear view of what content you already have and what gaps need to be filled**. 
 
@@ -50,7 +50,7 @@ You already know that to provide the best customer experience, it's super import
 
 You're likely already creating great content, so it makes sense to understand what tools will help your salespeople do their jobs easier or faster. Work closely with not only your sales leaders, but also your top sales people to create content that converts and that your team says is useful based on customer needs. 
 
-There's no magic metric here. This is a subjective feedback step. Becaues of that, one of the best ways to reach your sales team is to [send out (short)surveys](https://www.demandmetric.com/content/sales-support-effectiveness-survey). **Questions about content organization, conversion, and accuracy** can offer valuable insight for your audit. You will also get feedback on where content is missing to cover different parts of the sales funnel.
+There's no magic metric here. This is a subjective feedback step. Becaues of that, one of the best ways to reach your sales team is to [send out (short) surveys](https://www.demandmetric.com/content/sales-support-effectiveness-survey). **Questions about content organization, conversion, and accuracy** can offer valuable insight for your audit. You will also get feedback on where content is missing to cover different parts of the sales funnel.
 
 **Some questions to ask your sales team are:**
 

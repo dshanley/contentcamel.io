@@ -60,9 +60,9 @@ parent = "Sales Enablement"
 url = "https://www.contentcamel.io/bigtincan-competitors"
 weight = 5
 [[menu.footer]]
-name = "Braishark alternative"
+name = "How to do a sales content audit"
 parent = "Sales Enablement"
-url = "https://www.contentcamel.io/brainshark-competitors"
+url = "https://www.contentcamel.io/blog/how-to-do-a-sales-content-audit"
 weight = 6
 [[menu.main]]
 identifier = "useraccount"
