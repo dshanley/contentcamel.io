@@ -1,6 +1,8 @@
-[![CircleCI](https://circleci.com/gh/forestryio/forestry.io.svg?style=svg)](https://circleci.com/gh/forestryio/forestry.io)
 
-# Forestry Website
+
+# Content Camel Website
+This site is based on the Forestry open source website (https://forestry.io).
+
 This site wraps [Hugo](gohugo.io) with [Gulp](https://gulpjs.com/) as your asset pipeline.
 
 [PostCSS](http://postcss.org/) and [Webpack](https://webpack.js.org/) + [Babel](https://babeljs.io/) are used for CSS and JS compiling & transpiling.
@@ -58,6 +60,16 @@ To generate a final production build on your local machine you can run:
 npm run build
 ```
 *The fresh production build of your site will end up in the `dist/` directory.*
+
+## Production Deploy
+
+The deploy works like this:
+
+```
+aws s3 sync ./dist s3://www.contentcamel.io --delete
+```
+
+by running the `npm run deploy` command.
 
 ## Environment Variables
 This project uses environment variables to handle the CircleCI deployment, as well as the Algolia index.

@@ -1,13 +1,14 @@
 ---
 aliases:
 - "/remote/"
-title: Sales Enablement Software | More Value for $ | Content Camel
-description: Sales content management and sales enablement software. Explore best practices and getting the most from your marketing and sales content.
+title: Sales Enablement Tool | More Value for $
+description: Sales content management and sales enablement tools. Explore best practices and getting the most from your marketing and sales content. 
 authors: []
 blocks:
 hero:
   headline: "All your Sales content  \n **in one place**."
-  textline: "No more insane drive folders. \n Search, find, share, and track content everywhere you're working right now."
+  textline: |
+    No more insane drive folders. Search, find, share, and track content everywhere with our sales enablement tools. 
   ctas:
   - permalink: "/tour/"
     textline: Take the Tour
@@ -93,7 +94,7 @@ features:
     
     You know that now more than ever **buyers are doing their own evaluation** and are dropping into the sales conversation all across your funnel. 
     
-    So, **meet your buyer where they are** and **put your great content to work with Content Camel**.
+    So, **meet your buyer where they are** and **put your great content to work with Content Camel sales enablement tools**.
   ctas:
     - textline: Learn more
       RelPermalink: "/tour/"
@@ -105,7 +106,9 @@ features:
   class: section-roots
 - headline: Enable Sellers and Marketers to deliver the right content
   textline: |
-    Your team can't use what they can't find. Content Camel unravels the mystery of your content: PDFs, blog posts, videos, webpages, webinars, links, battlecards, decks -- all in one place. Upload content directly into Content Camel or link to the original location of the asset.
+    Your team can't use what they can't find. Content Camel unravels the mystery of sales enablement and your content: PDFs, blog posts, videos, webpages, webinars, links, battlecards, decks -- all in one place. 
+    
+    Upload content directly into Content Camel or link to the original location of the asset.
   visual:
     permalink: "/img/contentcamel-main-sales-enablement-drive.png"
     alt: Organize Google Drive for Sales Enablement
@@ -114,6 +117,10 @@ features:
 - headline: Organized for Sellers and Marketers
   textline: |
     Configure funnel stages, content types, and tags, so Sales knows which assets to use at each key point of the sales process.
+
+    Finally, a sales enablement tool that's a great fit for both Sales *and* Marketing.
+
+    [Learn more →](/tour)
   visual:
     permalink: "/img/content-camel-settings-funnel-stage.png"
     alt: Organize funnel stage, content types for Sales Enablement
@@ -121,14 +128,21 @@ features:
   class: section-sync
 - headline: Rapid rollout and fast adoption
   textline: |
-    Make sure everyone has access to content that converts -- wherever they are working -- with our Chrome Extension. 
+    Most sales enablement tools and content management solutions are overly complicated and too complex to quickly roll out to your team. 
+    
+    With Content Camel as your sales enablement tool, you'll give everyone access to content that converts -- wherever they are working -- with our Chrome Extension. 
+
+    [Learn more →](/tour)
   visual:
     permalink: "/img/contentcamel-main-sales-enablement-chrome-extension.png"
     alt: Organize drive for Sales Enablement
   direction: rtl
   class: section-sync
 - headline: Deliver personalized pages in minutes
-  textline: Accelerate pipeline and your buyer's decision making process with super easy content grouping and publishing as branded pages.
+  textline: |
+    Accelerate pipeline and your buyer's decision making process with super easy content grouping and publishing as branded pages.
+
+    [Learn more →](/tour#unlock-personalized-sales-content)
   visual:
     permalink: "/img/content-camel-sites-content-experiences.png"
     alt: Content experiences and customized buyer journeys
@@ -138,18 +152,18 @@ cta:
   headline: Wrangle your content. Drop the Drive.
   textline: Bring your content together in one place, enable your sales team to have better conversations with prospects, prove the impact of content marketing and close more deals.
   ctas: 
-    - permalink: https://app.contentcamel.io/signup
+    - RelPermalink: https://app.contentcamel.io/signup
       textline: Try for Free
       primary: true
       button: true
-    - permalink: "/tour"
+    - RelPermalink: "/tour"
       textline: Take the tour
       primary: false
       button: false
 publishdate: 2019-12-31T04:00:00.000+00:00
 expirydate: 2030-01-01T04:00:00.000+00:00
 type: page
-date: '2019-12-31T04:00:00.000+00:00'
+date: '2020-07-16T04:00:00.000+00:00'
 inspectlet: true
 images: []
 private: false

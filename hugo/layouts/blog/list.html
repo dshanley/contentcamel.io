@@ -36,10 +36,10 @@
       </section>
       <section class="section section-blog-list">
         {{- range where .Paginator.Pages "Params.featured" "eq" true -}}
-          {{ .Render "summary" }}
+          {{ .Render "summary" }} 
         {{- end -}}
         {{- range where .Paginator.Pages "Params.featured" "ne" true -}}
-          {{ .Render "summary" }}
+          {{ .Render "summary" }} 
         {{- end -}}
         {{- partial "components/pagination/paginator" . -}}
       </section>

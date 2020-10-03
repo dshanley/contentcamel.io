@@ -1,13 +1,14 @@
 ---
 aliases:
 - "/features/"
-title: Tour
-description: What's included in sales enablement and sales content management software used by marketers and sales directors.
+title: Sales Content Management Software
+linktitle: Tour
+description: Content Camel is sales content management software that empowers sales reps with the right content to increase conversions to Closed Won. Take a Tour!
 authors:
 - contentcamel
 type: landing-page
 layout: landing-page
-date: 2020-06-09 04:00:00 +0000
+date: 2020-07-16 04:00:00 +0000
 inspectlet: true
 menu:
   footer:
@@ -18,7 +19,7 @@ menu:
 blocks: 
 hero:
   headline: "**Speed** your buyer's journey"
-  textline: Take control of your Google Drive, Dropbox, Box and OneDrive marketing and sales content. [Learn More](#everything-you-need-for-sales-content-success)
+  textline: Take control of your Google Drive, Dropbox, Box and OneDrive marketing and sales content. [Learn More](#everything-you-need-for-sales-enablement-success)
   visual:
     permalink: "/img/sales-enablement-journey.png"
     alt: "Sales enablement progress"
@@ -34,7 +35,7 @@ features:
   textline: ''
   tabs:
   - headline: Content Management
-    textline: "Rethink your Google Drive, Dropbox or legacy sales content portal with easy to rollout and easy to adopt marketing and sales enablement software. Organize marketing collateral for sales success by setting funnel stages, content types, and tags.\n"
+    textline: "Rethink your Google Drive, Dropbox or legacy sales content portal with easy to rollout and easy to adopt marketing and sales content management tools. Organize marketing collateral for sales success by setting funnel stages, content types, and tags.\n"
     video:
       fallbackVisual: "/img/content-management.jpg"
       sources:
@@ -47,7 +48,7 @@ features:
     - name: Organized for Sales
     - name: Integrated
   - headline: Share and Track Content
-    textline: "65% of marketing content isn't used by Sales, but you can avoid that with automatic short links, our sales enablement Chrome extension, and intelligent search to deliver the right content at the right time to close more deals.      \n"
+    textline: "65% of marketing content isn't used by Sales, but you can avoid that with automatic short links, our sales content management Chrome extension, and intelligent search to deliver the right content at the right time to close more deals.      \n"
     video:
       fallbackVisual: "/img/cc-extension-gmail.jpg"
       sources:
@@ -77,8 +78,8 @@ features:
     - name: Personalized Content
   direction: tab
   class: section-roots
-- headline: Our sales enablement software is different.
-  textline: "End the frustration of Drive folders, avoid costly sales enablement solutions, and get organized for sales success. \n\n You'll see the results with **accelerated pipeline** and **higher buyer engagement**."
+- headline: Our sales enablement tool is different.
+  textline: "End the frustration of Drive folders, avoid costly sales content management tools, and get organized for sales success. \n\n You'll see the results with **accelerated pipeline** and **higher buyer engagement**."
   direction: vertical
   class: section-sync
 - headline: Bring all your content together in one place
@@ -86,7 +87,7 @@ features:
     \n"
   visual:
     permalink: "/img/content-camel-dashboard.png"
-    alt: Sales enablement gallery
+    alt: Sales content management gallery
   direction: rtl
   class: section-sync
 - headline: Easily add offline and online content
@@ -101,7 +102,7 @@ features:
     height=\"35px;\" src=\"/img/logos/onedrive.svg\" alt=\"OneDrive\">\n  </div>\n</div><p>\n"
   visual:
     permalink: "/img/content-camel-gdrive-import.gif"
-    alt: Sales enablement content import
+    alt: Sales content management content import
   direction: rtl
   class: section-sync
 - headline: Rapid import. Tools for staying organized.
@@ -114,21 +115,21 @@ features:
     alt=\"Google Sheets\">\n  </div>\n"
   visual:
     permalink: "/img/content-camel-csv-import.gif"
-    alt: How to import a CSV for sales enablement
+    alt: How to import a CSV for sales content management
   direction: rtl
   class: section-sync
 - headline: Improve content discovery.
   textline: "Make sure sellers and marketers find what they're looking for every time by easily mapping your content to funnel stages, content types (like eBooks, battlecards, blog posts), and tags. \n\n By assigning funnel stages and asset types, you'll know what content is getting stale and what content drives the most enagement across prospects and customers."
   visual:
     permalink: "/img/content-camel-funnel-stage-settings.png"
-    alt: How to import a CSV for sales enablement
+    alt: How to define funnel stages for sales content management
   direction: ltr
   class: section-sync
 - headline: Add custom tags.
   textline: "Create and manage custom content tags to add additional context to content assets. \n\n Identify and filter assets by campaign, vertical, industry, and persona. Use tags to flag assets that need to be updated.\n\n Then, go beyond tags to add positioning statements and user-facing information for each asset as you refine your sales plays."
   visual:
     permalink: "/img/content-camel-tags-settings.gif"
-    alt: How to import a CSV for sales enablement
+    alt: How to set tags to manage your sales content
   direction: ltr
   class: section-sync
 - headline: "Start streamlining your sales today"
@@ -141,10 +142,10 @@ features:
   direction: vertical
   class: section-roots
 - headline: Works everywhere you do
-  textline: "Rollout and adopt Content Camel as your sales enablement solution right now whether your team is 5, 50, or 500. \n\nOur Chrome extension allows your team to access all the content that admins set up and categorize. Filter by your favorites and see what's been voted up by others. \n\nMore than just the best content search, find, and sharing capabilities, our extension **improves Sales and Marketing communication** with the ability to add wished-for content."
+  textline: "Rollout and adopt Content Camel as your sales content management tool right now whether your team is 5, 50, or 500. \n\nOur Chrome extension allows your team to access all the content that admins set up and categorize. Filter by your favorites and see what's been voted up by others. \n\nMore than just the best content search, find, and sharing capabilities, our extension **improves Sales and Marketing communication** with the ability to add wished-for content."
   visual:
     permalink: "/img/content-camel-chrome-extension-gmail.png"
-    alt: How to import a CSV for sales enablement
+    alt: An extension for sales content management
   direction: rtl
   class: section-sync
 - headline: Unlock personalized sales content
@@ -172,7 +173,7 @@ features:
   textline: "Organize your prospect and customer content library according to your sales cycle and company's sales process. \n\nSome solutions are only designed for sharing content, but **Content Camel offers internal vs external content flagging**, so you can confidently add sales decks, battlecards, price lists, and other internal content that shouldn't be directly shared. \n\nKeep all your sales training and sales plays in one place -- in one solution and right next to marketing collateral critical to advancing your sales process."
   visual:
     permalink: "/img/content-camel-internal-content-flagging.png"
-    alt: Enable sales enablement access controls
+    alt: Enable sales content tool access controls
   direction: ltr
   class: section-sync
 - headline: Straightforward user roles
@@ -190,7 +191,7 @@ features:
   textline: "Sales reps can upvote the content that helps them during their sales conversations, so you can double-down based on feedback. \n\nIn addition to reporting on upvotes, you can track real time stats for favorited content and also upvoted [content wishes](#collect-content-requests-from-sales)."
   visual:
     permalink: "/img/content-camel-analytics-upvoted.png"
-    alt: Understand sales enablement analytics
+    alt: Understand what sales content is popular
   direction: rtl
   class: section-sync
 - headline: Complete content analytics

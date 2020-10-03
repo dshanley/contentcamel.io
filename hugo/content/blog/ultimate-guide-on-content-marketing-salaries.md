@@ -1,13 +1,13 @@
 ---
-title: Ultimate Guide on Content Marketing Salaries (131,963 salary data points)
-description: Get a the current guide to Content Marketing Salaries to benchmark yourself and your hires - Free. Includes overview of marketing salaries by role and downloadable salary PDF.
+title: Ultimate Guide on Content Marketing Salaries | Free Guide
+description: Benchmark your Content Marketing Salaries - Free. Includes overview of marketing salaries by role and downloadable salary PDF.
 date: 2020-01-05T04:00:00.000+00:00
 authors:
 - dave-shanley
 publishdate: 2020-01-05T04:00:00.000+00:00
 expirydate: 2030-01-01T04:00:00.000+00:00
 textline: ''
-headline: ''
+headline: 'Ultimate Guide on Content Marketing Salaries (131,963 salary data points)'
 images:
 - "/uploads/2020/01/Content_Marketing_Salary_Report.png"
 categories: []

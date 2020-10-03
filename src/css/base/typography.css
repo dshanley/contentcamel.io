@@ -124,7 +124,7 @@ tr:nth-child(odd) td {
 
 /* Content styling */
 .md-content {
-  padding-bottom: 4rem;
+  padding-bottom: 0.5rem;
 
   h1 {
     font-size: 2rem;

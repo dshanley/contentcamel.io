@@ -1,5 +1,5 @@
 ---
-title: How to Create a Consistent Marketing Message
+title: Marketing Messaging Template | Get The Free Template
 description: Get a shortcut to building repeatable marketing messaging - Free. Ensure consistent key messages. Includes the PDF and an editable spreadsheet version.
 date: 2020-04-04T09:01:56-03:00
 authors:
@@ -7,7 +7,7 @@ authors:
 publishdate: 2020-01-15T04:00:00.000+00:00
 expirydate: 2030-01-01T04:00:00.000+00:00
 textline: ''
-headline: ''
+headline: 'How to Create a Consistent Marketing Message'
 images:
 - "/uploads/2020/01/hero-marketing-messaging-framework.png"
 categories: []

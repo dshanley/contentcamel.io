@@ -1,7 +1,7 @@
 .single-post {
   background: $color-white;
   min-height: 100vh;
-  padding-bottom: 4rem;
+  padding-bottom: 1rem;
   padding-top: 5rem;
 
   & .container,
@@ -153,6 +153,7 @@
 
   img {
     max-width: 100%;
+    width: 75vw;
   }
 
   p.tip {

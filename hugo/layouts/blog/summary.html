@@ -1,6 +1,6 @@
 <article class="blog-post">
   <div class="post-meta">
-    <span class="post-date">{{ dateFormat .Site.Params.dateFormat .Date.UTC }}</span>
+    <!-- <span class="post-date">{{ dateFormat .Site.Params.dateFormat .Date.UTC }}</span> -->
     <span class="post-category" data-category="{{ .Section }}">
         {{- with .Params.categories -}}
         {{- $len := len . -}}

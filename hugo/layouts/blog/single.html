@@ -37,7 +37,7 @@
         </div>
         {{- end -}}
         <div class="post--info">
-          <span class="post--meta-label">Posted on</span>
+          <!-- <span class="post--meta-label">Posted on</span>
           <span class="post--date">
             {{- with .GitInfo -}}
               <a href="{{$.Site.Params.ghrepo}}/commit/{{ .Hash }}" target="_blank">
@@ -46,7 +46,7 @@
             {{- with .GitInfo -}}
               </a>
             {{- end -}}
-          </span>
+          </span> -->
           {{- with .Params.categories -}}
           {{- $len := len . -}}
           <span>in {{ range $index, $value := . }}
@@ -91,4 +91,7 @@
       {{- partial "components/cta/slide-in" . -}}
     {{- end -}}
   {{- partial "components/cta/basic" .Params.cta -}}
+
+  <!-- SEO about content -->
+  {{- partial "components/section-about" . -}}
 {{- end -}}
