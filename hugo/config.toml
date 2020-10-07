@@ -12,7 +12,7 @@ pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "monokai"
 relativeURLs = false
-title = "Content Camel"
+title = "Content Camel"  
 [markup]
 defaultMarkdownHandler = "blackfriday"
 [blackfriday]

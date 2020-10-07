@@ -15,7 +15,7 @@ menu:
 
 Content Camel, Inc., (“**Content Camel**”, “**we**”, “**us**”) has created this Privacy Policy (“**Privacy Policy**”) in order to set out how we collect, use, and disclose personal information through our proprietary content management system platform and applications (collectively, the “**Platform**”). 
 
-The privacy of our customers (“**Customers**”) and their end users (“**End Users**”) is of great importance to us. By visiting any of our websites located at [www.contentcamel.io](http://www.contentcamel.io) (collectively, the “**Website**”) or using the Platform in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and you hereby consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.
+The privacy of our customers (“**Customers**”) and their end users (“**End Users**”) is of great importance to us. By visiting any of our websites located at [www.contentcamel.io](https://www.contentcamel.io) (collectively, the “**Website**”) or using the Platform in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and you hereby consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.
 
 ## 2. What does this Privacy Policy Cover?
 

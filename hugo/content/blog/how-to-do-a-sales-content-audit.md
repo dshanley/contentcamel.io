@@ -1,6 +1,7 @@
 ---
 title: How to do a sales content audit | Get The Free Template
 description: Discover everything your business needs to perform an extensive sales content audit and how to use its data insights to craft powerful content strategies.
+toc: true
 date: 2020-09-30T11:01:00-07:00
 authors:
 - dave-shanley
@@ -38,19 +39,22 @@ While you may think your sales team has everything they need to succeed, they mi
 
 Not sure where to start? No problem. I've put together a detailed content audit walkthrough, so your sales team can spend more time rocking it instead of searching for it!
 
-## What Is a Content Audit?
+Here's what we'll cover:
+{{< toc >}}
 
-A content audit is a detailed review of every piece of your business's sales and marketing content, whether it's on your website or hidden deep in a Google Drive folder. A sales-specific content audit focuses on assets that empower your sales team. Auditing your sales content ensures your sales team is equipped to support the client at any stage of the sales funnel. 
+## What Is a Sales Content Audit?
 
-Taking a **deep dive into your content** helps you focus on updating existing content or creating new content to provide a seamless sales experience. Some pieces of **content may be gathering dust**, while **others are overused**. A content audit offers a zoomed-out view of the tools your sales team has to support their process of helping prospects make a decision.
+A sales content audit is a detailed review of every piece of your business's sales content, whether it's on your website or hidden deep in a Google Drive folder. The sales content audit focuses on assets that helps your sales team close deals. This is different from a content marketing audit that is really about driving new prospects to your site. Auditing your sales content makes sure your sales team is all set to support your prospects at any stage of the sales funnel. 
 
-You already know that to provide the best customer experience, it's super important to have the right content at the right time to keep the conversation moving forward. Conducting a content audit can provide clarity on what assets your sales team needs to succeed, but it's important to know what your sales team needs and to set goals before you start. So many teams miss this step, because their too buried in the weeds of content creation. So, take a moment, and ask for feedback.
+Taking a **deep dive into your sales content** helps you focus on updating the highest impact content or creating new content where it's needed most to improve the sales experience. For example, some pieces of **content may be gathering dust**, while **others are overused** or **outdated**. A sales content audit offers a zoomed-out view of the tools your sales team has to support their goals (like hitting quota) and helping prospects make a decision.
+
+You already know that to provide the best customer experience and close more deals, it's super important to have the right content at the right time to keep the conversation moving forward. Conducting a content audit can provide clarity on what assets your sales team needs to succeed, but before you begin it's important to know what your sales team needs and to **set goals before you start**. So many teams miss this step, because they're too buried in the weeds of content creation. So, take a moment, and ask for feedback.
 
 ## Understanding Your Sales Team's Needs
 
-You're likely already creating great content, so it makes sense to understand what tools will help your salespeople do their jobs easier or faster. Work closely with not only your sales leaders, but also your top sales people to create content that converts and that your team says is useful based on customer needs. 
+You're likely already creating great content, so it makes sense to understand what tools will help your salespeople do their jobs easier or faster. It makes sense to work closely with not only your sales leaders, but also your top sales people to identify content that converts. 
 
-There's no magic metric here. This is a subjective feedback step. Becaues of that, one of the best ways to reach your sales team is to [send out (short) surveys](https://www.demandmetric.com/content/sales-support-effectiveness-survey). **Questions about content organization, conversion, and accuracy** can offer valuable insight for your audit. You will also get feedback on where content is missing to cover different parts of the sales funnel.
+There's no magic metric here. This is a subjective feedback step. Becaues of that, one of the best ways to reach your sales team is to [send out (short) surveys](https://www.demandmetric.com/content/sales-support-effectiveness-survey) (demand metric). **Questions about content organization, conversion, and accuracy** can offer valuable insight for your audit. You will also get feedback on where content is missing to cover different parts of the sales funnel.
 
 **Some questions to ask your sales team are:**
 
@@ -72,7 +76,7 @@ These questions offer a strong jumping-off point for brainstorming on what conte
 ## Setting Goals for Your Sales Content Audit
 
 Establishing goals for your audit can help you **focus on sales enablement** and offering your sales team the best tools right when they need them. Learning where customers drop off or what industries don't convert helps you create content that clicks with your audience. Always relate your audit goals to your core business goals to make sure an audit is a worthwhile use of resources (hint: it probably is). 
-**Sales content goals are often different from marketing content goals**, so your KPIs need to match the improvement you'd like to see with your sales team. At the best organizations, sales and marketing are going to work really closely on this, but sales will still use the assets in a different way (more downfunnel, less top of funnel). 
+**Sales content goals are often different from marketing content goals** (like what you'd find in SEMRush), so your KPIs need to match the improvement you'd like to see with your sales team. At the best organizations, sales and marketing are going to work really closely on this, but sales will still use the assets in a different way (more downfunnel, less top of funnel). 
 
 One possible goal is **improving conversions at every stage of the sales funnel**. However, it's important to note that tracking conversions with sales materials may be trickier if you don't have preset tracking of email attachments within your CRM. Also, without some tools, tracking assets sent out over LinkedIn, other social channels, or regular email won't contribute to your metrics. That can be the tricky part. Companies that have Content Camel in place, really like the automatic short URLs, so they can track metrics like shares and views. Knowing **how your sales team is activating on the latest assets** is a huge advantage when looking to make decisions on where to invest with your content dollars and time. 
 
@@ -106,7 +110,7 @@ If you're just getting started, using a **sales content inventory spreadsheet te
 * Now, update the funnel stage column for each piece. Update the industry it's written for, the channel or sharing format, and the ideal audience. 
 * Finally, you can add in keywords to see more detail on the content and see any content overlaps. 
 
-One benefit of creating a [content map](https://blog.alexa.com/content-mapping/) is to see how your **content works together to tell a story**. Content can be grouped in your map to demonstrate how the customer moves through the conversion funnel. As you move on to further enable your sales team and as new sales hires start, you'll have a reference point for describing your funnel with content. 
+One benefit of creating a [content map](/downloads/sales-content-audit-template) is to see how your **content works together to tell a story**. Content can be grouped in your map to demonstrate how the customer moves through the conversion funnel. As you move on to further enable your sales team and as new sales hires start, you'll have a reference point for describing your funnel with content. 
 
 [![Sales Content Audit Template](/uploads/2020/09/sales-content-audit-template.png)](/downloads/sales-content-audit-template)
 <div class="hero-cta center"><a href="/downloads/sales-content-audit-template">Access the Sales Audit Template here →</a></div>
