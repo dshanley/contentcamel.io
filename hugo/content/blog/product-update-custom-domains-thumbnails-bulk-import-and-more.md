@@ -1,4 +1,5 @@
 ---
+aliases: []
 title: Product update - custom domains, thumbnails, bulk import, and more
 description: Get a shortcut to building repeatable marketing messaging - Free. Ensure consistent key messages. Includes the PDF and an editable spreadsheet version.
 date: 2019-12-01T09:01:56-03:00
@@ -10,7 +11,7 @@ textline: ''
 headline: ''
 images:
 - "/uploads/2019/12/hero-prod-update-custom-domains.png"
-categories: []
+categories: ['product update', 'releases']
 tags: []
 cta:
   headline: ''
@@ -18,7 +19,6 @@ cta:
   calls_to_action: []
 private: false
 weight: ''
-aliases: []
 draft: false
 
 ---

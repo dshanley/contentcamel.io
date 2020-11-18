@@ -10,14 +10,14 @@ textline: ''
 headline: 'A Product Messaging Template for Repeatable Product Messaging'
 images:
 - "/uploads/2020/02/hero-product-messaging-template.gif"
-categories: []
+categories: ['templates']
 tags: ['template']
 cta:
   headline: 'Get the editable template'
   textline: 'Discover and improve your messaging with this completely editable template'
   ctas:
     - textline: Get template
-      RelPermalink: '/downloads/product-messaging-template'
+      RelPermalink: '/'
       button: true
 private: false
 weight: ''
@@ -52,13 +52,15 @@ Here’s a breakdown of the sections and how to fill them in. The final template
 6. Product Positioning and Messaging
 
 <br/>
-<div class="hero-cta center"><a href="/downloads/product-messaging-template">Access the Product Messaging Template here →</a></div>
+<div class="hero-cta center"><a href="/downloads/product-messaging-template/">Access the Product Messaging Template here →</a></div>
 
 ## How to Document the Buyer’s Journey
 
-The Context section of the template provides the background on the buyer’s journey for your audience. A full template for building your ideal customer profiles can be found in our [Marketing Messaging Guide post](/blog/how-to-create-a-consistent-marketing-message), but here we’ll either refer to those personas by name or offer a simplified overview of who we’re serving this content to.
+The Context section of the template provides the background on the buyer’s journey for your audience. A full template for building your ideal customer profiles can be found in our [Marketing Messaging Guide post](/blog/how-to-create-a-persona-template/), but here we’ll either refer to those personas by name or offer a simplified overview of who we’re serving this content to.
 
-![](/uploads/2020/02/product_persona_template.png)
+![Product Persona Template](/uploads/2020/02/product_persona_template.png)
+<div class="hero-cta center"><a href="/downloads/product-messaging-template/">Download the template →</a></div>
+
 
 For more background, describe what “jobs” your customers “hire” your product to do. These are the documented use-cases. Some products serve multiple use cases, and if they are sufficiently different,  you might consider doing one template per major use-case. 
 
@@ -74,6 +76,7 @@ Finally, are there any specific, frequent, and niche areas where prospective cus
 Similar to the persona messaging template where you documented the frustrations, wants, fears, and aspirations of your audience, we document the **Before State, Negative Consequences, After State**, and **Positive Business Outcomes** in this template. 
 
 ![](/uploads/2020/02/product_messaging_map.png)
+<div class="hero-cta center"><a href="/downloads/product-messaging-template/">Download the template →</a></div>
 
 This is a critical area to spend time on. It drives the urgency behind the sale and will help focus content that’s designed to move the prospect down your funnel.
 
@@ -94,6 +97,7 @@ We’ll get ready in the rest of the template to position your product as the ke
 You know your product inside and out. Everyone in your organization knows your product inside and out, but I bet this section will give you pause and take some time to distill down to 3 or fewer Value Drivers. A Value Driver describes what drives the transition between the Before State to the After State. Your Value Drivers form the messaging pillars for your product. The hardest part is reducing down what drives the value for the buyer to just 3 (or less!) values and have something everyone can agree on.
 
 ![](/uploads/2020/02/product_value_drivers_template.png)
+<div class="hero-cta center"><a href="/downloads/product-messaging-template/">Download the template →</a></div>
 
 A good Value Driver is a high level statement of the qualities of the product that directly relate to the challenges of the Before State.
 
@@ -111,6 +115,7 @@ The proof points will be referred to across the teams -- in marketing assets tha
 You want to have persona-driven product messaging that’s the most relevant to our audience as possible, so understanding the sales cycle -- the buyer’s journey -- and their path to purchasing your solution influences how you position and message your products. 
 
 ![](/uploads/2020/02/product_messaging_buyers_journey_template.png)
+<div class="hero-cta center"><a href="/downloads/product-messaging-template/">Download the template →</a></div>
 
 Understanding the sale means accurately capturing:
 
@@ -129,6 +134,7 @@ Given the Required Capabilities, how do you deliver on them with your features a
 You’ll probably have a lot of content and assets that support the buyer in their journey, but it’s helpful to highlight some key assets here -- by funnel stage -- to give the rest of the Marketing and Sales teams visibility into supporting materials that put to work the messaging in this template. If this is a new product launch, maybe you are still building these out, but fill them in as they become available. 
 
 ![](/uploads/2020/02/content_camel_sales_enablement_search.png)
+<div class="hero-cta center"><a href="https://app.contentcamel.io/signup">Try out Content Camel →</a></div>
 
 
 We’ve heard a lot of teams are really frustrated by trying to keep track of all of their Marketing and Sales assets -- especially when it comes to tracking what’s actually being used. That’s why we created Content Camel to make organizing all the content that enables sales teams easy. Easy to find, share (including with our [Chrome Extension](https://chrome.google.com/webstore/detail/content-camel/llndpccggnfkjhcbbafmdmkjndheclja?hl=en&gl=US)), and track the results. Let us know what you think. 
@@ -139,6 +145,7 @@ Yes! Now that you’ve worked through Value Drivers, the pain of the *Before Sta
 I think it’s easier to approach positioning features before tackling the overall product messaging, because, hey, a product is really just a collection of features (and the benefits those deliver).
 
 ![](/uploads/2020/02/product_features_template.png)
+<div class="hero-cta center"><a href="/downloads/product-messaging-template/">Download the template →</a></div>
 
 In the feature area of the template we have:
 
@@ -164,6 +171,7 @@ You may not use this material directly in your marketing efforts, but you know t
 Ok, now we’re back up to the top of this core messaging template to wrap up with the top-level product messaging and positioning. The idea is this should be easier, because we’ve spent time thinking about the buyer’s motivations -- their challenges and the impact of those challenges; their success state if they implement a solution, and the benefits of that success state.
 
 ![](/uploads/2020/02/product_positioning_template.png)
+<div class="hero-cta center"><a href="/downloads/product-messaging-template/">Download the template →</a></div>
 
 More than just a jumble of words and quick snippets, we have a system in place now that we can refer back to and that we’re confident that the other teams in the org can use to build on top of. This product messaging is part of that foundation. It will still be effort to wordsmith it, but it will be a lot easier now that we have all the supporting info. 
 
@@ -183,6 +191,6 @@ My favorite part about documenting our product messaging this way is that it bui
 
 As you share it out to enable your team, make sure it’s accessible somewhere in your Google Drive, Dropbox, or better yet, [Content Camel](https://app.contentcamel.io/signup) - marked internal-only and sitting right next to your sales decks, one-pagers, and winning blog post links. 
 
-[Get the Product Messaging Spreadsheet Template here →](/downloads/product-messaging-template)
+[Get the Product Messaging Spreadsheet Template here →](/downloads/product-messaging-template/)
 
-![](/uploads/2020/02/person-success-templates.png)
+![](/uploads/2020/02/get-free-product-messaging-template.png)

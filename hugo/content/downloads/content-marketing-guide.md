@@ -11,7 +11,7 @@ private: false
 form:
  headline: Get the Salary Report
  cta: Download
- formUrl: https://formspree.io/myynbbqj
+ formUrl: https://emailoctopus.com/lists/88bec080-1889-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add
  successMessage: |
   We'll send you an email with the report, but you can also download it here:
  downloadUrl: https://ccml.io/content-marketing-salary-report
@@ -20,4 +20,4 @@ form:
 ---
 We've put together this researched and super detailed Content Marketing Salary Report. We analyzed **131,963 data points** from LinkedIn, Glassdoor and Payscale and summarized the results by role and by city, so you can hire and negotiate better.
 
-Read the intro post here: [Guide to Content Marketing Salaries](/blog/ultimate-guide-on-content-marketing-salaries)
+Read the intro post here: [Guide to Content Marketing Salaries](/blog/ultimate-guide-on-content-marketing-salaries/)

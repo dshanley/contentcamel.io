@@ -1,3 +1,5 @@
+<link rel="stylesheet"
+      href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css">
 <section class="section section-cta center" id="footer-cta">
   <div class="container">
     <h2 class="section--title">{{ .headline | default "Want to hear it first?" }}</h2>
@@ -9,10 +11,29 @@
       {{- end -}}
     {{- else -}}
     
-    <form action="https://formspree.io/xoqkplkr" method="POST" class="form--large form--stacked" data-message="Thanks for joining! We will shoot you the next issue when we publish it.">
-      <input type="email" name="email" placeholder="Email" required>
+    <p class="emailoctopus-success-message">
+    </p>
+    <p class="emailoctopus-error-message">
+    </p>
+    <form action="https://emailoctopus.com/lists/f9a2b418-188d-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add" method="POST" class="form--large form--stacked emailoctopus-form" 
+    data-message="Thanks for joining! We will shoot you the next issue when we publish it."
+    data-message-success="Thanks for joining! We will shoot you the next issue when we publish it."
+    data-message-missing-email-address="Your email address is required."
+    data-message-invalid-email-address="Your email address looks incorrect, please try again."
+    data-message-bot-submission-error="This doesn't look like a human submission."
+    data-message-consent-required="Please check the checkbox to indicate your consent."
+    data-message-invalid-parameters-error="This form has missing or invalid fields."
+    data-message-unknown-error="Sorry, an unknown error has occurred. Please try again later."
+    data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6">
+      <div aria-hidden="true" class="emailoctopus-form-row-hp">
+        <input type="text" name="hpc4b27b6e-eb38-11e9-be00-06b4694bee2a" tabindex="-1" autocomplete="nope">
+      </div>
+      <input type="email" id="field_0" name="field_0" placeholder="Email" required>
       <button type="submit" name="submit" class="button primary">Subscribe</button>
     </form>
+    
+    <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js"></script>
+    <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js"></script>
     {{- end -}}
   </div>
 </section>

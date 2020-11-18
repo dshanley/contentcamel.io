@@ -11,7 +11,7 @@ private: false
 form:
  headline: Get the Template
  cta: Download
- formUrl: https://formspree.io/mqkygwzp
+ formUrl: https://emailoctopus.com/lists/1623b2ff-17a7-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add
  successMessage: |
   We'll send you an email with the template, but you can also grab it here:
  downloadUrl: https://ccml.io/gsheet-product-messaging
@@ -20,4 +20,4 @@ form:
 ---
 A product messaging template is used to develop all of your messaging for a product or suite of products organized in one place, so you can enable others to effectively communicate to the market about your solution. A complete product messaging document drives consistency and repeatability -- lowering the effort to build additional sales and marketing content.
 
-Read the the full post here: [The Best Product Marketing Messaging Template](/blog/the-best-product-messaging-template)
+Read the the full post here: [The Best Product Marketing Messaging Template](/blog/the-best-product-messaging-template/)

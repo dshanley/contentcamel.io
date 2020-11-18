@@ -1,24 +1,51 @@
 {{- define "main" -}}
-  <main class="contact-wrapper">
-    <div class="container">
-      <section class="contact-header">
-        <div class="contact-header--sticky">
-          <h2>{{ .Params.form.headline | default "Get foo practices"}}</h2>
-          <form action="{{ .Params.form.formUrl }}" method="POST" class="form--large form--stacked" 
-            data-message="{{ .Params.form.successMessage }}" download-url=" {{.Params.form.downloadUrl}}">
-            <input type="email" name="email" placeholder="Email" required>
+<main class="contact-wrapper">
+  <div class="container">
+    <section class="contact-header">
+      <link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css">
+      <div class="emailoctopus-form-wrapper emailoctopus-form-unstyled contact-header--sticky">
+        <h2 class="emailoctopus-heading">
+          {{ .Params.form.headline | default "Get best practices"}}
+        </h2>
+        <p class="emailoctopus-success-message">
+        </p>
+        <p class="emailoctopus-error-message">
+        </p>
+        <form class="emailoctopus-form form--large form--stacked"
+          action="{{ .Params.form.formUrl }}"
+          method="post" 
+          data-message-success="{{ .Params.form.successMessage }} {{.Params.form.downloadUrl}}"
+          data-message-missing-email-address="Your email address is required."
+          data-message-invalid-email-address="Your email address looks incorrect, please try again."
+          data-message-bot-submission-error="This doesn't look like a human submission."
+          data-message-consent-required="Please check the checkbox to indicate your consent."
+          data-message-invalid-parameters-error="This form has missing or invalid fields."
+          data-message-unknown-error="Sorry, an unknown error has occurred. Please try again later."
+          data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6">
+          <div class="emailoctopus-form-row">
+            <input id="field_0" name="field_0" type="email" placeholder="email" required="required">
+          </div>
+          <div aria-hidden="true" class="emailoctopus-form-row-hp">
+            <input type="text" name="hpc4b27b6e-eb38-11e9-be00-06b4694bee2a" tabindex="-1" autocomplete="nope">
+          </div>
+          <div class="emailoctopus-form-row-subscribe">
+            <input type="hidden" name="successRedirectUrl">
             <button type="submit" name="submit" class="button primary">{{ .Params.form.cta }}</button>
-          </form>
-        </div>
-      </section>
-      <section class="section section-contact md-content">
-        <h1>{{ .Params.headline | default .Title }}</h1>
-          {{- if .Content -}}
-            {{ .Content }}
-          {{- else -}}
-            {{ markdownify .Params.textline }}
-          {{- end -}}
-      </section>
-    </div>
-  </main>
+          </div>
+        </form>
+      </div>
+      <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js"></script>
+      <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js"></script>
+
+    </section>
+    <section class="section section-contact md-content">
+      <h1>{{ .Params.headline | default .Title }}</h1>
+      {{- if .Content -}}
+      {{ .Content }}
+      {{- else -}}
+      {{ markdownify .Params.textline }}
+      {{- end -}}
+    </section>
+  </div>
+</main>
 {{- end -}}

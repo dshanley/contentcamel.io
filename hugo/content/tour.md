@@ -118,14 +118,14 @@ features:
     alt: How to import a CSV for sales content management
   direction: rtl
   class: section-sync
-- headline: Improve content discovery.
+- headline: Improve content discovery
   textline: "Make sure sellers and marketers find what they're looking for every time by easily mapping your content to funnel stages, content types (like eBooks, battlecards, blog posts), and tags. \n\n By assigning funnel stages and asset types, you'll know what content is getting stale and what content drives the most enagement across prospects and customers."
   visual:
     permalink: "/img/content-camel-funnel-stage-settings.png"
     alt: How to define funnel stages for sales content management
   direction: ltr
   class: section-sync
-- headline: Add custom tags.
+- headline: Add custom tags
   textline: "Create and manage custom content tags to add additional context to content assets. \n\n Identify and filter assets by campaign, vertical, industry, and persona. Use tags to flag assets that need to be updated.\n\n Then, go beyond tags to add positioning statements and user-facing information for each asset as you refine your sales plays."
   visual:
     permalink: "/img/content-camel-tags-settings.gif"

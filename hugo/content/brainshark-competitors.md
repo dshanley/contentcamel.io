@@ -40,10 +40,10 @@ features:
     | --- | --- | --- | 
     | [Free trial](https://app.contentcamel.io/signup) | **✓** | x | 
     | Pricing | **$15/user/month<br/> ($162/user/year)** | $420/user/year<br/> (annual only!) |
-    | [Content Management](/tour#everything-you-need-for-sales-enablement-success) | **✓** | ✓ |
-    | [Content Experiences](/tour#unlock-personalized-sales-content) | **✓** | Internal content for training |
-    | [Content Analytics](/tour#understand-how-content-is-performing) | **✓** | Scorecard for seller training |
-    | [Chrome extension](/tour#works-everywhere-you-do) | **Works everywhere**<br/> Use in Salesloft, Outreach, Salesforce, Pipedrive, Gmail, and more | x |
+    | [Content Management](/tour/#everything-you-need-for-sales-enablement-success) | **✓** | ✓ |
+    | [Content Experiences](/tour/#unlock-personalized-sales-content) | **✓** | Internal content for training |
+    | [Content Analytics](/tour/#understand-how-content-is-performing) | **✓** | Scorecard for seller training |
+    | [Chrome extension](/tour/#works-everywhere-you-do) | **Works everywhere**<br/> Use in Salesloft, Outreach, Salesforce, Pipedrive, Gmail, and more | x |
     | Rapid seller adoption | **✓** | x |
     | Implementation | **Days** | Months<br/> +setup costs |
     | Contract | **Monthly<br/> no lock-in** | Annual only |
@@ -65,7 +65,7 @@ features:
 
     You also know that **marketing and sales isn’t a linear process**. Prospects are engaging across all parts of your funnel, and your teams have created great content, but that only matters if it’s used. **Just like Brainshark, Content Camel acts as a content management system for all your internal and external sales collateral**, allows you to centralize sales plays, enhances marketing-sales feedback and communication, and provides customizable buyer engagement experiences. 
 
-    [Learn more about Content Management →](/tour#everything-you-need-for-sales-enablement-success)
+    [Learn more about Content Management →](/tour/#everything-you-need-for-sales-enablement-success)
   direction: rtl
   visual:
     permalink: "/img/content-camel-dashboard.png"
@@ -76,7 +76,7 @@ features:
   textline: |
     Give your sales team the ability to pull in the right piece of content into their existing workflows in Gmail, Salesforce, Drift, Salesloft and more.
 
-    [Learn more about integrating Content Camel →](/tour#works-everywhere-you-do)
+    [Learn more about integrating Content Camel →](/tour/#works-everywhere-you-do)
   visual:
     permalink: "/img/illustration-content-camel-chrome-extension.png"
     alt: Sales enablement chrome extension
@@ -86,7 +86,7 @@ features:
   textline: |
     Faceted search enables searching by funnel stage, content type, tags, and across your asset metadata. Make it easy for Sales to discover assets aligned with the buyer's journey.
 
-    [Learn more about organizing content →](/tour#improve-content-discovery)
+    [Learn more about organizing content →](/tour/#improve-content-discovery)
   visual:
     permalink: "/img/illustration-content-camel-search.png"
     alt: Sales enablement search
@@ -96,7 +96,7 @@ features:
   textline: |
     Group content into account-based marketing (ABM) campaigns or themed playbooks. **Collections enable easy grouping, filtering and personalization of content.**
 
-    [Learn more about collections and sites →](/tour#unlock-personalized-sales-content)
+    [Learn more about collections and sites →](/tour/#unlock-personalized-sales-content)
   visual:
     permalink: "/img/illustration-content-camel-collections.png"
     alt: Sales content sites
@@ -106,7 +106,7 @@ features:
   textline: |
     Based on Collections, give sellers the ability to **deliver tailored microsite pages for your prospects**. Great for ABM and personalized followup.
 
-    [Learn more about sites →](/tour#unlock-personalized-sales-content)
+    [Learn more about sites →](/tour/#unlock-personalized-sales-content)
   visual:
     permalink: "/img/illustration-content-camel-sites.png"
     alt: Sales content sites
@@ -116,7 +116,7 @@ features:
   textline: |
     Getting budget for more great content starts with measuring the impact. Did anyone use those last launch materials? The latest deck? **Now you'll know.**
 
-    [Learn more about real time analytics →](/tour#understand-how-content-is-performing)
+    [Learn more about real time analytics →](/tour/#understand-how-content-is-performing)
   visual:
     permalink: "/img/illustration-content-camel-analytics.png"
     alt: Sales enablement analytics
@@ -171,7 +171,7 @@ faqs:
     Unlike most of the enterprise sales enablement solutions (like Brainshark), Content Camel starts at just $15 per user, with no minimum, no set up costs, and no expensive consulting necessary. That's a huge savings we'd love to see you plow back into great content for your team!
     
     <br/>
-    You can learn more [here on our pricing page](/pricing).  
+    You can learn more [here on our pricing page](/pricing/).  
 - headline: How long does it take to roll out Content Camel to my team?
   textline: |
     Content Camel is designed to fit the needs of small and medium sized, fast moving teams. 

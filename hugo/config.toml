@@ -42,27 +42,27 @@ weight = 1
 [[menu.footer]]
 name = "Highspot alternative"
 parent = "Sales Enablement"
-url = "https://www.contentcamel.io/highspot-competitors"
+url = "https://www.contentcamel.io/highspot-competitors/"
 weight = 2
 [[menu.footer]]
 name = "Seismic alternative"
 parent = "Sales Enablement"
-url = "https://www.contentcamel.io/alternatives/seismic-competitors"
+url = "https://www.contentcamel.io/alternatives/seismic-competitors/"
 weight = 3
 [[menu.footer]]
 name = "Showpad alternative"
 parent = "Sales Enablement"
-url = "https://www.contentcamel.io/showpad-competitors"
+url = "https://www.contentcamel.io/showpad-competitors/"
 weight = 4
 [[menu.footer]]
 name = "Bigtincan alternative"
 parent = "Sales Enablement"
-url = "https://www.contentcamel.io/bigtincan-competitors"
+url = "https://www.contentcamel.io/bigtincan-competitors/"
 weight = 5
 [[menu.footer]]
 name = "How to do a sales content audit"
 parent = "Sales Enablement"
-url = "https://www.contentcamel.io/blog/how-to-do-a-sales-content-audit"
+url = "https://www.contentcamel.io/blog/how-to-do-a-sales-content-audit/"
 weight = 6
 [[menu.main]]
 identifier = "useraccount"
@@ -153,7 +153,7 @@ pattern = "2006"
 weight = 10
 [social]
 email = "support@contentcamel.io"
-newsletter = "/join-newsletter"
+newsletter = "/join-newsletter/"
 twitter = ""
 [taxonomies]
 author = "authors"

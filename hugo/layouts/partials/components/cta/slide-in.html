@@ -8,12 +8,32 @@
       <a href="{{ .RelPermalink }}"{{ if .button }} class="button primary big"{{ end }}>{{ .textline }}</a>
       {{- end -}}
     {{- else -}}
-    <form action="https://formspree.io/xoqkplkr" method="POST" class="form--large form--stacked" data-message="Thanks for joining! We will shoot you the next issue when we publish it.">
-      <div class="newsletter-signup--field form--joined">
-      <input type="email" name="email" placeholder="Email" required>
-      <button type="submit" name="submit" value="Subscribe" class="button primary small">Subscribe</button>
-      </div>
-    </form>
+      <link rel="stylesheet" href="https://emailoctopus.com/bundles/emailoctopuslist/css/1.6/form.css">
+      <p class="emailoctopus-success-message">
+      </p>
+      <p class="emailoctopus-error-message">
+      </p>
+      <form action="https://emailoctopus.com/lists/f9a2b418-188d-11eb-a3d0-06b4694bee2a/members/embedded/1.3s/add" method="POST" class="form--large form--stacked emailoctopus-form" 
+      data-message="Thanks for joining! We will shoot you the next issue when we publish it."
+      data-message-success="Thanks for joining! We will shoot you the next issue when we publish it."
+      data-message-missing-email-address="Your email address is required."
+      data-message-invalid-email-address="Your email address looks incorrect, please try again."
+      data-message-bot-submission-error="This doesn't look like a human submission."
+      data-message-consent-required="Please check the checkbox to indicate your consent."
+      data-message-invalid-parameters-error="This form has missing or invalid fields."
+      data-message-unknown-error="Sorry, an unknown error has occurred. Please try again later."
+      data-sitekey="6LdYsmsUAAAAAPXVTt-ovRsPIJ_IVhvYBBhGvRV6">
+        <div aria-hidden="true" class="emailoctopus-form-row-hp">
+          <input type="text" name="hpc4b27b6e-eb38-11e9-be00-06b4694bee2a" tabindex="-1" autocomplete="nope">
+        </div>
+        <div class="newsletter-signup--field form--joined">
+        <input type="email" id="field_0" name="field_0" placeholder="Email" required>
+        <button type="submit" name="submit" class="button primary small">Subscribe</button>
+        </div>
+      </form>
+      
+      <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js"></script>
+      <script src="https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js"></script>
     
     {{- end -}}
 </div>
@@ -60,4 +80,4 @@
   function closeSlideIn() {
     document.getElementById("slide-in-cta").style.transform = "translateX(100%)";
   };
-</script> 
+</script>

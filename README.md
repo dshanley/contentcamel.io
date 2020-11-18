@@ -28,6 +28,12 @@ npm install
 
 This will install Hugo as well as all of the Node dependencies needed to run your Hugo environment. This may take a little while!
 
+Install `htmltest` for validating output and checking for errors (eg broken internal links, etc):
+
+```
+curl https://htmltest.wjdp.uk | bash
+```
+
 # Development
 All development tasks are performed using npm run. See `"scripts"` in [package.json](/package.json) for a full list of commands.
 
@@ -70,6 +76,8 @@ aws s3 sync ./dist s3://www.contentcamel.io --delete
 ```
 
 by running the `npm run deploy` command.
+
+During the production build, the `htmltest` utility runs over the rendered output. More info on [htmltest here](https://github.com/wjdp/htmltest) including the config. 
 
 ## Environment Variables
 This project uses environment variables to handle the CircleCI deployment, as well as the Algolia index.

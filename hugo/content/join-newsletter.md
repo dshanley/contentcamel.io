@@ -2,7 +2,7 @@
 aliases:
 - "/newsletter/"
 title: Join the Content Camel Newsletter
-headline: Join the Camel Crowd
+headline: Join the Content Camel Newsletter
 type: join-newsletter
 weight: 1
 publishdate: 2019-07-01 04:00:00 +0000

@@ -10,14 +10,14 @@ textline: ''
 headline: 'Ultimate Guide on Content Marketing Salaries (131,963 salary data points)'
 images:
 - "/uploads/2020/01/Content_Marketing_Salary_Report.png"
-categories: []
+categories: ['sales enablement', 'content marketing']
 tags: ['template']
 cta:
   headline: 'Download the full guide'
   textline: 'Explore the salary details and comparisons in the full Content Marketing Salary Report'
   ctas:
     - textline: Get guide
-      RelPermalink: '/downloads/content-marketing-guide'
+      RelPermalink: '/'
       button: true
 private: false
 weight: ''
@@ -41,7 +41,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/Director_of_Content_Marketing_Salaries.png) 
 
-[Get more Director of Content salary details here →](/downloads/content-marketing-guide)
+[Get more Director of Content salary details here →](/downloads/content-marketing-guide/)
 
 ## Content Marketing Manager Salary Range
 
@@ -53,7 +53,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/Content_Marketing_Manager_Salaries.png)
  
-[Get more Content Marketing Manager salary details here →](/downloads/content-marketing-guide)
+[Get more Content Marketing Manager salary details here →](/downloads/content-marketing-guide/)
 
 ## Content Marketing Specialist Salary Range
 
@@ -65,7 +65,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/Content_Marketing_Specialist_Salaries.png)
 
-[Get more Content Marketing Specialist salary details here →](/downloads/content-marketing-guide)
+[Get more Content Marketing Specialist salary details here →](/downloads/content-marketing-guide/)
 
 ## Content Marketing Coordinator Salary Range
 
@@ -77,7 +77,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/Content_Marketing_Coordinator_Salaries.png)
 
-[Get more Content Marketing Coordinator salary details here →](/downloads/content-marketing-guide)
+[Get more Content Marketing Coordinator salary details here →](/downloads/content-marketing-guide/)
 
 ## Director of Product Marketing Salary Range
 
@@ -89,7 +89,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/Director_of_Product_Marketing_Salaries.png)
  
-[Get more Director of Product Marketing salary details here →](/downloads/content-marketing-guide)
+[Get more Director of Product Marketing salary details here →](/downloads/content-marketing-guide/)
 
 ## Product Marketing Manager Salary Range
 
@@ -101,7 +101,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/Product_Marketing_Manager_Salaries.png)
  
-[Get more Product Marketing Manager salary details here →](/downloads/content-marketing-guide)
+[Get more Product Marketing Manager salary details here →](/downloads/content-marketing-guide/)
 
 ## SEO Manager Salary Range
 
@@ -113,7 +113,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/SEO_Manager_Salaries.png)
 
-[Get more SEO Manager salary details here →](/downloads/content-marketing-guide)
+[Get more SEO Manager salary details here →](/downloads/content-marketing-guide/)
 
 ## SEO Specialist Salary Range
 
@@ -125,7 +125,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/SEO_Specialist_Salaries.png)
 
-[Get more SEO Specialist salary details here →](/downloads/content-marketing-guide)
+[Get more SEO Specialist salary details here →](/downloads/content-marketing-guide/)
 
 ## Sales Enablement Manager Salary Range
 
@@ -137,7 +137,7 @@ That’s why Content Camel put together the Content Marketing Salary Report. **W
 
 ![](/uploads/2020/01/Sales_Enablement_Manager_Salaries.png)
 
-[Get more Sales Enablement Manager salary details here →](/downloads/content-marketing-guide)
+[Get more Sales Enablement Manager salary details here →](/downloads/content-marketing-guide/)
 
 ## Director of Sales Enablement
 

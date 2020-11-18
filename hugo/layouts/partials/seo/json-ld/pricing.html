@@ -5,7 +5,7 @@
   {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "{{ .title }}",
+    "name": "{{ .title }} Plan",
     {{- with $.Params.images -}}
     "image": [
     {{- range first 6 . -}}
@@ -27,8 +27,7 @@
     "offers": {
       "@type": "Offer",
       "price": {{ .priceMonthly }},
-      "priceCurrency": "USD",
-
+      "priceCurrency": "USD"
     }
   }
   {{- end -}}

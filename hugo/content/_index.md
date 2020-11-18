@@ -120,7 +120,7 @@ features:
 
     Finally, a sales enablement tool that's a great fit for both Sales *and* Marketing.
 
-    [Learn more →](/tour)
+    [Learn more →](/tour/)
   visual:
     permalink: "/img/content-camel-settings-funnel-stage.png"
     alt: Organize funnel stage, content types for Sales Enablement
@@ -132,7 +132,7 @@ features:
     
     With Content Camel as your sales enablement tool, you'll give everyone access to content that converts -- wherever they are working -- with our Chrome Extension. 
 
-    [Learn more →](/tour)
+    [Learn more →](/tour/)
   visual:
     permalink: "/img/contentcamel-main-sales-enablement-chrome-extension.png"
     alt: Organize drive for Sales Enablement
@@ -142,7 +142,7 @@ features:
   textline: |
     Accelerate pipeline and your buyer's decision making process with super easy content grouping and publishing as branded pages.
 
-    [Learn more →](/tour#unlock-personalized-sales-content)
+    [Learn more →](/tour/#unlock-personalized-sales-content)
   visual:
     permalink: "/img/content-camel-sites-content-experiences.png"
     alt: Content experiences and customized buyer journeys
@@ -156,7 +156,7 @@ cta:
       textline: Try for Free
       primary: true
       button: true
-    - RelPermalink: "/tour"
+    - RelPermalink: "/tour/"
       textline: Take the tour
       primary: false
       button: false

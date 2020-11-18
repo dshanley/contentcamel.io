@@ -1,4 +1,5 @@
 ---
+aliases: []
 title: How to do a sales content audit | Get The Free Template
 description: Discover everything your business needs to perform an extensive sales content audit and how to use its data insights to craft powerful content strategies.
 toc: true
@@ -11,18 +12,17 @@ textline: ''
 headline: 'How to do a Sales Content Audit'
 images:
 - "/uploads/2020/09/sales-content-audit.png"
-categories: []
+categories: ['sales enablement', 'sales']
 tags: ['template']
 cta:
   headline: 'Get the editable template'
   textline: 'Audit your sales assets with this free template'
   ctas:
     - textline: Get template
-      RelPermalink: '/downloads/sales-content-audit-template'
+      RelPermalink: '/downloads/sales-content-audit-template/'
       button: true
 private: false
 weight: ''
-aliases: []
 draft: false
 
 ---
@@ -110,13 +110,13 @@ If you're just getting started, using a **sales content inventory spreadsheet te
 * Now, update the funnel stage column for each piece. Update the industry it's written for, the channel or sharing format, and the ideal audience. 
 * Finally, you can add in keywords to see more detail on the content and see any content overlaps. 
 
-One benefit of creating a [content map](/downloads/sales-content-audit-template) is to see how your **content works together to tell a story**. Content can be grouped in your map to demonstrate how the customer moves through the conversion funnel. As you move on to further enable your sales team and as new sales hires start, you'll have a reference point for describing your funnel with content. 
+One benefit of creating a [content map](/downloads/sales-content-audit-template/) is to see how your **content works together to tell a story**. Content can be grouped in your map to demonstrate how the customer moves through the conversion funnel. As you move on to further enable your sales team and as new sales hires start, you'll have a reference point for describing your funnel with content. 
 
-[![Sales Content Audit Template](/uploads/2020/09/sales-content-audit-template.png)](/downloads/sales-content-audit-template)
-<div class="hero-cta center"><a href="/downloads/sales-content-audit-template">Access the Sales Audit Template here →</a></div>
+[![Sales Content Audit Template](/uploads/2020/09/sales-content-audit-template.png)](/downloads/sales-content-audit-template/)
+<div class="hero-cta center"><a href="/downloads/sales-content-audit-template/">Access the Sales Audit Template here →</a></div>
 
 
-Finally, as you review each piece of content, give each piece of content a **score** for effectiveness, correctness, use, conversion success, and other relevant factors for your business needs. These scores can help you determine which materials can be retired, which need to be redesigned to [fit the current brand](https://contentcamel.io/blog/how-to-create-a-consistent-marketing-message/) or product iteration, and which pieces are [performing best](https://www.saleshacker.com/7-steps-to-sales-content-mastery/). Interviewing your sales team about the content they use can help you score your content accurately. 
+Finally, as you review each piece of content, give each piece of content a **score** for effectiveness, correctness, use, conversion success, and other relevant factors for your business needs. These scores can help you determine which materials can be retired, which need to be redesigned to [fit the current brand](https://contentcamel.io/blog/how-to-create-a-persona-template/) or product iteration, and which pieces are [performing best](https://www.saleshacker.com/7-steps-to-sales-content-mastery/). Interviewing your sales team about the content they use can help you score your content accurately. 
 
 Armed with this information, it's time to set a go-forward strategy.
 
@@ -136,7 +136,7 @@ In addition to determining your next content steps, you can use your content map
 
 Rather than having your information spread across multiple folders, Dropbox, Google Drive accounts, and more, storing your newly-organized [content in one place](https://contentcamel.io/tour/) saves your sales team time. With easily-accessible new and updated content, your sales team can spend less time digging for the right marketing piece and more time with prospects. It ends a lot of the frustation sales and marketing teams have with messy drives and speeds the activation of the sales team on any launches you have, too. 
 
-[![Sales Content Activation](/uploads/2020/09/sales-content-audit-activation-leaderboard.png)](/tour#complete-content-analytics)
+[![Sales Content Activation](/uploads/2020/09/sales-content-audit-activation-leaderboard.png)](/tour/#complete-content-analytics)
 <div class="center"><strong>Leaderboard of shares and views</strong></div>
 
 Training your team on using your new content and storage structure can help them quickly find the content they need even when they're on the phone with a customer. Storing **talking points** (positioning) and **sales support documents** in the same system as other marketing collateral makes sure your sales team is always prepared to answer questions for prospects anywhere in the funnel. Plus, when it comes time in the conversation to share a marketing resource, the best practice is to create [custom URLs](https://www.contentcamel.io/tour/#stay-consistent-and-on-brand) for each piece of content to help your sales team track performance!
@@ -153,7 +153,7 @@ Gathering information on what content the sales team sends out, what content lin
 
 It's easy to see what new goals to prioritize in creating new content and improving the existing content delivery systems. You'll be able to track which pieces are the most relevant, which contribute most to successful sales, and which pieces fall flat with customers. With capabilities like Content Camel's sales leaderboards by content sharing, you'll know who on the team are your content champions activating on the latest content. We've seen that companies that **reduce the time to marketing asset activiation** (especially around launches), **hit their sales goals** significantly faster by **reducing ramp time**.
 
-[![Sales Content Activation](/uploads/2020/09/sales-content-audit-content-type.png)](/tour#complete-content-analytics)
+[![Sales Content Activation](/uploads/2020/09/sales-content-audit-content-type.png)](/tour/#complete-content-analytics)
 <div class="center"><strong>Where are your content gaps?</strong></div>
 
 
@@ -165,5 +165,5 @@ Updating your **sales content inventory** with each new or edited piece of conte
 
 If you're ready to tackle a sales audit and need a new sales content storage solution, Content Camel is the perfect tool for you. We've designed it to be easy to roll out, keep your content inventory up to date, and generate the tracking information you need to make decisions. [Sign up for a free trial](https://app.contentcamel.io/signup) today and see how easy we can make managing and tracking your sales content!
 
-[Disover how Content Camel makes content audits easy →](/tour)
+[Disover how Content Camel makes content audits easy →](/tour/)
 
