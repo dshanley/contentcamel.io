@@ -116,7 +116,7 @@ One benefit of creating a [content map](/downloads/sales-content-audit-template/
 <div class="hero-cta center"><a href="/downloads/sales-content-audit-template/">Access the Sales Audit Template here →</a></div>
 
 
-Finally, as you review each piece of content, give each piece of content a **score** for effectiveness, correctness, use, conversion success, and other relevant factors for your business needs. These scores can help you determine which materials can be retired, which need to be redesigned to [fit the current brand](https://contentcamel.io/blog/how-to-create-a-persona-template/) or product iteration, and which pieces are [performing best](https://www.saleshacker.com/7-steps-to-sales-content-mastery/). Interviewing your sales team about the content they use can help you score your content accurately. 
+Finally, as you review each piece of content, give each piece of content a **score** for effectiveness, correctness, use, conversion success, and other relevant factors for your business needs. These scores can help you determine which materials can be retired, which need to be redesigned to [fit the current brand](https://www.contentcamel.io/blog/how-to-create-a-persona-template/) or product iteration, and which pieces are [performing best](https://www.saleshacker.com/7-steps-to-sales-content-mastery/). Interviewing your sales team about the content they use can help you score your content accurately. 
 
 Armed with this information, it's time to set a go-forward strategy.
 
@@ -134,7 +134,7 @@ Once you've set a priority list for your content, work with your communications 
 
 In addition to determining your next content steps, you can use your content map to design intentional and effective content storage for all your sales enablement materials. Having all your content pulled into one location can really make sure each member of your team uses the most recently updated content. It's critical to a streamlined and effective sales processes. 
 
-Rather than having your information spread across multiple folders, Dropbox, Google Drive accounts, and more, storing your newly-organized [content in one place](https://contentcamel.io/tour/) saves your sales team time. With easily-accessible new and updated content, your sales team can spend less time digging for the right marketing piece and more time with prospects. It ends a lot of the frustation sales and marketing teams have with messy drives and speeds the activation of the sales team on any launches you have, too. 
+Rather than having your information spread across multiple folders, Dropbox, Google Drive accounts, and more, storing your newly-organized [content in one place](https://www.contentcamel.io/tour/) saves your sales team time. With easily-accessible new and updated content, your sales team can spend less time digging for the right marketing piece and more time with prospects. It ends a lot of the frustation sales and marketing teams have with messy drives and speeds the activation of the sales team on any launches you have, too. 
 
 [![Sales Content Activation](/uploads/2020/09/sales-content-audit-activation-leaderboard.png)](/tour/#complete-content-analytics)
 <div class="center"><strong>Leaderboard of shares and views</strong></div>

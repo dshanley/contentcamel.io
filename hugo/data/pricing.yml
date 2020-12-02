@@ -1,10 +1,10 @@
 ---
 plans:
-- title: Individual
-  priceAnnually: "13.50"
-  priceMonthly: "15"
-  description: For small teams and individuals.
-  planIncludes: Up to 10 users.
+- title: Solo
+  priceAnnually: "Free"
+  priceMonthly: "Free"
+  description: For productive solo sellers and marketers.
+  planIncludes: Single user.
   buttonText: Get started
   buttonUrl: https://app.contentcamel.io/signup
   planItems:
@@ -21,11 +21,11 @@ plans:
   - text: 1GB storage, 100 assets
   - text: Standard support
     info: First class support supported by our entire team.
-- title: Business
-  priceAnnually: "22.50"
-  priceMonthly: "25"
-  description: For larger teams focused on branding and personalization.
-  planIncludes: Everything in Individual plus
+- title: Team
+  priceAnnually: "12.75"
+  priceMonthly: "15"
+  description: For growing teams focused on performance.
+  planIncludes: Everything in Solo plus
   buttonText: Get started
   buttonUrl: https://app.contentcamel.io/signup
   planItems:
@@ -37,7 +37,7 @@ plans:
   - text: Custom branding on URLs and buyer experiences
     info: Customize the look and feel of share URLs and branding on buyer experience pages
   - text: Business support
-    info: Median first response time under 2 hours
+    info: Median first response time under 30 minutes
 # - title: Pro
 #   priceAnnually: "0"
 #   priceMonthly: "749"
@@ -63,8 +63,8 @@ plans:
 - title: Enterprise
   priceAnnually: _
   priceMonthly: Call
-  description: 'Custom plans to support the largest teams.'
-  planIncludes: Everything in Business plus
+  description: 'Custom plans to support the largest organizations.'
+  planIncludes: Everything in Team plus
   buttonText: Contact us
   buttonUrl: https://cal.mixmax.com/shanley/ccenterprise
   planItems:

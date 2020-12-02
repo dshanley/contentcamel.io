@@ -165,7 +165,7 @@ Let’s say your sales goals for the next quarter are to close late stage deals 
 
 See how that works?
 
-All of that new content will get added or updated in your existing audit as well. It’s a living, breathing document (or system, like [Content Camel](https://contentcamel.io/tour/)).
+All of that new content will get added or updated in your existing audit as well. It’s a living, breathing document (or system, like [Content Camel](https://www.contentcamel.io/tour/)).
 
 There are a lot of areas you can focused on. Take it one area at a time and make sure you and the teams are really maintaining the focus. 
 
@@ -287,7 +287,7 @@ Well, to **measure the impact** of course.
 I find that Sales management, Marketing, and Product Marketing are often wondering **“is the sales team using the latest stuff?”.** 
 
 It can be hard and **frustrating** to answer that without some systems in place.
-With our Content Camel [sales enablement tool](https://contentcamel.io/tour/), we measure this with shares, views, and sales leaderboards. This gives us a picture of both activation (by the team) and engagement (by the prospects). 
+With our Content Camel [sales enablement tool](https://www.contentcamel.io/tour/), we measure this with shares, views, and sales leaderboards. This gives us a picture of both activation (by the team) and engagement (by the prospects). 
 
 [![Sales Content Activation](/uploads/2020/09/sales-content-audit-activation-leaderboard.png)](/tour/#complete-content-analytics)
 <div class="center"><strong>Leaderboard of shares and views</strong></div>

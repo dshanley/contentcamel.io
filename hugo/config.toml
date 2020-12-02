@@ -1,4 +1,4 @@
-baseurl = "https://contentcamel.io"
+baseurl = "https://www.contentcamel.io"
 copyright = ""
 defaultContentLanguage = "en"
 destination = "../dist/"

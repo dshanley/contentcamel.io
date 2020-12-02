@@ -3,12 +3,14 @@
     <span class="plan--title">{{ .title }}</span>
     <div class="plan--cost">
       <div class="plan--amount">
-        <span class="currency">$</span>
+        {{ if eq .title "Team"}}<span class="currency">$</span>{{ end }}
         <span class="price">{{ .priceMonthly }}</span>
       </div>
+      {{ if eq .title "Team"}}
       <span class="price-note">
         Per user / month
       </span>
+      {{ end }}
       <p class="plan--description plan--description__mobile">{{ .description }}</p>
     </div>
   </div>

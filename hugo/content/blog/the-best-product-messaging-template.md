@@ -17,7 +17,7 @@ cta:
   textline: 'Discover and improve your messaging with this completely editable template'
   ctas:
     - textline: Get template
-      RelPermalink: '/'
+      RelPermalink: '/downloads/product-messaging-template/'
       button: true
 private: false
 weight: ''

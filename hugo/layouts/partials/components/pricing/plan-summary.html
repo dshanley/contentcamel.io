@@ -2,10 +2,10 @@
   <span class="plan--title">{{ .title }}</span>
   <div class="plan--cost">
     <div class="plan--amount">
-      {{ if ne .title "Enterprise"}}<span class="currency">$</span>{{ end }}
+      {{ if eq .title "Team"}}<span class="currency">$</span>{{ end }}
       <span class="price">{{ .priceMonthly }}</span>
     </div>
-    {{ if ne .title "Enterprise"}}
+    {{ if eq .title "Team" }}
     <span class="price-note">
       <!-- {{ if eq .title "Starter" }}Per user{{ end }}
       {{ if eq .title "Pro" }}Per user{{ end }} -->
