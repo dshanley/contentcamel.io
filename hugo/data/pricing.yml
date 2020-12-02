@@ -26,7 +26,7 @@ plans:
   priceMonthly: "15"
   description: For growing teams focused on performance.
   planIncludes: Everything in Solo plus
-  buttonText: Get started
+  buttonText: Start Trial
   buttonUrl: https://app.contentcamel.io/signup
   planItems:
   - text: Up to 100 users

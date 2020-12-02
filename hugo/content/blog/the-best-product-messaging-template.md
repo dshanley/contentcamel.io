@@ -27,7 +27,7 @@ draft: false
 ---
 ## Improve Your Product Messaging with our Product Messaging Template
 
-Here’s the situation -- you sell products or services, but we’ll just call them “products” for simplicity here. Most of the Sales and Marketing team are on the same page about what your product does -- some of the values and benefits it provides, how it’s a bit different and generally how to talk about it. But, you know that consistency is key to driving understanding with your buyer and that only consistency brings the repeatability that drives word of mouth and smooths out the purchasing cycle. 
+Here’s the situation -- you sell products or services, but we’ll just call them “products” for simplicity here. Most of the Sales and Marketing team are on the same page about what your product does -- some of the values and benefits it provides, how it’s  a bit different and generally how to talk about it. But, you know that consistency is key to driving understanding with your buyer and that only consistency brings the repeatability that drives word of mouth and smooths out the purchasing cycle. 
 
 And you’re frustrated when you hear the CEO give 3 different short versions of the product message (the “elevator pitch” of your product), and you’re frustrated that every single piece of collateral seems to reinvent the wheel, as you message your product. So, you searched for “product messaging template” or “product positioning guide” and here you are. 
 
