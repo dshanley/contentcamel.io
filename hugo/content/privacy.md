@@ -8,7 +8,7 @@ type: page
 menu:
   footer:
     parent: Company
-    weight: 3
+    weight: 4
 
 ---
 ## 1. Introduction

@@ -82,6 +82,10 @@ features:
   textline: "End the frustration of Drive folders, avoid costly sales content management tools, and get organized for sales success. \n\n You'll see the results with **accelerated pipeline** and **higher buyer engagement**."
   direction: vertical
   class: section-sync
+  ctas:
+    - textline: Schedule a demo
+      RelPermalink: "https://cal.mixmax.com/shanley/cc30"
+      button: true
 - headline: Bring all your content together in one place
   textline: "Align content marketing, product marketing and sales enablement by bringing all their assets together inside Content Camel. \n \nGive sales reps the eBooks, datasheets, white papers, blog posts, and videos they need to serve buyers and close deals faster.
     \n"
@@ -91,7 +95,7 @@ features:
   direction: rtl
   class: section-sync
 - headline: Easily add offline and online content
-  textline: "Content Camel is designed to organize online content like blog posts and offline content like PDFs and spreadsheets. \n \nPick up where Google Drive, Box, Dropbox leave off by helping your sales organizations take advantage of top performing blog posts, industry articles, and marketing collateral organized by funnel stage and content type. \n \nBulk import or add assets indivdually from Google Drive, URLs, or via direct upload.
+  textline: "Content Camel is designed to organize online content like blog posts and offline content like PDFs and spreadsheets. \n \nPick up where Google Drive, Box, Dropbox leave off by helping your sales organizations take advantage of top performing blog posts, industry articles, and marketing collateral organized by funnel stage and content type. \n \nBulk import or add assets individually from Google Drive, URLs, or via direct upload.
     \ \n</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between;
     padding: 20px 30px;\">\n  
     <div style=\"flex:auto;text-align:center;padding-right: 5px;\">\n    <img

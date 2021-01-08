@@ -64,7 +64,7 @@ contentLoaded().then(() => {
     info.forEach(function(item) {
       item.addEventListener("click", function(event) {
         item.nextElementSibling.classList.add("active")
-        event.stopPropagation()
+        // event.stopPropagation()
       })
       item.addEventListener("touchstart", function(event) {
         item.nextElementSibling.classList.add("active")
@@ -72,7 +72,7 @@ contentLoaded().then(() => {
       })
       document.body.addEventListener("click", function(event) {
         item.nextElementSibling.classList.remove("active")
-        event.stopPropagation()
+        // event.stopPropagation()
       })
       document.body.addEventListener("touchstart", function(event) {
         item.nextElementSibling.classList.remove("active")

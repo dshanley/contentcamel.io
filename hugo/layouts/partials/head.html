@@ -1,4 +1,5 @@
 {{- $title := cond (isset . "Title") .Title $.Site.Title -}}
+{{- $enableChat := or .IsHome (eq .Page.Type "pricing") (eq .Page.Type "landing-page") (eq .Page.Type "contact") -}}
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="Accept-CH" content="DPR,Width,Viewport-Width" />
@@ -63,3 +64,33 @@
 <script>
 var featureFlagContent = {};
 </script>
+
+{{- if $enableChat -}}
+<script>
+  window.Papercups = {
+    config: {
+      accountId: "52effd50-caa6-4732-bc3c-6f827db929db",
+      title: "Welcome to Content Camel 🐪",
+      subtitle: "What can we help you with? 😊",
+      primaryColor: "#ffbb33",
+      greeting: "Hi there! How can we help? We'll reply as quickly as we can.",
+      newMessagePlaceholder: "Start typing...",
+      baseUrl: "https://app.papercups.io",
+      requireEmailUpfront: true,
+      showAgentAvailability: true
+    },
+  };
+</script>
+<script
+  type="text/javascript"
+  async
+  defer
+  src="https://app.papercups.io/widget.js"
+></script>
+<script
+type="text/javascript"
+async
+defer
+src="https://app.papercups.io/storytime.js"
+></script>
+{{- end -}}
