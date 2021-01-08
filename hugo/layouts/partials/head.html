@@ -73,7 +73,7 @@ var featureFlagContent = {};
       title: "Welcome to Content Camel 🐪",
       subtitle: "What can we help you with? 😊",
       primaryColor: "#ffbb33",
-      greeting: "Hi there! How can we help? We'll reply as quickly as we can.",
+      greeting: "{{ if (eq .Page.Type "pricing") }} Hi there! Questions about pricing or plans? {{ else }} Hi there! Can we help answer any questions? {{ end }}",
       newMessagePlaceholder: "Start typing...",
       baseUrl: "https://app.papercups.io",
       requireEmailUpfront: true,
