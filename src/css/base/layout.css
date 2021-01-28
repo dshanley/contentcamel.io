@@ -184,6 +184,24 @@ body.in-transition {
   .feature-block--illu {
     position: relative;
     width: inherit;
+
+    .feature-video-container {
+      max-width: none;
+    }
+
+    .feature-video-container::after {
+      padding-top: 56.25%;
+      display: block;
+      content: "";
+    }
+
+    .feature-video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
   }
 
   .feature-block--illu img {

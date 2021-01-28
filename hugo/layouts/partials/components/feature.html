@@ -104,16 +104,31 @@
           navElement.classList.add("active")
         }
         </script>{{- end -}}
-        {{- if eq .direction "ltr" -}}{{- with .visual -}}
-        <div class="feature-block--illu illu-shadow--right">
-          {{- partial "cloudinary/image" (dict "pg" $.pg "preset" "feature" "image" .permalink "alt" (.alt | default .permalink)) }}
-        </div>
-        {{- end -}}{{- end -}}
-        {{- if eq .direction "vertical" -}}{{- with .visual -}}
-        <div class="feature-block--illu illu-shadow--right">
-          {{- partial "cloudinary/image" (dict "pg" $.pg "image" .permalink "alt" (.alt | default .permalink) "min_width" "320" "max_width" "4230" "steps" "15" "sizes" "100vw") }}
-        </div>
-        {{- end -}}{{- end -}}
+        <!-- feature images -->
+        {{- if .visual}}
+          {{- if eq .direction "ltr" -}}{{- with .visual -}}
+          <div class="feature-block--illu illu-shadow--right">
+            {{- partial "cloudinary/image" (dict "pg" $.pg "preset" "feature" "image" .permalink "alt" (.alt | default .permalink)) }}
+          </div>
+          {{- end -}}{{- end -}}
+          {{- if eq .direction "vertical" -}}{{- with .visual -}}
+          <div class="feature-block--illu illu-shadow--right">
+            {{- partial "cloudinary/image" (dict "pg" $.pg "image" .permalink "alt" (.alt | default .permalink) "min_width" "320" "max_width" "4230" "steps" "15" "sizes" "100vw") }}
+          </div>
+          {{- end -}}{{- end -}}
+        <!-- feature videos (instead) -->
+        {{- else if .video}}
+          {{- if eq .direction "ltr" -}}{{- with .video -}}
+          <div class="feature-block--illu illu-shadow--right">
+            {{- partial "youtube/embed-feature" .path -}}
+          </div>
+          {{- end -}}{{- end -}}
+          {{- if eq .direction "vertical" -}}{{- with .video -}}
+          <div class="feature-block--illu illu-shadow--right">
+            {{- partial "youtube/embed-feature" .path -}}
+          </div>
+          {{- end -}}{{- end -}}
+        {{- end -}}
       </div>
     </div>
     {{- if eq .class "section-deploy" -}}
