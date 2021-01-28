@@ -14,11 +14,18 @@
         </div>
       </div>
     </div>
-    {{- if .visual -}}{{- with .visual -}}
-    <img src="{{ .permalink }}" class="factory-image desktop-only {{ .class }}" alt="{{ .alt }}"/>
-    <img src="{{ .permalink }}" class="factory-image mobile-only {{ .class }}" alt="{{ .alt }}"/>
-    {{- partial "cloudinary/image" (dict "pg" $.pg "preset" "feature" "image" .permalink "alt" (.alt | default .permalink)) }}
-    {{- end -}}{{- end -}}
+    <!-- either visual, video, or none -->
+    {{- if .visual -}}
+      {{- with .visual -}}
+      <img src="{{ .permalink }}" class="factory-image desktop-only {{ .class }}" alt="{{ .alt }}"/>
+      <img src="{{ .permalink }}" class="factory-image mobile-only {{ .class }}" alt="{{ .alt }}"/>
+      {{- partial "cloudinary/image" (dict "pg" $.pg "preset" "feature" "image" .permalink "alt" (.alt | default .permalink)) }}
+      {{- end -}}
+    {{- else if .video -}}
+      {{- with .video -}}
+        {{- partial "youtube/embed" .path -}}
+      {{- end -}}
+    {{- end -}}
     
     
 

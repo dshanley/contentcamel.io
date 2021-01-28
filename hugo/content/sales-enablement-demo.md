@@ -6,8 +6,8 @@ linktitle: Demo
 description: Sales enablement demo and sales content management demo. Compare Highspot, Showpad, and Content Camel.
 authors:
 - contentcamel
-type: landing-page-video
-layout: landing-page-video
+type: landing-page
+layout: landing-page
 date: 2021-01-27 04:00:00 +0000
 inspectlet: true
 menu:
@@ -17,18 +17,18 @@ menu:
 blocks: 
 hero:
   headline: "Sales enablement \n\ndemo"
-  textline: Content Camel is a streamlined, easy to use, and easy to roll out sales enablement solution to help guide sales and close deals faster.
+  textline: "**Content Camel** is a streamlined, easy to use, and easy to roll out sales enablement solution to help guide sales and close deals faster."
   video:
     path: "mo2PCC0VusM"
   ctas:
   - permalink: https://app.contentcamel.io/signup
     textline: Start Free Trial
     button: true
-  - permalink: "#everything-you-need-for-sales-enablement-success"
+  - permalink: "#the-end-to-frustrating-search.-everything-you-need-for-sales-success"
     textline: Learn More
     button: false
 features:
-- headline: The end to frustrating search. Everything you need for sales success. 
+- headline: The end to frustrating search. Everything you need for sales success 
   textline: ''
   tabs:
   - headline: Content Management
@@ -84,124 +84,61 @@ features:
     - textline: Start for Free
       RelPermalink: "https://app.contentcamel.io/signup"
       button: true
-- headline: Bring all your content together in one place
-  textline: "Align content marketing, product marketing and sales enablement by bringing all their assets together inside Content Camel. \n \nGive sales reps the eBooks, datasheets, white papers, blog posts, and videos they need to serve buyers and close deals faster.
+
+##################      
+## Features
+- headline: Advanced search built for sales and marketing
+  textline: "Finding that buried asset can be frustrating. For new team members, it can be impossible. 
+  
+  \nDiscover how Content Camel's advanced search and organization by funnel stage, content type, and more enable users to **find what they're looking for fast**. All organized for sales and marketing wins.
+  \n\n[Start for Free →](https://app.contentcamel.io/signup)
     \n"
   video:
-    path: "mo2PCC0VusM"
+    path: "P6UqJLNjgtw"
   direction: ltr
   class: section-sync
-- headline: Easily add offline and online content
-  textline: "Content Camel is designed to organize online content like blog posts and offline content like PDFs and spreadsheets. \n \nPick up where Google Drive, Box, Dropbox leave off by helping your sales organizations take advantage of top performing blog posts, industry articles, and marketing collateral organized by funnel stage and content type. \n \nBulk import or add assets individually from Google Drive, URLs, or via direct upload.
-    \ \n</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between;
-    padding: 20px 30px;\">\n  
-    <div style=\"flex:auto;text-align:center;padding-right: 5px;\">\n    <img
-    height=\"35px;\" src=\"/img/logos/google-drive.svg\" alt=\"Google Drive\">\n  </div>\n  
-    <div style=\"flex:auto;text-align:center;padding-right: 5px;\">\n    <img height=\"35px;\" src=\"/img/logos/dropbox.svg\"
-    alt=\"Dropbox\">\n  </div>\n  
-    <div style=\"flex:auto;text-align:center;padding-right: 5px;\">\n    <img
-    height=\"35px;\" src=\"/img/logos/onedrive.svg\" alt=\"OneDrive\">\n  </div>\n</div><p>\n"
-  visual:
-    permalink: "/img/content-camel-gdrive-import.gif"
-    alt: Sales content management content import
-  direction: rtl
-  class: section-sync
-- headline: Rapid import. Tools for staying organized.
-  textline: "Take your existing content mapping, sales collateral, and marketing collateral inventory spreadsheets and upload all assets into Content Camel together. \n\nOrganize assets with content funnel stages, content types, and content tags. 
-    \ \n</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between;
-    padding: 20px 100px;\">\n  
-    <div style=\"flex:auto;text-align:center;\">\n    <img
-    height=\"35px;\" src=\"/img/logos/excel.svg\" alt=\"Excel\">\n  </div>\n  
-    <div style=\"flex:auto;text-align:center;\">\n    <img height=\"35px;\" src=\"/img/logos/google-sheets.svg\"
-    alt=\"Google Sheets\">\n  </div>\n"
-  visual:
-    permalink: "/img/content-camel-csv-import.gif"
-    alt: How to import a CSV for sales content management
-  direction: rtl
-  class: section-sync
-- headline: Improve content discovery
-  textline: "Make sure sellers and marketers find what they're looking for every time by easily mapping your content to funnel stages, content types (like eBooks, battlecards, blog posts), and tags. \n\n By assigning funnel stages and asset types, you'll know what content is getting stale and what content drives the most enagement across prospects and customers."
-  visual:
-    permalink: "/img/content-camel-funnel-stage-settings.png"
-    alt: How to define funnel stages for sales content management
+
+- headline: Turn sales collateral into sites that convert
+  textline: "Our sharing starts with **automatic shortlinks** on **your own branded domain**, but you and your users will also be able to **create collections of content tailored for each buyer**. 
+  \n\nThe fastest way to create **content microsites**, Content Camel Sites makes it easy to showcase your best content.
+  \n\n[Build sites →](https://app.contentcamel.io/signup)
+    \n"
+  video:
+    path: "9j39m6d0_Ck"
   direction: ltr
   class: section-sync
-- headline: Add custom tags
-  textline: "Create and manage custom content tags to add additional context to content assets. \n\n Identify and filter assets by campaign, vertical, industry, and persona. Use tags to flag assets that need to be updated.\n\n Then, go beyond tags to add positioning statements and user-facing information for each asset as you refine your sales plays."
-  visual:
-    permalink: "/img/content-camel-tags-settings.gif"
-    alt: How to set tags to manage your sales content
+
+- headline: (Content) Details that matter
+  textline: "Set the funnel stage. Categorize by type. Tag it. Mark it internal-only for assets like price lists and internal decks. Configure a custom shortlink. 
+  \n\nTake a quick look at how details in Content Camel let you position the web links, video, PDFs, docs, and presentations that drive your sales team forward.
+  \n\n[Start Free →](https://app.contentcamel.io/signup)
+    \n"
+  video:
+    path: "sPUOZC-EV8s"
   direction: ltr
   class: section-sync
-- headline: "Start streamlining your sales today"
-  textline: 
-    "Easy to set up. Easy to roll out. Instant adoption across Sales and Marketing. Discover how Content Camel can help you drive more value from your content and close deals faster.\n\n"
-  ctas:
-    - textline: Get started
-      RelPermalink: "https://app.contentcamel.io/signup"
-      button: true
-  direction: vertical
-  class: section-roots
-- headline: Works everywhere you do
-  textline: "Rollout and adopt Content Camel as your sales content management tool right now whether your team is 5, 50, or 500. \n\nOur Chrome extension allows your team to access all the content that admins set up and categorize. Filter by your favorites and see what's been voted up by others. \n\nMore than just the best content search, find, and sharing capabilities, our extension **improves Sales and Marketing communication** with the ability to add wished-for content."
-  visual:
-    permalink: "/img/content-camel-chrome-extension-gmail.png"
-    alt: An extension for sales content management
-  direction: rtl
-  class: section-sync
-- headline: Unlock personalized sales content
-  textline: "**Remove the barriers to marketers and sellers** in creating custom, personalized pages of marketing and sales collateral with collections and sites in Content Camel. \n\nQuickly curate existing and new assets and publish as pages complete with your branded domain and style settings. \n\nThe future of Sales is **personalized content and one-to-one messaging**, and Content Camel makes it super simple to **speed your buyers' evalutation process**."
-  visual:
-    permalink: "/img/content-camel-collection-site.png"
-    alt: Create personalized sales content
-  direction: rtl
-  class: section-sync
-- headline: Stay consistent and on-brand
-  textline: "Content Camel gives you **multiple ways to express your brand and stay consistent in your sales process**.\n\nConfigure custom short URLs for individual assets, [set up your own custom domain for all assets](https://learn.contentcamel.io/tutorial/how-to-set-up-a-custom-domain/), and simply set your brand colors and logo for personalize content experience pages."
-  visual:
-    permalink: "/img/content-camel-short-url-customization.gif"
-    alt: Create short urls for content
-  direction: rtl
-  class: section-sync
-- headline: Collect content requests from Sales
-  textline: "**Improve Marketing-Sales feedback loops** to understand what's working and what's need. \n\n**Sales reps can directly requests pieces of content that will help them close deals** through the Wishlist functionality inside Content Camel. Sellers can upvote wishes to **increase signal on what's needed**, and marketers can provide feedback on what's in progress."
-  visual:
-    permalink: "/img/content-camel-marketing-request-wishlist.png"
-    alt: Create short urls for content
-  direction: rtl
-  class: section-sync
-- headline: Simple access controls
-  textline: "Organize your prospect and customer content library according to your sales cycle and company's sales process. \n\nSome solutions are only designed for sharing content, but **Content Camel offers internal vs external content flagging**, so you can confidently add sales decks, battlecards, price lists, and other internal content that shouldn't be directly shared. \n\nKeep all your sales training and sales plays in one place -- in one solution and right next to marketing collateral critical to advancing your sales process."
-  visual:
-    permalink: "/img/content-camel-internal-content-flagging.png"
-    alt: Enable sales content tool access controls
+
+- headline: Content feedback for informed decisions
+  textline: "Content Camel gives your team the power to **upvote content**, sales requests, and pin favorite content.
+  \n\nBesides great team collaboration, this **gives you additional insights** into what content is valued, being used, and contributing to closing deals.
+  \n\n[Improve feedback →](https://app.contentcamel.io/signup)
+    \n"
+  video:
+    path: "mV2jRuJ0cQQ"
   direction: ltr
   class: section-sync
-- headline: Straightforward user roles
-  textline: "Give salespeople different access than content marketers, product marketers and sales enablement team members to control who can add assets and control branding and who has access rights. \n\nEmpowers sellers to build their own content pages for personalized selling while remaining consistent and on-brand."
-  visual:
-    permalink: "/img/content-camel-admin-role.png"
-    alt: Easily create access roles for content
+
+- headline: Closed-loop feedback with sales requests
+  textline: "As a marketer it's hard to **get consistent feedback** from the Sales team. As a seller, it's a challenge to understand how to make meaningful sales content requests. That's why we added wishlists and sales content requests to Content Camel.
+  \n\nIn this quick overview, see how easy it is to contribute and upvote sales requests from within the webapp or browser extension.
+  \n\n[Undersand content performance →](https://app.contentcamel.io/signup)
+    \n"
+  video:
+    path: "HFLhmgVVpP4"
   direction: ltr
   class: section-sync
-- headline: Understand how content is performing
-  textline: It's mostly a blackbox to Marketing, Product Marketing, and Sales teams how their content is actually performing. Content Camel offers **realtime metrics and engagement insights**, so you can **get the most value from your content investment**.
-  direction: vertical
-  class: section-sync
-- headline: Collect upvote data on all content
-  textline: "Sales reps can upvote the content that helps them during their sales conversations, so you can double-down based on feedback. \n\nIn addition to reporting on upvotes, you can track real time stats for favorited content and also upvoted [content wishes](#collect-content-requests-from-sales)."
-  visual:
-    permalink: "/img/content-camel-analytics-upvoted.png"
-    alt: Understand what sales content is popular
-  direction: rtl
-  class: section-sync
-- headline: Complete content analytics
-  textline: "With each asset having it's own smart shortlink, get **real time share and view metrics**. Roll up **engagement numbers by content type and funnel stage**. Quickly build your own views and **export reports** for proving the value of your sales collateral.\n\n**Understand what content needs refreshing** and perform detailed **content audits without the headaches** of outdated monster spreadsheets."
-  visual:
-    permalink: "/img/content-camel-sales-enablement-analytics.gif"
-    alt: Understand sales enablement analytics
-  direction: rtl
-  class: section-sync
+
+
 cta:
   headline: Increase sales effectiveness
   textline: "Bring your content together in one place, enable your sales team to have better conversations with prospects, increase Marketing-Sales communication, and prove the impact of content marketing.\n\n**Close more deals.**"
