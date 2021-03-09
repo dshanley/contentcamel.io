@@ -24,7 +24,7 @@ hero:
   * No contracts\n\n
     [Free trial - no credit card required](https://app.contentcamel.io/signup)"
   visual:
-    permalink: "/img/illustration-selection-process.png"
+    permalink: "/img/illustration-selection-process-searching.png"
     alt: "Seismic alternative"
   # ctas:
   # - permalink: https://app.contentcamel.io/signup

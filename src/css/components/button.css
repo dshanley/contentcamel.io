@@ -54,6 +54,19 @@
     }
   }
 
+  &.extension {
+    background-color: $color-extension;
+    color: $color-white;
+
+    &:hover {
+      background-color: $color-extension-dark;
+    }
+
+    &:active {
+      background-color: $color-extension-dark;
+    }
+  }
+
   /* Button sizes */
   &.extra-small {
     font-size: 11px;

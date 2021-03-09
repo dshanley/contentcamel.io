@@ -16,7 +16,7 @@ path_join() {
               for redirect in $(cat ./dist/redirects.json | jq -c '.[]'); do
                 from=$(echo $redirect | jq '. | .Condition.KeyPrefixEquals' | cut -d "\"" -f 2)
                 to=$(echo $redirect | jq '. | .Redirect.ReplaceKeyPrefixWith' | cut -d "\"" -f 2)
-
+                echo $from
                 from=$(path_join $from "index.html")
 
                 aws s3 cp s3://${AWS_S3_BUCKET}${from} s3://${AWS_S3_BUCKET}${from} --website-redirect ${to} --metadata-directive REPLACE

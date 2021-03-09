@@ -24,7 +24,7 @@ hero:
   * No contracts\n\n
     [Free trial - no credit card required](https://app.contentcamel.io/signup)"
   visual:
-    permalink: "/img/illustration-selection-process.png"
+    permalink: "/img/illustration-selection-process-searching.png"
     alt: "Highspot alternative"
   # ctas:
   # - permalink: https://app.contentcamel.io/signup
@@ -39,7 +39,7 @@ features:
     |  | Content Camel | Highspot |
     | --- | --- | --- | 
     | [Free trial](https://app.contentcamel.io/signup) | **✓** | x | 
-    | Pricing | **$15/user/month<br/> ($162/user/year)** | $600/user/year<br/> (annual only!) |
+    | [Pricing](/pricing/) | **$15/user/month<br/> ($162/user/year)** | $600/user/year<br/> (annual only! 50 user minimum!) |
     | Setup fee | **None** | Yes |
     | [Content Management](/tour/#everything-you-need-for-sales-enablement-success) | **✓** | ✓ |
     | [Content Experiences](/tour/#unlock-personalized-sales-content) | **✓** | ✓ |
@@ -48,12 +48,16 @@ features:
     | Rapid seller adoption | **✓** | ✓ |
     | Implementation | **Days** | Weeks<br/> +setup costs |
     | Contract | **Monthly<br/> no lock-in** | Annual only |
-
+  ctas:
+    - textline: Watch a demo
+      RelPermalink: "/sales-enablement-demo"
+      button: true
   direction: vertical
   class: section-sync
 - headline: "Start streamlining your sales today"
   textline: 
-    "Easy to set up. Easy to roll out. Instant adoption across Sales and Marketing. Consider how Content Camel can help you drive more value from your content and close deals faster.\n\n"
+    "Easy to set up. Easy to roll out. Instant adoption across Sales and Marketing. Consider how Content Camel can help you drive more value from your content and close deals faster.
+    \n\n"
   ctas:
     - textline: Try for free
       RelPermalink: "https://app.contentcamel.io/signup"

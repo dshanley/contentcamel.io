@@ -1,6 +1,6 @@
 ---
 aliases:
-- "demo"
+- "/demo/"
 title: Sales Enablement Demo
 linktitle: Demo
 description: Sales enablement demo and sales content management demo. Compare Highspot, Showpad, and Content Camel.
@@ -131,7 +131,7 @@ features:
 - headline: Closed-loop feedback with sales requests
   textline: "As a marketer it's hard to **get consistent feedback** from the Sales team. As a seller, it's a challenge to understand how to make meaningful sales content requests. That's why we added wishlists and sales content requests to Content Camel.
   \n\nIn this quick overview, see how easy it is to contribute and upvote sales requests from within the webapp or browser extension.
-  \n\n[Undersand content performance →](https://app.contentcamel.io/signup)
+  \n\n[Understand content performance →](https://app.contentcamel.io/signup)
     \n"
   video:
     path: "HFLhmgVVpP4"

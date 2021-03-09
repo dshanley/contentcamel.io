@@ -6,7 +6,9 @@ description: Sales content management and sales enablement tools. Explore best p
 authors: []
 blocks:
 hero:
-  headline: "All your Sales content  \n **in one place**."
+  headline: "Marketing content 
+    <br> and sales content 
+    <br> **in one place**."
   textline: |
     No more insane drive folders. Search, find, share, and track content everywhere with our sales enablement tools. 
   ctas:
@@ -106,7 +108,7 @@ features:
   class: section-roots
 - headline: Enable Sellers and Marketers to deliver the right content
   textline: |
-    Your team can't use what they can't find. Content Camel unravels the mystery of sales enablement and your content: PDFs, blog posts, videos, webpages, webinars, links, battlecards, decks -- all in one place. 
+    Your team can't use what they can't find. Content Camel unravels the mystery of sales enablement and your collateral: PDFs, blog posts, videos, webpages, webinars, links, battlecards, decks -- all in one place. 
     
     Upload content directly into Content Camel or link to the original location of the asset.
   visual:
