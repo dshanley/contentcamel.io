@@ -1,7 +1,7 @@
 ---
 title: Product Messaging Template | Get The Free Template
 description: Get a shortcut to building repeatable product messaging - Free. Ensure consistent key messages. Includes the PDF and an editable spreadsheet version.
-date: 2020-04-04T09:01:56-03:00
+date: 2021-03-18T09:00:00-08:00
 authors:
 - dave-shanley
 publishdate: 2020-02-01T04:00:00.000+00:00
@@ -9,7 +9,7 @@ expirydate: 2030-01-01T04:00:00.000+00:00
 textline: ''
 headline: 'A Product Messaging Template for Repeatable Product Messaging'
 images:
-- "/uploads/2020/02/hero-product-messaging-template.gif"
+- "/uploads/2020/02/hero-product-messaging-template.png"
 categories: ['templates']
 tags: ['template']
 cta:

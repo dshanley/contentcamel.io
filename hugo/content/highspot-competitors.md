@@ -26,10 +26,11 @@ hero:
   visual:
     permalink: "/img/illustration-selection-process-searching.png"
     alt: "Highspot alternative"
-  # ctas:
-  # - permalink: https://app.contentcamel.io/signup
-  #   textline: Start Free Trial
-  #   button: true
+  ctas:
+  - permalink: https://app.contentcamel.io/signup
+    textline: Start Free Trial
+    button: true
+    buttonStyle: "primary"
   # - permalink: "#everything-you-need-for-sales-enablement-success"
   #   textline: Learn More
   #   button: false
@@ -77,53 +78,73 @@ features:
     alt: Sales enablement gallery
   class: section-sync
 
-- headline: Sales enablement Chrome extension
+- headline: Sales enablement browser extensions
   textline: |
-    Give your sales team the ability to pull in the right piece of content into their existing workflows in Gmail, Salesforce, Drift, Salesloft and more.
+    Give your sales team the ability to pull in the **right piece of content** into their **existing workflows** in Gmail, Salesforce, Drift, Salesloft and more.
+
+    Highspot works well with tools like Gmail, Twitter, and LinkedIn, but Content Camel is designed to work with **all** of your web apps. Our goal is to make each individual user as productive as possible.
+
+    In addition to finding and viewing content, give all of your users the ability to get **real time notifications** when sharing with recipients. Boom! Someone just viewed that deck you sent over. Great time to follow up 👍. 
 
     [Learn more about integrating Content Camel →](/tour/#works-everywhere-you-do)
   visual:
-    permalink: "/img/illustration-content-camel-chrome-extension.png"
-    alt: Sales enablement chrome extension
+    permalink: "/img/sales-enablement-browser-extension.png"
+    alt: Sales enablement browser extension
   direction: ltr
   class: section-sync
-- headline: Search
+- headline: Search better
   textline: |
-    Faceted search enables searching by funnel stage, content type, tags, and across your asset metadata. Make it easy for Sales to discover assets aligned with the buyer's journey.
+    Intelligent search. Smart search. AI-enabled search. Fuzzy matching. Whatever you call it, our search is the most advanced under-the-hood and that means your users will be able to actually **find** what they are looking for.
+    
+    **New users ramp quickly** because they can filter down on **content types** and **funnel stages** answering questions like "what are the top assets used by the team to build awareness?"
+    
+    **All users benefit** from advanced search that applies matching based on phrases and partial words along with our ability to index metadata (like info from your blog posts) to make sure no great content goes *unfound*.
 
-    [Learn more about organizing content →](/tour/#improve-content-discovery)
+    *But you know what?* Admins love our reporting that shows **what's being searched for** and also **what's not being found**, so you can adapt your strategy based on real search volumes.
+
+    [Want to watch a short demo? →](/sales-enablement-demo/#advanced-search-built-for-sales-and-marketing)
   visual:
-    permalink: "/img/illustration-content-camel-search.png"
+    permalink: "/img/sales-enablement-ai-search.png"
     alt: Sales enablement search
   direction: rtl
   class: section-sync
 - headline: Collections
   textline: |
-    Group content into account-based marketing (ABM) campaigns or themed playbooks. **Collections enable easy grouping, filtering and personalization of content.**
+    Content folders. Content collections. Content playbooks. Like Highspot "Spots", **collections in Content Camel** allow you to group content in meaningful sets to speed up reps drilling down into the right content. 
+    
+    Content can exist across many collections and with one click **a collection can become a personalized site**. Perfect for your ABM and content-driven campaigns.
+    
+    **Collections really do enable easy grouping, filtering and personalization of content.**
 
-    [Learn more about collections and sites →](/tour/#unlock-personalized-sales-content)
+    [Check out a demo now →](/sales-enablement-demo/#turn-sales-collateral-into-sites-that-convert)
   visual:
-    permalink: "/img/illustration-content-camel-collections.png"
-    alt: Sales content sites
+    permalink: "/img/sales-enablement-collections.png"
+    alt: Sales content collections
   direction: ltr
   class: section-sync
 - headline: Personalized buyer experiences
   textline: |
-    Based on Collections, give sellers the ability to **deliver tailored microsite pages for your prospects**. Great for ABM and personalized followup.
+    Based on collections, easily give sellers the ability to **deliver tailored microsite pages for your prospects**. Great for ABM and personalized followup. Or use them for **partner channel enablement**. Or use them as **marketing resource pages**. 
 
-    [Learn more about sites →](/tour/#unlock-personalized-sales-content)
+    Imagine giving your **entire team** the ability to create pages that are **on-brand, personalized, and speak directly to the buyer**. What would they collect up? 
+
+    Whatever you do with site pages, we know it'll be awesome. And simple. And easy. 
+
+    [Learn more about sites →](/sales-enablement-demo/#turn-sales-collateral-into-sites-that-convert)
   visual:
-    permalink: "/img/illustration-content-camel-sites.png"
-    alt: Sales content sites
+    permalink: "/img/sales-enablement-resource-pages.png"
+    alt: Sales buyer experiences
   direction: rtl
   class: section-sync
 - headline: Analytics
   textline: |
     Getting budget for more great content starts with measuring the impact. Did anyone use those last launch materials? The latest deck? **Now you'll know.**
 
+    From *content aging* to *distribution of content by funnel stage*, you'll be able to **understand your content performance** with a whole new perspective. Review the leaderboard to **discover how your team is activating**. Get reports on the **top searches**, what's not found, and **automate your work** of sending out the weekly new-content added over email.
+
     [Learn more about real time analytics →](/tour/#understand-how-content-is-performing)
   visual:
-    permalink: "/img/illustration-content-camel-analytics.png"
+    permalink: "/img/sales-enablement-analytics-shares-views.png"
     alt: Sales enablement analytics
   direction: ltr
   class: section-sync
@@ -163,16 +184,16 @@ faqs:
     Highspot describes itself as a “sales enablement platform that delivers enterprise-ready sales enablement in a modern design that sales reps and marketers love”. If you need a large number of integrations (70+) or if you are looking for a platform to build complex custom pages, Highspot might be a fit for you. 
 
     <br/>
-    If you don’t need many integrations, are looking for a Chrome Extension that makes your content available in all your apps, and are looking for a simple approach to enable sales with findable content and the ability to customize buyer experiences, then Content Camel is a fantastic fit.
+    If you don’t need many integrations, are looking for a Chrome or Edge Extension that makes your content available in all your apps, and are looking for a simple approach to enable sales with findable content and the ability to customize buyer experiences, then Content Camel is a fantastic fit.
 - headline: Is Content Camel right for me and my team?
   textline: |
     Content Camel is designed for small and medium sized teams that are focused on improving their sales productivity and making the most out of their existing marketing budget for content. We’ve designed for enterprise-scale performance, delivered at SMB pricing, but with features that make individual reps ramp up quickly and stick with the product. 
 
     <br/>
-    Content Camel is easy to admin and is a fantastic fit for teams with about 5-30+ sellers. 
+    Content Camel is easy to admin and is a fantastic fit for teams with about 5-150+ users. 
 - headline: How much does Content Camel cost?
   textline: |
-    Unlike most of the enterprise sales enablement solutions (like Highspot), Content Camel starts at just $15 per user, with no minimum, no set up costs, and no expensive consulting necessary. That's a huge savings we'd love to see you plow back into great content for your team!
+    Unlike **most** of the enterprise sales enablement solutions (like Highspot), Content Camel starts at just $15 per user (or $12.75/mo annually), with **no minimum**, **no set up costs**, and no expensive consulting necessary. That's a huge savings we'd love to see you plow back into great content for your team!
 
     <br/>
     You can learn more [here on our pricing page](/pricing/).  
@@ -184,16 +205,16 @@ faqs:
     Most teams roll out Content Camel the first or second week after signing up -- after they’ve added and imported their most valuable marketing and sales assets.
 - headline: What type of content can I store in Content Camel?
   textline: |
-    Content Camel allows you to store all content including PDFs (eg ebooks, white papers, battlecards), web page links (eg blog posts, customer stories, industry articles), decks (eg Powerpoint/Keynote slides), images (eg infographics), and sales-focused video content.
+    Content Camel allows you to store all content including PDFs (eg ebooks, white papers, battlecards), web page links (eg blog posts, customer stories, industry articles), videos (Youtube, Vimeo, uploaded), decks (eg Powerpoint/Keynote slides), images (eg infographics), and sales-focused video content.
 
     <br/>
     You can keep content internal (not shared) if you want. Perfect for decks.
 
     <br/>
-    You can easily store web pages -- not the easiest thing to do if you're using drives/boxes today.
+    You can easily store web page links (eg blog posts) -- not the easiest thing to do if you're using drives/boxes today!
 - headline: Does Content Camel offer integrations with ____ ?
   textline: |
-    Content Camel can be used seamlessly with all web apps via our Chrome Extension. 
+    Content Camel can be used seamlessly with all web apps via our Chrome and Edge Extension. 
     
     <br/>
     That means Content Camel can deliver content into tools like Salesforce, Pipedrive, Gmail, Outlook Web, Salesloft, Outreach, Hubspot, and more.
