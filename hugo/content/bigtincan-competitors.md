@@ -2,7 +2,7 @@
 aliases:
 - "/bigtincan-alternative/"
 title: Bigtincan Competitor - Low Cost Alternative | Content Camel
-description: Compare Bigtincan to Content Camel for Sales enablement and marketing content management
+description: Don't wait months to get started. Get the sales content management software you need now! For $15/mo/user. No minimum. No contract. No setup fee. Free Trial!
 authors:
 - contentcamel
 type: landing-page

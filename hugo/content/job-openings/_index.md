@@ -23,7 +23,7 @@ weight:
 aliases: []
 photo_credit: ''
 ---
-Read more about [working at Content Camel](https://www.contentcamel.io/careers).
+Read more about [working at Content Camel](https://www.contentcamel.io/careers/).
 
 <br/>
 

@@ -235,3 +235,23 @@ Both PostCSS and Webpack use `.browserslistrc` to decide on browser support when
   - For development pipelines, this is equal to `development`
   - For production pipelines, this is equal to `production`
   - For Forestry's in-app preview feature, this is equal to `staging`
+
+# Site Structure
+
+Our keyword layout is research and planned and the current structure plan is:
+
+* sales playbook
+  * sales playbook insights from 3 experts
+* sales enablement tools
+* sales enablement
+* sales content management
+* doc tracking
+* sales frameworks
+* marketing resource pages
+
+
+* templates
+  * one pager template
+  * buyer persona template
+  * product messaging template
+  * 

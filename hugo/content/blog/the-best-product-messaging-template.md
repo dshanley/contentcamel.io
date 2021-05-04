@@ -1,6 +1,6 @@
 ---
 title: Product Messaging Template | Get The Free Template
-description: Get a shortcut to building repeatable product messaging - Free. Ensure consistent key messages. Includes the PDF and an editable spreadsheet version.
+description: Learn the secrets to building repeatable product messaging consistent with your brand - Free. Editable template spreadsheet version included.
 date: 2021-03-18T09:00:00-08:00
 authors:
 - dave-shanley

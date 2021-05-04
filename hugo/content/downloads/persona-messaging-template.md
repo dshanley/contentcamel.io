@@ -3,6 +3,7 @@ aliases:
 - "/downloads/marketing-messaging-template/"
 title: Get the Persona Template (Free download)
 headline: Get the Complete Persona Template 
+description: Get your team on the same page with Customer Personas and deliver consistent messaging across platforms. Download a free Persona Template!
 type: download
 layout: single
 publishdate: 2020-02-01 04:00:00 +0000

@@ -2,7 +2,7 @@
 aliases:
 - "/blog/how-to-create-a-consistent-marketing-message/"
 title: Persona Template | Get The Free Template
-description: Develop better personas with a buyer persona template. Includes the an editable buyer persona google sheet.
+description: Develop better personas with a buyer persona template. Includes an editable buyer persona Google sheet. Free template!
 date: 2020-10-28T09:01:56-03:00
 authors:
 - dave-shanley

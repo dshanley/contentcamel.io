@@ -84,14 +84,14 @@ features:
   class: section-sync
   ctas:
     - textline: Watch a demo
-      RelPermalink: "/sales-enablement-demo"
+      RelPermalink: "/sales-enablement-demo/"
       button: true
     - textline: Or Schedule a deep-dive
       RelPermalink: "https://cal.mixmax.com/shanley/cc30"
       button: false
 - headline: Bring all your content together in one place
   textline: "Align content marketing, product marketing and sales enablement by bringing all their assets together inside Content Camel. \n \nGive sales reps the eBooks, datasheets, white papers, blog posts, and videos they need to serve buyers and close deals faster.
-  \n\n[Watch a demo →](/sales-enablement-demo)
+  \n\n[Watch a demo →](/sales-enablement-demo/)
     \n"
   visual:
     permalink: "/img/content-camel-dashboard.png"
@@ -100,7 +100,7 @@ features:
   class: section-sync
 - headline: Easily add offline and online content
   textline: "Content Camel is designed to organize online content like blog posts and offline content like PDFs and spreadsheets. \n \nPick up where Google Drive, Box, Dropbox leave off by helping your sales organizations take advantage of top performing blog posts, industry articles, and marketing collateral organized by funnel stage and content type. \n \nBulk import or add assets individually from Google Drive, URLs, or via direct upload.
-  \n\n[Watch a demo →](/sales-enablement-demo)
+  \n\n[Watch a demo →](/sales-enablement-demo/)
     \ \n</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between;
     padding: 20px 30px;\">\n  
     <div style=\"flex:auto;text-align:center;padding-right: 5px;\">\n    <img
@@ -116,7 +116,7 @@ features:
   class: section-sync
 - headline: Rapid import. Tools for staying organized.
   textline: "Take your existing content mapping, sales collateral, and marketing collateral inventory spreadsheets and upload all assets into Content Camel together. \n\nOrganize assets with content funnel stages, content types, and content tags. 
-  \n\n[Watch a demo →](/sales-enablement-demo)
+  \n\n[Watch a demo →](/sales-enablement-demo/)
     \ \n</p>\n<div style=\"display: flex; align-items: center; justify-content: space-between;
     padding: 20px 100px;\">\n  
     <div style=\"flex:auto;text-align:center;\">\n    <img
@@ -130,7 +130,7 @@ features:
   class: section-sync
 - headline: Improve content discovery
   textline: "Make sure sellers and marketers find what they're looking for every time by easily mapping your content to funnel stages, content types (like eBooks, battlecards, blog posts), and tags. \n\n By assigning funnel stages and asset types, you'll know what content is getting stale and what content drives the most engagement across prospects and customers.
-  \n\n[Watch a demo →](/sales-enablement-demo)"
+  \n\n[Watch a demo →](/sales-enablement-demo/)"
   
   visual:
     permalink: "/img/content-camel-funnel-stage-settings.png"
@@ -139,7 +139,7 @@ features:
   class: section-sync
 - headline: Add custom tags
   textline: "Create and manage custom content tags to add additional context to content assets. \n\n Identify and filter assets by campaign, vertical, industry, and persona. Use tags to flag assets that need to be updated.\n\n Then, go beyond tags to add positioning statements and user-facing information for each asset as you refine your sales plays.
-  \n\n[Watch a demo →](/sales-enablement-demo)"
+  \n\n[Watch a demo →](/sales-enablement-demo/)"
   visual:
     permalink: "/img/content-camel-tags-settings.gif"
     alt: How to set tags to manage your sales content
@@ -156,7 +156,7 @@ features:
   class: section-roots
 - headline: Works everywhere you do
   textline: "Rollout and adopt Content Camel as your sales content management tool right now whether your team is 5, 50, or 500. \n\nOur Chrome extension allows your team to access all the content that admins set up and categorize. Filter by your favorites and see what's been voted up by others. \n\nMore than just the best content search, find, and sharing capabilities, our extension **improves Sales and Marketing communication** with the ability to add wished-for content.
-  \n\n[See a demo →](/sales-enablement-demo)"
+  \n\n[See a demo →](/sales-enablement-demo/)"
   visual:
     permalink: "/img/content-camel-chrome-extension-gmail.png"
     alt: An extension for sales content management

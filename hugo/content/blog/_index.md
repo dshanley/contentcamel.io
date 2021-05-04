@@ -12,7 +12,7 @@ outputs:
 publishdate: 2019-12-31 04:00:00 +0000
 expirydate: 2030-01-01 04:00:00 +0000
 date: 2019-12-31 04:00:00 +0000
-description: 'Discover sales enablement best practices to get the most value out of your marketing and sales content. Get free sales and marketing guides and helpful tips.'
+description: 'Learn sales enablement best practices to optimize your marketing and sales content. Get free sales and marketing guides and helpful tips.'
 images: []
 authors: []
 categories: []

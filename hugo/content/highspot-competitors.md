@@ -51,7 +51,7 @@ features:
     | Contract | **Monthly<br/> no lock-in** | Annual only |
   ctas:
     - textline: Watch a demo
-      RelPermalink: "/sales-enablement-demo"
+      RelPermalink: "/sales-enablement-demo/"
       button: true
   direction: vertical
   class: section-sync

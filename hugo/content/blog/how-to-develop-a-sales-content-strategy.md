@@ -1,7 +1,7 @@
 ---
 aliases: []
 title: How to develop a sales content strategy
-description: Sales Content is essential for meeting the demands of sales. Discover how to create the best content strategy for sales enablement with this complete guide.
+description: Check out our complete guide to Sales Content strategy to learn how to meet demands and exceed expectations. 
 date: 2020-11-05T10:01:00-03:00
 authors:
 - dave-shanley
@@ -109,6 +109,8 @@ Well, imagine a closed deal. Imagine everything the prospect needed to get there
 You craft content like case studies, live demos and scripts, sales decks, and rollout plans with the goal of enabling the prospect to buy (and even sell their internal team). This type of sales content usually “sells itself” and is about delivering value at this late funnel stage.
 
 ![](/uploads/2020/11/content-types-by-funnel-stage.png)
+<div class="center"><em>matching content offers to conversion intents</em></div>
+
 
 In other words, the BoFu is your **last point for conversion** before a sale. Your content for sales confirms what clients already know, gives them confidence in their purchase decisions, and charts a course ahead for implementation success.
 

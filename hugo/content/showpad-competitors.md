@@ -2,12 +2,12 @@
 aliases:
 - "/showpad-alternative/"
 title: Showpad Competitor - Low Cost Alternative | Content Camel
-description: Compare Showpad to Content Camel for sales enablement and marketing content management
+description: Don't wait months to get started. Get the sales content management software you need now! For $15/mo/user. No minimum. No contract. No setup fee. Free Trial!
 authors:
 - contentcamel
 type: landing-page
 layout: landing-page
-date: 2020-07-13 04:00:00 +0000
+date: 2021-03-29 08:00:00 +0000
 inspectlet: true
 blocks: 
 hero:
@@ -26,10 +26,11 @@ hero:
   visual:
     permalink: "/img/illustration-selection-process-searching.png"
     alt: "Showpad alternative"
-  # ctas:
-  # - permalink: https://app.contentcamel.io/signup
-  #   textline: Start Free Trial
-  #   button: true
+  ctas:
+  - permalink: https://app.contentcamel.io/signup
+    textline: Start Free Trial
+    button: true
+    buttonStyle: "primary"
   # - permalink: "#everything-you-need-for-sales-enablement-success"
   #   textline: Learn More
   #   button: false
@@ -43,11 +44,14 @@ features:
     | [Content Management](/tour/#everything-you-need-for-sales-enablement-success) | **✓** | ✓ |
     | [Content Experiences](/tour/#unlock-personalized-sales-content) | **✓** | Interactive Mindmaps |
     | [Content Analytics](/tour/#understand-how-content-is-performing) | **✓** | ✓ |
-    | [Chrome extension](/tour/#works-everywhere-you-do) | **Works everywhere**<br/> Use in Salesloft, Outreach, Salesforce, Pipedrive, Gmail, and more | ✓ |
+    | [Browser extension](/tour/#works-everywhere-you-do) | **Works everywhere**<br/> Use in Salesloft, Outreach, Salesforce, Pipedrive, Gmail, and more | ✓ (*) No Microsoft Edge Add-on|
     | Rapid seller adoption | **✓** | x |
     | Implementation | **Days** | Months<br/> +setup costs |
     | Contract | **Monthly<br/> no lock-in** | Annual only |
-
+  ctas:
+    - textline: Watch a demo
+      RelPermalink: "/sales-enablement-demo/"
+      button: true
   direction: vertical
   class: section-sync
 - headline: "Start streamlining your sales today"
@@ -74,51 +78,73 @@ features:
 
 - headline: Sales enablement Chrome extension
   textline: |
-    Give your sales team the ability to pull in the right piece of content into their existing workflows in Gmail, Salesforce, Drift, Salesloft and more.
+    Give your sales team the ability to pull in the **right piece of content** into their **existing workflows** in Gmail, Salesforce, Drift, Salesloft and more.
+
+    Showpad works as a browser extension, but the interface slows reps down with too many choices and slow search. Content Camel is designed to work with **all** of your web apps. Our goal is to make each individual user as productive as possible.
+
+    In addition to finding and viewing content, give all of your users the ability to get **real time notifications** when sharing with recipients. Boom! Someone just viewed that deck you sent over. Great time to follow up 👍. 
 
     [Learn more about integrating Content Camel →](/tour/#works-everywhere-you-do)
   visual:
-    permalink: "/img/illustration-content-camel-chrome-extension.png"
-    alt: Sales enablement chrome extension
+    permalink: "/img/sales-enablement-browser-extension.png"
+    alt: Sales enablement browser extensions
   direction: ltr
   class: section-sync
-- headline: Search
+- headline: Search better
   textline: |
-    Faceted search enables searching by funnel stage, content type, tags, and across your asset metadata. Make it easy for Sales to discover assets aligned with the buyer's journey.
+    Intelligent search. Smart search. AI-enabled search. Fuzzy matching. Whatever you call it, our search is the most advanced under-the-hood and that means your users will be able to actually **find** what they are looking for.
+    
+    **New users ramp quickly** because they can filter down on **content types** and **funnel stages** answering questions like "what are the top assets used by the team to build awareness?"
+    
+    **All users benefit** from advanced search that applies matching based on phrases and partial words along with our ability to index metadata (like info from your blog posts) to make sure no great content goes *unfound*.
 
-    [Learn more about organizing content →](/tour/#improve-content-discovery)
+    *But you know what?* Admins love our reporting that shows **what's being searched for** and also **what's not being found**, so you can adapt your strategy based on real search volumes.
+
+    [Want to watch a short demo? →](/sales-enablement-demo/#advanced-search-built-for-sales-and-marketing)
   visual:
-    permalink: "/img/illustration-content-camel-search.png"
+    permalink: "/img/sales-enablement-ai-search.png"
     alt: Sales enablement search
   direction: rtl
   class: section-sync
 - headline: Collections
   textline: |
-    Group content into account-based marketing (ABM) campaigns or themed playbooks. **Collections enable easy grouping, filtering and personalization of content.**
+    Content folders. Content collections. Content playbooks. Like Highspot "Spots", **collections in Content Camel** allow you to group content in meaningful sets to speed up reps drilling down into the right content. 
+    
+    Content can exist across many collections and with one click **a collection can become a personalized site**. Perfect for your ABM and content-driven campaigns.
+    
+    **Collections really do enable easy grouping, filtering and personalization of content.**
 
-    [Learn more about collections and sites →](/tour/#unlock-personalized-sales-content)
+    [Check out a demo now →](/sales-enablement-demo/#turn-sales-collateral-into-sites-that-convert)
   visual:
-    permalink: "/img/illustration-content-camel-collections.png"
-    alt: Sales content sites
+    permalink: "/img/sales-enablement-collections.png"
+    alt: Sales content collections
   direction: ltr
   class: section-sync
 - headline: Personalized buyer experiences
   textline: |
-    Based on Collections, give sellers the ability to **deliver tailored microsite pages for your prospects**. Great for ABM and personalized followup.
+    Based on collections, easily give sellers the ability to **deliver tailored microsite pages for your prospects**. Great for ABM and personalized followup. Or use them for **partner channel enablement**. Or use them as **marketing resource pages**. 
 
-    [Learn more about sites →](/tour/#unlock-personalized-sales-content)
+    In Showpad, this is called "Pages" and compares to what you can do in Content Camel site pages. 
+
+    Imagine giving your **entire team** the ability to create pages that are **on-brand, personalized, and speak directly to the buyer**. What would they collect up? 
+
+    Whatever you do with site pages, we know it'll be awesome. And simple. And easy. 
+
+    [Learn more about sites →](/sales-enablement-demo/#turn-sales-collateral-into-sites-that-convert)
   visual:
-    permalink: "/img/illustration-content-camel-sites.png"
-    alt: Sales content sites
+    permalink: "/img/sales-enablement-resource-pages.png"
+    alt: Sales buyer experiences
   direction: rtl
   class: section-sync
 - headline: Analytics
   textline: |
     Getting budget for more great content starts with measuring the impact. Did anyone use those last launch materials? The latest deck? **Now you'll know.**
 
+    From *content aging* to *distribution of content by funnel stage*, you'll be able to **understand your content performance** with a whole new perspective. Review the leaderboard to **discover how your team is activating**. Get reports on the **top searches**, what's not found, and **automate your work** of sending out the weekly new-content added over email.
+
     [Learn more about real time analytics →](/tour/#understand-how-content-is-performing)
   visual:
-    permalink: "/img/illustration-content-camel-analytics.png"
+    permalink: "/img/sales-enablement-analytics-shares-views.png"
     alt: Sales enablement analytics
   direction: ltr
   class: section-sync

@@ -1,7 +1,7 @@
 ---
 aliases: []
 title: Product update - custom domains, thumbnails, bulk import, and more
-description: Get a shortcut to building repeatable marketing messaging - Free. Ensure consistent key messages. Includes the PDF and an editable spreadsheet version.
+description: Now available - set up your custom branded domain, bulk import content, and more. Free trial. No setup fee required.
 date: 2019-12-01T09:01:56-03:00
 authors:
 - dave-shanley

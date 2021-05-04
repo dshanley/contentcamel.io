@@ -103,7 +103,7 @@ notAlternative = true
 home = ["HTML", "RSS", "OpenSearch", "Algolia", "Redirects"]
 [params]
 dateformat = "January 2, 2006"
-description = "Cost effective sales enablement tool that gives sales reps the right content at the right time to have better interactions and more wins. Get a Free Trial!"
+description = "Sales content management with doc tracking, custom resource pages, and content analytics for $15/mo/user. No minimum. No contract. No set up fee. Free Trial!"
 gtmid = "GTM-PBQCVND"
 images = ["/uploads/2018/01/OGimage-01-3x.jpg"]
 [params.algolia]

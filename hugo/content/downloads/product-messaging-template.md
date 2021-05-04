@@ -2,6 +2,7 @@
 aliases: []
 title: Get the Product Messaging Template
 headline: Get the Complete Product Messaging Template
+description: Get your team on the same page with Product Messaging and deliver consistent messaging across platforms. Download a free Product Messaging Template!
 type: download
 layout: single
 publishdate: 2020-02-01 04:00:00 +0000

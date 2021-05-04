@@ -2,6 +2,7 @@
 aliases: []
 title: Get the Sales Content Audit Template
 headline: Get the Complete Sales Content Audit Template
+description: Doing a sales content audit helps keep the entire team on the same page and enables efficiency with the assets you have. Free download!
 type: download
 layout: single
 publishdate: 2020-10-01 04:00:00 +0000

@@ -7,7 +7,7 @@ authors:
 - contentcamel
 type: landing-page
 layout: landing-page
-date: 2020-06-09 04:00:00 +0000
+date: 2021-03-29 08:00:00 +0000
 inspectlet: true
 blocks: 
 hero:
@@ -15,8 +15,8 @@ hero:
   textline: 
   textline: "In the sales enablement space, many companies like **Brainshark**, ShowPad, Highspot, and Seismic are vying to get you on their enterprise sales enablement software. And you bear the costs -- to fund their large sales teams and massive marketing budgets."
   extra: "If you want a **Brainshark alternative that**:<br/><br/>\n\n
-  * prioritizes features your Marketing and Sales teams will use\n\n
-  * keeps your software costs low\n\n
+  * prioritizes sales content management over heavyweight training tools\n\n
+  * keeps your sales stack costs reasonable\n\n
   * allows you to put more budget towards content and campaigns...\n\n
     <br/>
     then **check out Content Camel!**<br/><br/>\n\n
@@ -26,10 +26,11 @@ hero:
   visual:
     permalink: "/img/illustration-selection-process-searching.png"
     alt: "Brainshark alternative"
-  # ctas:
-  # - permalink: https://app.contentcamel.io/signup
-  #   textline: Start Free Trial
-  #   button: true
+  ctas:
+  - permalink: https://app.contentcamel.io/signup
+    textline: Start Free Trial
+    button: true
+    buttonStyle: "primary"
   # - permalink: "#everything-you-need-for-sales-enablement-success"
   #   textline: Learn More
   #   button: false
@@ -47,6 +48,10 @@ features:
     | Rapid seller adoption | **✓** | x |
     | Implementation | **Days** | Months<br/> +setup costs |
     | Contract | **Monthly<br/> no lock-in** | Annual only |
+  ctas:
+    - textline: Watch a demo
+      RelPermalink: "/sales-enablement-demo/"
+      button: true
 
   direction: vertical
   class: section-sync
@@ -72,43 +77,63 @@ features:
     alt: Sales enablement gallery
   class: section-sync
 
-- headline: Sales enablement Chrome extension
+- headline: Sales enablement browser extensions
   textline: |
-    Give your sales team the ability to pull in the right piece of content into their existing workflows in Gmail, Salesforce, Drift, Salesloft and more.
+    Give your sales team the ability to pull in the **right piece of content** into their **existing workflows** in Gmail, Salesforce, Drift, Salesloft and more.
+
+    While Brainshark only offers a [screen recorder](https://chrome.google.com/webstore/detail/brainshark-screen-recorde/emblehfcjcbcmnnhclikihlbikobocmk) extension for sales training and coaching, Content Camel is designed to work with **all** of your web apps. Our goal is to make each individual user as productive as possible.
+
+    In addition to finding and viewing content, give all of your users the ability to get **real time notifications** when sharing with recipients. Boom! Someone just viewed that deck you sent over. Great time to follow up 👍. 
 
     [Learn more about integrating Content Camel →](/tour/#works-everywhere-you-do)
   visual:
-    permalink: "/img/illustration-content-camel-chrome-extension.png"
+    permalink: "/img/sales-enablement-browser-extension.png"
     alt: Sales enablement chrome extension
   direction: ltr
   class: section-sync
-- headline: Search
+- headline: Search better
   textline: |
-    Faceted search enables searching by funnel stage, content type, tags, and across your asset metadata. Make it easy for Sales to discover assets aligned with the buyer's journey.
+    Intelligent search. Smart search. AI-enabled search. Fuzzy matching. Whatever you call it, search in Content Camel is the most advanced under-the-hood and that means your users will be able to actually **find** what they are looking for.
+    
+    **New users ramp quickly** because they can filter down on **content types** and **funnel stages** answering questions like "what are the top assets used by the team to build awareness?"
+    
+    **All users benefit** from advanced search that applies matching based on phrases and partial words along with our ability to index metadata (like info from your blog posts) to make sure no great content goes *unfound*.
 
-    [Learn more about organizing content →](/tour/#improve-content-discovery)
+    *But you know what?* Admins love our reporting that shows **what's being searched for** and also **what's not being found**, so you can adapt your strategy based on real search volumes.
+
+    [Want to watch a short demo? →](/sales-enablement-demo/#advanced-search-built-for-sales-and-marketing)
   visual:
-    permalink: "/img/illustration-content-camel-search.png"
+    permalink: "/img/sales-enablement-ai-search.png"
     alt: Sales enablement search
   direction: rtl
   class: section-sync
 - headline: Collections
   textline: |
-    Group content into account-based marketing (ABM) campaigns or themed playbooks. **Collections enable easy grouping, filtering and personalization of content.**
+    Content folders. Content collections. Content playbooks. Unlike sales enablement portals in Brainshark focused solely on training, **collections in Content Camel** allow you to group content in meaningful sets to speed up reps drilling down into the right content. The content could be internal-only content for training or external facing content, shared with prospects and customers.
+    
+    Content can exist across many collections and with one click **a collection can become a personalized site**. Perfect for your ABM and content-driven campaigns.
+    
+    **Collections really do enable easy grouping, filtering and personalization of content.**
 
-    [Learn more about collections and sites →](/tour/#unlock-personalized-sales-content)
+    [Check out a demo now →](/sales-enablement-demo/#turn-sales-collateral-into-sites-that-convert)
   visual:
-    permalink: "/img/illustration-content-camel-collections.png"
+    permalink: "/img/sales-enablement-collections.png"
     alt: Sales content sites
   direction: ltr
   class: section-sync
 - headline: Personalized buyer experiences
   textline: |
-    Based on Collections, give sellers the ability to **deliver tailored microsite pages for your prospects**. Great for ABM and personalized followup.
+    Based on collections, easily give sellers the ability to **deliver tailored microsite pages for your prospects**. Great for ABM and personalized followup. Or use them for **partner channel enablement**. Or use them as **marketing resource pages**. 
 
-    [Learn more about sites →](/tour/#unlock-personalized-sales-content)
+    Imagine giving your **entire team** the ability to create pages that are **on-brand, personalized, and speak directly to the buyer**. What would they collect up? 
+
+    As Brainshark is really only used for training and enabling the team with internal resources, publishing microsites and prospect/customer/partner portals doesn't really fit within their solution.
+    
+    Whatever you do with site pages, we know it'll be awesome. And simple. And easy. 
+
+    [Learn more about sites →](/sales-enablement-demo/#turn-sales-collateral-into-sites-that-convert)
   visual:
-    permalink: "/img/illustration-content-camel-sites.png"
+    permalink: "/img/sales-enablement-resource-pages.png"
     alt: Sales content sites
   direction: rtl
   class: section-sync
@@ -116,9 +141,11 @@ features:
   textline: |
     Getting budget for more great content starts with measuring the impact. Did anyone use those last launch materials? The latest deck? **Now you'll know.**
 
+    From *content aging* to *distribution of content by funnel stage*, you'll be able to **understand your content performance** with a whole new perspective. Review the leaderboard to **discover how your team is activating**. Get reports on the **top searches**, what's not found, and **automate your work** of sending out the weekly new-content added over email.
+
     [Learn more about real time analytics →](/tour/#understand-how-content-is-performing)
   visual:
-    permalink: "/img/illustration-content-camel-analytics.png"
+    permalink: "/img/sales-enablement-analytics-shares-views.png"
     alt: Sales enablement analytics
   direction: ltr
   class: section-sync
@@ -155,11 +182,10 @@ features:
 faqs:
 - headline: Who is Brainshark a best fit for?
   textline: |
-    Brainshark is really just a coaching and training platform that's been around for decades. Brainshark describes itself as “preparing all
-    your client-facing teams with the knowledge and skills to perform at the highest level”, but addresses sales content management through integrations only. If you are a very large enterprise that needs sales training and coaching with scorecards more than sales enablement focused on getting buyers the right content, then Brainshark may be a fit. 
+    Brainshark is really just a coaching and training platform that's been around for decades. Brainshark describes itself as “preparing all your client-facing teams with the knowledge and skills to perform at the highest level”, but addresses sales content management through integrations only. If you are a very large enterprise that needs sales training and coaching with scorecards more than sales enablement focused on getting buyers the right content, then Brainshark may be a fit. 
     
     <br/>
-    If you don’t need advanced coaching and training tools, are looking for a Chrome Extension that makes your content available in all your apps, and are looking for a simple approach to enable sales with findable content and the ability to customize buyer experiences, then Content Camel is a fantastic fit.
+    If you don’t need advanced coaching and training tools, are looking for a Browser Extension that makes your content available in all your apps, and are looking for a simple approach to enable sales with findable content and the ability to customize buyer experiences, then Content Camel is a fantastic fit.
 - headline: Is Content Camel right for me and my team?
   textline: |
     Content Camel is designed for small and medium sized teams that are focused on improving their sales productivity and making the most out of their existing marketing budget for content. We’ve designed for enterprise-scale performance, delivered at SMB pricing, but with features that make individual reps ramp up quickly and stick with the product. 

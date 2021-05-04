@@ -46,7 +46,7 @@ Forestry.io is on a mission to help people build a better web. We’re building 
 
 We’re a growing team, headquartered in PEI, Canada with roughly half our staff working remotely. We take our time hiring, and we hire for the person, not simply for the role. We value respect and empathy and we strive to reflect those values in our hiring process.
 
-Read more about our [culture, values, hiring process and perks](https://forestry.io/careers).
+Read more about our [culture, values, hiring process and perks](https://forestry.io/careers/).
 
 ## Apply
 

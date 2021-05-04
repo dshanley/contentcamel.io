@@ -3,6 +3,7 @@ aliases:
 - "/newsletter/"
 title: Join the Content Camel Newsletter
 headline: Join the Content Camel Newsletter
+description: Sign up for interesting, new, and great content around marketing, sales and driving growth. Get the real deal with none of the spam.
 type: join-newsletter
 weight: 1
 publishdate: 2019-07-01 04:00:00 +0000
