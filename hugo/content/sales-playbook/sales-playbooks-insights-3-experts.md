@@ -187,7 +187,7 @@ We’ve created an in-depth article and template for creating [Ideal Customer Pr
 
 Getting a documented version of your ICPs will help you to structure your pitch to appeal to the needs of your best buyers, accelerate your sales process, and increase your win rate.
 
-### 2: Understand your competition
+### 2. Understand your competition
 
 Understand your competitors and what niche you fill; **what would take your place if your company stopped existing today?** 
 
@@ -197,7 +197,7 @@ These can be used to break down the differences between your offering and theirs
 
 Hubspot has a [battle card template](https://blog.hubspot.com/sales/battle-cards) and a deep dive.
 
-### 3: Understand customer pain points
+### 3. Understand customer pain points
 
 Demonstrating the pain points in your prospect's process (current state) without your service/product is more effective than just listing the virtues of your product or service. 
 
@@ -207,7 +207,7 @@ Defining triggers and pain points gets added to your playbook. And is part of th
 
 Check out our article on [structuring a successful Sales Content Strategy](/blog/how-to-develop-a-sales-content-strategy/) from initial contact to converting prospects to closed won deals. It's a great deep dive on amplifying those pain points 👍.
 
-### 4: Start early
+### 4. Start early
 
 Stephanie heavily advocates for **in-depth client research** _before_ ever even reaching out to a potential customer. 
 
