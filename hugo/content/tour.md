@@ -8,7 +8,7 @@ authors:
 - contentcamel
 type: landing-page
 layout: landing-page
-date: 2020-07-16 04:00:00 +0000
+date: 2021-05-07 04:00:00 +0000
 inspectlet: true
 menu:
   footer:
@@ -19,7 +19,7 @@ menu:
 blocks: 
 hero:
   headline: "**Speed** your buyer's journey"
-  textline: Take control of your Google Drive, Dropbox, Box and OneDrive marketing and sales content. [Learn More](#everything-you-need-for-sales-enablement-success)
+  textline: Take control of your Google Drive, Dropbox, Box and SharePoint marketing and sales content. [Learn More](#everything-you-need-for-sales-enablement-success)
   visual:
     permalink: "/img/sales-enablement-journey.png"
     alt: "Sales enablement progress"

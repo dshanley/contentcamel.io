@@ -45,25 +45,30 @@ parent = "Sales Enablement"
 url = "https://www.contentcamel.io/highspot-competitors/"
 weight = 2
 [[menu.footer]]
-name = "Seismic alternative"
-parent = "Sales Enablement"
-url = "https://www.contentcamel.io/alternatives/seismic-competitors/"
-weight = 3
-[[menu.footer]]
 name = "Showpad alternative"
 parent = "Sales Enablement"
 url = "https://www.contentcamel.io/showpad-competitors/"
+weight = 3
+[[menu.footer]]
+name = "Uberflip pricing"
+parent = "Sales Enablement"
+url = "https://www.contentcamel.io/uberflip-pricing/"
 weight = 4
+[[menu.footer]]
+name = "Seismic alternative"
+parent = "Sales Enablement"
+url = "https://www.contentcamel.io/alternatives/seismic-competitors/"
+weight = 5
 [[menu.footer]]
 name = "Bigtincan alternative"
 parent = "Sales Enablement"
 url = "https://www.contentcamel.io/bigtincan-competitors/"
-weight = 5
+weight = 6
 [[menu.footer]]
 name = "How to do a sales content audit"
 parent = "Sales Enablement"
 url = "https://www.contentcamel.io/blog/how-to-do-a-sales-content-audit/"
-weight = 6
+weight = 7
 [[menu.main]]
 identifier = "useraccount"
 name = "My Account"

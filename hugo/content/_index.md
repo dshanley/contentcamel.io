@@ -90,37 +90,39 @@ brand_logos:
     - permalink: /showcase
       textline: View Showcase
 features:
-- headline: "Marketing empowering Sales at every stage"
+- headline: "Content tools for Sales and Marketing"
   textline: |
-    Sales doesn't just magically receive down-funnel leads after sequenced touchpoints from Marketing.
+    Today, your sellers are spending **too much time hunting** down the perfect asset that's critical to moving your deals forward. 
     
-    You know that now more than ever **buyers are doing their own evaluation** and are dropping into the sales conversation all across your funnel. 
-    
-    So, **meet your buyer where they are** and **put your great content to work with Content Camel sales enablement tools**.
+    You've either **outgrown** your Google Drive, Dropbox, Box, or Sharepoint. Or you're sick of the high-cost overhead of Highspot, Seismic, Showpad, and others. 
+
+    Content Camel is the choice for companies **scaling their sales operations** and investing in **great content creation** to **close the gap on the competition** and **win**.
   ctas:
     - textline: Learn more
       RelPermalink: "/tour/"
       button: false
   visual:
-    permalink: "/img/marketing-old-way-new-way.png"
-    alt: (Gartner) Marketing the New Way
+    permalink: "/img/sales-content-management-search-google-drive-content-camel.png"
+    alt: Sales content management search
   direction: ltr
   class: section-roots
-- headline: Enable Sellers and Marketers to deliver the right content
+- headline: Connect Sales actions to Sales results
   textline: |
-    Your team can't use what they can't find. Content Camel unravels the mystery of sales enablement and your collateral: PDFs, blog posts, videos, webpages, webinars, links, battlecards, decks -- all in one place. 
+    After you **easily upload and link** your ebooks, one-pagers, whitepapers, sales decks, videos, battle cards, and more, you'll be able to go **way beyond Drives** to **track sales actions** and deliver insights into **sales results**.
+
+    Give sellers the ability to **link, share, and track collateral**. Build **custom collections** and **site resource pages** in minutes for your personalized campaigns or channel sales. 
     
-    Upload content directly into Content Camel or link to the original location of the asset.
+    Understand what Sales is using to **close deals** and **double-down on what's working** to **secure future pipeline**.
   visual:
-    permalink: "/img/contentcamel-main-sales-enablement-drive.png"
-    alt: Organize Google Drive for Sales Enablement
+    permalink: "/img/sales-enablement-doc-tracking.png"
+    alt: Doc tracking for sales enablement
   direction: rtl
   class: section-sync
 - headline: Organized for Sellers and Marketers
   textline: |
-    Configure funnel stages, content types, and tags, so Sales knows which assets to use at each key point of the sales process.
+    Configure **funnel stages**, **content types**, and tags, so Sales knows which assets to use at each stage of the sales process and buyers journey. **Group content** by **product, industry, and region** for expanding teams that are covering verticals and multiple product lines.
 
-    Finally, a sales enablement tool that's a great fit for both Sales *and* Marketing.
+    Report on everything that's working (and not), so you can put your content marketing investment to work in the field.
 
     [Learn more →](/tour/)
   visual:
@@ -130,9 +132,11 @@ features:
   class: section-sync
 - headline: Rapid rollout and fast adoption
   textline: |
-    Most sales enablement tools and content management solutions are overly complicated and too complex to quickly roll out to your team. 
+    Most **sales enablement tools** and content management solutions are overly complicated and too complex to quickly roll out to your team. 
     
-    With Content Camel as your sales enablement tool, you'll give everyone access to content that converts -- wherever they are working -- with our Chrome Extension. 
+    With **Content Camel** as your sales enablement tool, you'll give **everyone access to content that converts** -- wherever they are working -- with our Browser Extensions.
+    
+    Zero training overhead and easy set up mean that you can get started today.
 
     [Learn more →](/tour/)
   visual:
@@ -142,7 +146,7 @@ features:
   class: section-sync
 - headline: Deliver personalized pages in minutes
   textline: |
-    Accelerate pipeline and your buyer's decision making process with super easy content grouping and publishing as branded pages.
+    **Accelerate pipeline** and your buyer's decision making process with super easy **content grouping** and **publishing as branded pages**.
 
     [Learn more →](/tour/#unlock-personalized-sales-content)
   visual:
@@ -152,7 +156,10 @@ features:
   class: section-sync
 cta:
   headline: Wrangle your content. Drop the Drive.
-  textline: Bring your content together in one place, enable your sales team to have better conversations with prospects, prove the impact of content marketing and close more deals.
+  textline: |
+    **One place** for your winning content. **Better** sales conversations. \
+    **Smoother** buyer's journey. \
+    **Close more deals**.
   ctas: 
     - RelPermalink: https://app.contentcamel.io/signup
       textline: Try for Free

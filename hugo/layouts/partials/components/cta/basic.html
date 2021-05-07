@@ -1,7 +1,7 @@
 <section class="section section-cta center">
   <div class="container">
     <h2 class="section--title">{{ .headline | default "Wrangle your content. Drop the Drive." }}</h2>
-    <p class="section--sub is-center">{{ .textline | default "Bring your content together in one place, enable your sales team to have better conversations with prospects, prove the impact of content marketing and close more deals." }}</p>
+    <p class="section--sub is-center">{{ .textline | default "Bring your content together in one place, enable your sales team to have better conversations with prospects, prove the impact of content marketing and close more deals." | markdownify }}</p>
     <br><br>
     {{- with .ctas -}}
       {{- range . -}}

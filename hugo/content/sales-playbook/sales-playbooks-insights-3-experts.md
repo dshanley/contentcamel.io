@@ -8,7 +8,7 @@ type: single
 layout: single
 date: 2021-04-30T09:01:56-03:00
 authors:
-- dave-shanley
+- will-arniotis
 publishdate: 2021-04-30T04:00:00.000+00:00
 expirydate: 2030-01-01T04:00:00.000+00:00
 headline: 'Discover sales playbook insights from 3 sales leaders'
