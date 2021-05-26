@@ -1,0 +1,39 @@
+{{- if and .headline .textline -}}
+<section class="hero">
+  <div class="hero--content-extra">
+
+    <div class="container">
+      <div class="hero--text-block">
+        <h1 class="hero--title">{{ markdownify .headline }}</h1>
+        <div class="hero--sub">{{ markdownify .textline }}</div>
+        <div class="hero-cta">
+        {{- range .ctas -}}
+          <a href="{{ .permalink }}" class="button big {{ .buttonStyle }}" data-proofer-ignore>{{ .textline }}</a>
+        {{- end -}}
+        </div>
+        <div class="hero--sub">{{ markdownify .extra }}</div>
+        {{- range .productctas -}}
+          <br>
+          <a href="{{ .permalink }}" class="button medium {{ .buttonStyle }}" data-proofer-ignore>{{ .textline }}</a>
+        {{- end -}}
+      </div>
+    </div>
+    <!-- either visual, video, or none -->
+    {{- if .visual -}}
+      {{- with .visual -}}
+      <img src="{{ .permalink }}" class="factory-image desktop-only {{ .class }}" alt="{{ .alt }}"/>
+      <img src="{{ .permalink }}" class="factory-image mobile-only {{ .class }}" alt="{{ .alt }}"/>
+      {{- partial "cloudinary/image" (dict "pg" $.pg "preset" "feature" "image" .permalink "alt" (.alt | default .permalink)) }}
+      {{- end -}}
+    {{- else if .video -}}
+      {{- with .video -}}
+        {{- partial "youtube/embed" .path -}}
+      {{- end -}}
+    {{- end -}}
+    
+    
+
+  </div>
+  
+</section>
+{{- end -}}
