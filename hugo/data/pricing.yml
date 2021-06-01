@@ -29,12 +29,14 @@ plans:
   buttonText: Start Trial
   buttonUrl: https://app.contentcamel.io/signup
   planItems:
-  - text: Up to 100 users
+  - text: Up to 250 users
   - text: Weekly digest notifications
     info: Keep your team up to date with weekly announcement of new content and reminders of the current month's performing content.
   - text: Content audit export
     info: Track and reveal what content is aging out and run custom reports.
   - text: Custom branding on URLs and buyer experiences
+    info: Customize the look and feel of share URLs and branding on buyer experience pages
+  - text: 250G storage, unlimited assets
     info: Customize the look and feel of share URLs and branding on buyer experience pages
   - text: Business support
     info: Median first response time under 30 minutes
