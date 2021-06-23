@@ -65,7 +65,8 @@
   grid-template-columns: 1fr 3.5rem;
   grid-template-areas:
     "pills cta"
-    "title cta";
+    "title cta"
+    "info cta";
   background-color: $color-white;
   border-radius: 0 0 0.3rem 0.3rem;
   border-top: 1px solid $color-grey;
@@ -91,6 +92,13 @@
   color: $color-medium-dark;
   font-weight: 400;
 }
+.starter-card--positioning {
+  font-size: 1rem;
+  font-weight: 400;
+  grid-area: info;
+  color: $color-medium-dark;
+}
+
 .starter-card--cta {
   grid-area: cta;
   width: 3.5rem;

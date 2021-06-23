@@ -1,0 +1,52 @@
+---
+tools:
+- title: Accent Technologies
+  positioning: 
+    headline: “THE WORLD'S MOST POWERFUL SALES ENABLEMENT”
+    keypoints:
+      - text: The right content and guidance at the right time
+      - text: THE NEW SALES ENABLEMENT POWERED BY AI
+    moreInfo: Powered through AI and Data Science, accent technologies offer the most powerful sales enablement solutions on the market. It provides sales and marketing teams with an opportunity to collaborate and implement revenue-generating objectives to score maximum conversions. From managing your content and suggesting personalized content, accent offers accessibility for reps with detailed insights and resources to engage buyers. All that is accessible on all devices to make the process more convenient, and efficient. Accent’s AI-driven solution is going to improve your decision-making with better insights into buyer behavior. 
+  image: /img/sales-enablement-directory/accent-technologies.com.png
+  homepage: https://accent-technologies.com/
+  links:
+    - link: https://www.capterra.com/p/159134/Accent-Connect/
+      text: Accent Connect on Capterra
+  filters: 
+    - name: Sales Content Management
+- title: FOO Technologies
+  positioning: 
+    headline: “THE WORLD'S MOST POWERFUL SALES ENABLEMENT”
+    keypoints:
+      - text: The right content and guidance at the right time
+      - text: THE NEW SALES ENABLEMENT POWERED BY AI
+    moreInfo: Powered through AI and Data Science, accent technologies offer the most powerful sales enablement solutions on the market. It provides sales and marketing teams with an opportunity to collaborate and implement revenue-generating objectives to score maximum conversions. From managing your content and suggesting personalized content, accent offers accessibility for reps with detailed insights and resources to engage buyers. All that is accessible on all devices to make the process more convenient, and efficient. Accent’s AI-driven solution is going to improve your decision-making with better insights into buyer behavior. 
+  image: /img/sales-enablement-directory/accent-technologies.com.png
+  homepage: https://accent-technologies.com/
+  links:
+    - link: https://www.capterra.com/p/159134/Accent-Connect/
+      text: Accent Connect on Capterra
+  filters: 
+    - name: Sales Content Management
+- title: BAZ Technologies
+  positioning: 
+    headline: “THE WORLD'S MOST POWERFUL SALES ENABLEMENT”
+    keypoints:
+      - text: The right content and guidance at the right time
+      - text: THE NEW SALES ENABLEMENT POWERED BY AI
+    moreInfo: Powered through AI and Data Science, accent technologies offer the most powerful sales enablement solutions on the market. It provides sales and marketing teams with an opportunity to collaborate and implement revenue-generating objectives to score maximum conversions. From managing your content and suggesting personalized content, accent offers accessibility for reps with detailed insights and resources to engage buyers. All that is accessible on all devices to make the process more convenient, and efficient. Accent’s AI-driven solution is going to improve your decision-making with better insights into buyer behavior. 
+  image: /img/sales-enablement-directory/accent-technologies.com.png
+  homepage: https://accent-technologies.com/
+  links:
+    - link: https://www.capterra.com/p/159134/Accent-Connect/
+      text: Accent Connect on Capterra
+  filters: 
+    - name: CRM
+filters:
+- name: Sales Content Management
+- name: CRM
+- name: Call Tools
+filters:
+- name: Sales Content Management
+- name: CRM
+- name: Call Tools

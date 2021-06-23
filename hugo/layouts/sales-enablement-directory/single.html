@@ -1,0 +1,53 @@
+{{- define "json-ld" -}} 
+{{- partial "seo/json-ld/organization" . -}} 
+{{- end -}} 
+{{- define "main" -}}
+{{- $starters := $.Site.Data.salesEnablementTools.tools -}}
+{{- $filters := $.Site.Data.salesEnablementTools.filters -}}
+
+<main class="starter-list-wrapper">
+  <div class="container starters-container">
+    <section class="starters-header">
+      <h2 class="starters-title">{{ .Params.headline | default .Title }}</h2>
+    </section>
+    <nav class="starters-nav">
+      <ul class="starters-filter-list">
+        <li class="starters-filter-option">
+          <button class="starter-filter starters-filter-button pill black" data-filter="">All</button>
+        </li>
+        {{ range $filters }}
+          <li class="starters-filter-option">
+            <button class="starter-filter starters-filter-button pill" data-filter="{{ .name }}">{{ .name }}</button>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+    <section class="section-starter-grid">
+      <div class="starter-grid">
+        {{ range $starters }}
+          <div class="starter-grid--item" data-groups="{{ range .filters }}{{ .name }},{{ end }}">
+            {{ partial "components/sales-enablement-directory/tool.html" (dict "starter" . "ctx" $) }}
+          </div>
+        {{ end }}
+      </div>
+    </section>
+    <section class="starters-footer">
+      <h2 class="starters-title">Ready to take sales enablement to the next level?</h2>
+      <a href="https://app.contentcamel.io/signup" class="button big black" data-proofer-ignore>Try Content Camel</a>
+      <br/>
+      <br/>
+    </section>
+
+    {{- with .Params.faqs -}}
+    <section class="section faq">
+      <div class="container">
+        {{- range . -}} {{- if and .headline .textline -}} 
+        {{- partial "components/faq" (dict "headline" .headline "textline" .textline) -}} 
+        {{- end -}} {{- end -}}
+      </div>
+    </section>
+  </div>
+</main>
+
+{{- end -}} 
+{{- end -}} 

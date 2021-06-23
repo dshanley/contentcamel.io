@@ -1,0 +1,48 @@
+<div class="starter-card">
+  <div class="starter-card--image-container">
+      <a href="{{ .starter.homepage }}" target="_blank" class="starter-card--preview-link">{{ partial "svg" (dict "id" "eye" "class" "preview-link--icon" "width" "24" "height" "24") }}
+          Visit</a>
+      <!-- <img
+          loading="lazy"
+          src="{{ .ctx.Site.Params.cloudinary.baseurl }}/w_280,h_210,c_fill,f_auto,q_40,e_blur:200/{{ .ctx.Site.BaseURL }}/{{ .starter.image }}"
+          data-src="{{ .ctx.Site.Params.cloudinary.baseurl }}/w_400,h_300,c_fill,f_auto/{{ .ctx.Site.BaseURL }}/{{ .starter.image }}"
+          data-srcset="{{ .ctx.Site.Params.cloudinary.baseurl }}/w_400,h_300,c_fill,f_auto/{{ .ctx.Site.BaseURL }}/{{ .starter.image }} 1x,
+          {{ .ctx.Site.Params.cloudinary.baseurl }}/w_800,h_600,c_fill,f_auto/{{ .ctx.Site.BaseURL }}/{{ .starter.image }} 2x"
+          alt="{{ .starter.name }} - Preview Image" class="lazyload starter-card--image"> -->
+      <img src="{{ .starter.image }}" />
+  </div>
+  <div class="starter-card--info">
+      
+      <h2 class="starter-card--title">{{ .starter.title }}
+          {{ if .starter.positioning.headline }}
+              <span class="starter-card--subtitle">{{ .starter.positioning.headline }}</span>
+          {{ end }}
+      </h2>
+      <div class="starter-card--positioning">
+        <em>How they position it:</em><br/>
+        {{ if starter.positioning.keypoints }}
+        <ul>
+          {{ range .starter.positioning.keypoints }}
+            <li>{{ .text }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+        {{ .starter.positioning.moreInfo}}
+        <br/>
+        {{ if .starter.links }}
+        <em>Additional links:</em><br/>
+        <ul>
+          {{ range .starter.links }}
+            <li><a href="{{ .link }}">{{ .text }}</a></li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+      
+  </div>
+  <div class="starter-card--pills">
+    {{ range .starter.filters }}
+        <span class="pill ssg">{{ .name }}</span>
+    {{ end }}
+</div>
+</div>

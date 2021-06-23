@@ -223,7 +223,7 @@ Before you make the call and kickoff your campaigns, you'll want to:
 *   Create a [Buyer Persona](/blog/how-to-create-a-persona-template/)
 *   Conduct **territory research**
 *   Understand your target’s **company culture**
-*   Create [messaging templates](hugo/content/blog/the-best-product-messaging-template/) for the target
+*   Create [messaging templates](/blog/the-best-product-messaging-template/) for the target
 
 
 ## Perfect Your Pitch
