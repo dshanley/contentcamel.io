@@ -21,7 +21,9 @@ module.exports = function(ctx = {}) {
       "cssnano": (isProduction) ? {autoprefixer: false} : false,
       "laggard": {},
       "postcss-reporter": {},
-      "postcss-browser-reporter": (isProduction) ? {} : false
+      // DS - commented out due to build error
+      // TODO resolve build error
+      // "postcss-browser-reporter": (isProduction) ? {} : false
     }
   }
 }
