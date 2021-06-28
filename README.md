@@ -254,4 +254,4 @@ Our keyword layout is research and planned and the current structure plan is:
   * one pager template
   * buyer persona template
   * product messaging template
-  * 
+
